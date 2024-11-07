@@ -2,12 +2,13 @@ let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
 
+// Start individual exam from a specific JSON file
 function startExam(file) {
     if (isExamInProgress) {
         alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
         return;
     }
-    
+
     fetch(file)
         .then(response => response.json())
         .then(data => {
@@ -19,26 +20,49 @@ function startExam(file) {
         .catch(error => console.error("Lỗi khi tải file JSON:", error));
 }
 
+// Start exam from all JSON files for the final test
+function startExamForAll() {
+    if (isExamInProgress) {
+        alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
+        return;
+    }
+
+    const files = ['data/bai1.json', 'data/bai2.json', 'data/bai3.json', 'data/bai4.json', 'data/bai5.json', 'data/bai6.json'];
+    const questions = [];
+
+    Promise.all(files.map(file => fetch(file).then(response => response.json())))
+        .then(results => {
+            results.forEach(result => questions.push(...result));
+            const randomQuestions = getRandomQuestions(questions, 50); // Get 50 random questions
+            displayQuestions(randomQuestions);
+            isExamInProgress = true;
+            document.getElementById("submit-btn").style.display = "block";
+        })
+        .catch(error => console.error("Lỗi khi tải file JSON:", error));
+}
+
+// Randomly select 'count' questions from a list
 function getRandomQuestions(questions, count) {
     const shuffled = questions.sort(() => 0.5 - Math.random());
     return shuffled.slice(0, count);
 }
 
+// Display questions on the page
 function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
-    questionsContainer.innerHTML = ""; // Xóa nội dung cũ
+    questionsContainer.innerHTML = ""; // Clear old content
 
     questions.forEach((question, index) => {
         const questionDiv = document.createElement("div");
         questionDiv.classList.add("question");
-        questionDiv.dataset.correctAnswer = question.correct_answer; // Đặt đáp án đúng vào thuộc tính data
+        questionDiv.dataset.correctAnswer = question.correct_answer; // Store correct answer
 
-        // Hiển thị câu hỏi
+        // Display question text
         const questionText = document.createElement("p");
         questionText.textContent = `${index + 1}. ${question.question_direction}`;
         questionDiv.appendChild(questionText);
 
-        // Hiển thị các lựa chọn
+        // Display answer options
         question.answer_option.forEach(option => {
             const label = document.createElement("label");
             const input = document.createElement("input");
@@ -54,6 +78,7 @@ function displayQuestions(questions) {
     });
 }
 
+// Submit exam and display results
 function submitExam() {
     const questionsContainer = document.getElementById("questions");
     const resultContainer = document.getElementById("result");
@@ -62,13 +87,13 @@ function submitExam() {
     correctAnswers = 0;
     userAnswers = [];
 
-    // Kiểm tra đáp án của người dùng
+    // Check user answers
     const questions = document.querySelectorAll('.question');
     questions.forEach((questionDiv, index) => {
         const question = questionDiv.querySelector('p').textContent;
         const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
         const correctAnswer = questionDiv.dataset.correctAnswer;
-        
+
         let userAnswerText = "Chưa chọn";
         if (selectedOption) {
             const userAnswer = selectedOption.value;
@@ -86,7 +111,10 @@ function submitExam() {
         }
     });
 
-    // Hiển thị kết quả
+    // Display results
+    const totalQuestions = questions.length;
+    const score = ((correctAnswers / totalQuestions) * 10).toFixed(2); // Score out of 10
+
     questionsContainer.innerHTML = "<h2>Kết quả bài kiểm tra</h2>";
     userAnswers.forEach((answer, index) => {
         const answerDiv = document.createElement('div');
@@ -99,7 +127,7 @@ function submitExam() {
         questionsContainer.appendChild(answerDiv);
     });
 
-    scoreElement.textContent = `Số câu trả lời đúng: ${correctAnswers}`;
+    scoreElement.textContent = `Điểm của bạn: ${score} (Số câu trả lời đúng: ${correctAnswers}/${totalQuestions})`;
     resultContainer.style.display = "block";
     document.getElementById("submit-btn").style.display = "none";
     isExamInProgress = false;
