@@ -1,0 +1,279 @@
+[
+    {
+      "id": 1,
+      "question_direction": "Khẳng định Đảng Cộng sản “như người cầm lái” cho con thuyền là quan điểm nhất quán của Hồ Chí Minh về … của Đảng Cộng sản Việt Nam trong suốt cả quá trình cách mạng.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tính chất" },
+        { "id": "2", "value": "Vận mệnh" },
+        { "id": "3", "value": "Sức chiến đấu" },
+        { "id": "4", "value": "Vai trò lãnh đạo" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 2,
+      "question_direction": "Cán bộ, đảng viên phải là những người luôn luôn phòng và chống …",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Các tiêu cực" },
+        { "id": "2", "value": "Bệnh lười biếng" },
+        { "id": "3", "value": "Tư túng" },
+        { "id": "4", "value": "Bảo thủ, trì trệ" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "question_direction": "Chọn từ thích hợp để hoàn chỉnh phát biểu của Hồ Chí Minh: “… là những người đem chính sách của Đảng, của Chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho Chính phủ hiểu rõ, để đặt chính sách cho đúng”.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Bộ đội" },
+        { "id": "2", "value": "Công chức" },
+        { "id": "3", "value": "Cán bộ" },
+        { "id": "4", "value": "Đảng viên" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 4,
+      "question_direction": "Đảng Cộng sản Việt Nam do Hồ Chí Minh sáng lập và rèn luyện là một đảng chính trị tồn tại và phát triển theo những quan điểm của … về đảng kiểu mới của giai cấp vô sản.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "C. Mác" },
+        { "id": "2", "value": "Ph. Ăngghen" },
+        { "id": "3", "value": "C. Mác và Ph. Ăngghen" },
+        { "id": "4", "value": "V.I. Lênin" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 5,
+      "question_direction": "Dùng cụm từ thích hợp vào điền vào chỗ trống để hoàn chỉnh phát biểu sau của chủ tịch Hồ Chí Minh: “Mỗi đảng viên và cán bộ phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người … thật trung thành của nhân dân”.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đầy tớ" },
+        { "id": "2", "value": "Lãnh đạo" },
+        { "id": "3", "value": "Phục vụ" },
+        { "id": "4", "value": "Công bộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 6,
+      "question_direction": "Theo quan điểm Hồ Chí Minh, nhà nước của nhân dân là nhà nước mà tất cả mọi ….. trong nhà nước và trong xã hội đều thuộc về nhân dân.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cán bộ, công chức" },
+        { "id": "2", "value": "Cơ quan, tổ chức" },
+        { "id": "3", "value": "Quyền lực" },
+        { "id": "4", "value": "Lực lượng" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 7,
+      "question_direction": "Theo Hồ Chí Minh, hình thức dân chủ hoàn bị nhất là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân chủ gián tiếp" },
+        { "id": "2", "value": "Dân chủ trực tiếp" },
+        { "id": "3", "value": "Dân chủ phổ thông" },
+        { "id": "4", "value": "Dân chủ đại diện" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 8,
+      "question_direction": "Theo Hồ Chí Minh, nhà nước của dân tức là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân là chủ" },
+        { "id": "2", "value": "Dân được phục vụ" },
+        { "id": "3", "value": "Dân là tất cả" },
+        { "id": "4", "value": "Nhân dân được quyền lãnh đạo trong hệ thống chính trị" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 9,
+      "question_direction": "Một trong những điều kiện để kiểm soát quyền lực nhà nước theo Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Việc kiểm soát phải có hệ thống" },
+        { "id": "2", "value": "Người đứng đầu các cơ quan phải chịu trách nhiệm" },
+        { "id": "3", "value": "Có cơ quan chuyên trách" },
+        { "id": "4", "value": "Có sự tham gia của giai cấp công nhân" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question_direction": "Theo Hồ Chí Minh, dân chủ trực tiếp là hình thức dân chủ trong đó:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nhân dân trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "2", "value": "Các cơ quan nhà nước trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "3", "value": "Quốc hội và Hội đồng nhân dân các cấp trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "4", "value": "Nhân dân cử ra các cơ quan đại diện để giải quyết mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 11,
+      "question_direction": "Phương diện nào dưới đây đóng vai trò là phương diện tiên quyết thể hiện bản chất giai cấp công nhân của Nhà nước Việt Nam?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền" },
+        { "id": "2", "value": "Có sự phân công và phối hợp giữa các cơ quan lập pháp và hành pháp" },
+        { "id": "3", "value": "Thống nhất giữa giai cấp công nhân và giai cấp nông dân" },
+        { "id": "4", "value": "Tập trung thống nhất" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 12,
+      "question_direction": "Theo Hồ Chí Minh, nguyên lý “dân là chủ” đối với nhà nước Việt Nam mới nhằm khẳng định:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Địa vị chủ thể tối cao của mọi quyền lực thuộc về nhân dân" },
+        { "id": "2", "value": "Địa vị các cán bộ, công chức do nhân dân sắp đặt" },
+        { "id": "3", "value": "Mọi cơ quan nhà nước đều do nhân dân tổ chức nên" },
+        { "id": "4", "value": "Cán bộ, công chức là “đày tớ” của nhân dân." }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 13,
+      "question_direction": "Trong giai đoạn hiện nay, để xây dựng Đảng thực sự trong sạch vững mạnh cần:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nhân dân được làm chủ" },
+        { "id": "2", "value": "Nhân dân được là chủ" },
+        { "id": "3", "value": "Phải đề ra đường lối, chủ trương đúng đắn" },
+        { "id": "4", "value": "Phát triển chủ nghĩa Mác – Lênin" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 14,
+      "question_direction": "Đổi mới, tăng cường sự lãnh đạo của Đảng đối với Nhà nước trong giai đoạn hiện nay cần:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nhà nước chủ động đề ra chính sách, pháp luật" },
+        { "id": "2", "value": "Tiếp tục nâng cao hiệu quả thực hiện và đổi mới mạnh mẽ phương thức lãnh đạo của Đảng đối với nhà nước" },
+        { "id": "3", "value": "Nhà nước đề ra những chủ trương, chính sách lớn để lãnh đạo" },
+        { "id": "4", "value": "Đảng lãnh đạo nhà nước thông qua pháp luật" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question_direction": "Trong giai đoạn hiện nay, chính quyền trong nhà nước pháp quyền xã hội chủ nghĩa do ai làm chủ?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Giai cấp nông dân" },
+        { "id": "2", "value": "Tầng lớp trí thức" },
+        { "id": "3", "value": "Nhân dân" },
+        { "id": "4", "value": "Tầng lớp doanh nhân" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 16,
+      "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên: Nếu gặp khi lợi ích chung của Đảng mâu thuẫn với lợi ích riêng của cá nhân, thì:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phải đấu tranh để hài hòa giữa lợi ích cá nhân với lợi ích của Đảng" },
+        { "id": "2", "value": "Phải kiên quyết hy sinh lợi ích của cá nhân cho lợi ích của Đảng" },
+        { "id": "3", "value": "Phải bày tỏ quan điểm cá nhân với chủ trương của Đảng" },
+        { "id": "4", "value": "Phải kiên quyết làm sao lợi ích cá nhân đi với lợi ích của Đảng" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 17,
+      "question_direction": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải luôn luôn học tập … về mọi mặt.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nâng cao trình độ" },
+        { "id": "2", "value": "Chủ nghĩa Mác - Lênin" },
+        { "id": "3", "value": "Chính trị" },
+        { "id": "4", "value": "Nâng cao phẩm chất đạo đức" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question_direction": "Theo Hồ Chí Minh, Đảng văn minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng thực hiện nguyên tắc tập trung dân chủ" },
+        { "id": "2", "value": "Đảng có kỷ luật nghiêm minh" },
+        { "id": "3", "value": "Đảng đoàn kết, thống nhất" },
+        { "id": "4", "value": "Đảng tiêu biểu cho lương tâm, trí tuệ và danh dự của dân tộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 19,
+      "question_direction": "Theo quan điểm Hồ Chí Minh, Nhà nước Việt Nam là nhà nước:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tập trung" },
+        { "id": "2", "value": "Dân chủ" },
+        { "id": "3", "value": "Công nhân" },
+        { "id": "4", "value": "Toàn dân" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 20,
+      "question_direction": "Theo Hồ Chí Minh, ở Việt Nam, quyền lực nhà nước là “thừa ủy quyền” của nhân dân. Đây là biểu hiện của hình thức:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân chủ phổ thông" },
+        { "id": "2", "value": "Dân chủ trực tiếp" },
+        { "id": "3", "value": "Dân chủ nhân dân" },
+        { "id": "4", "value": "Dân chủ gián tiếp" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 21,
+      "question_direction": "Theo Hồ Chí Minh, quyền lực của nhà nước là do nhân dân ủy thác cho. Do vậy, các cơ quan quyền lực nhà nước và đội ngũ cán bộ của nó đều là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Công chức" },
+        { "id": "2", "value": "“Ông chủ” của nhân dân" },
+        { "id": "3", "value": "“Công bộc” của nhân dân" },
+        { "id": "4", "value": "Viên chức" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 22,
+      "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên phải có mối liên hệ mật thiết với:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Các đảng cộng sản" },
+        { "id": "2", "value": "Nhân dân" },
+        { "id": "3", "value": "Cách mạng thế giới" },
+        { "id": "4", "value": "Các tổ chức" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 23,
+      "question_direction": "Trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo trong giai đoạn hiện nay, theo Tư tưởng Hồ Chí Minh cần chú ý những vấn đề gì? Chọn đáp án sai",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tạo ra nhiều mô hình nhà nước" },
+        { "id": "2", "value": "Tăng cường sự lãnh đạo của Đảng đối với nhà nước và xã hội" },
+        { "id": "3", "value": "Củng cố và phát triển nền dân chủ" },
+        { "id": "4", "value": "Tạo ra mô hình quốc gia phù hợp" }
+      ],
+      "correct_answer": 1
+    }
+  ]
+    

@@ -1,0 +1,291 @@
+[
+    {
+      "id": 1,
+      "question_direction": "Theo Hồ Chí Minh, văn hóa được hiểu là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Các hiện tượng thuộc thế giới tâm linh" },
+        { "id": "2", "value": "Các giá trị vật chất do con người tạo ra" },
+        { "id": "3", "value": "Năng lực hiểu biết thế giới tự nhiên của con người" },
+        { "id": "4", "value": "Các giá trị vật chất và tinh thần do con người tạo ra, trình độ hiểu biết của con người." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 2,
+      "question_direction": "Theo Hồ Chí Minh, văn hóa thuộc về?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cơ sở hạ tầng" },
+        { "id": "2", "value": "Kiến trúc thượng tầng" },
+        { "id": "3", "value": "Hình thái kinh tế - xã hội" },
+        { "id": "4", "value": "Quan hệ sản xuất." }
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 3,
+      "question_direction": "Trong Tư tưởng Hồ Chí Minh, theo nghĩa hẹp, văn hóa được hiểu là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tổng hợp mọi phương thức sinh hoạt của con người" },
+        { "id": "2", "value": "Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng" },
+        { "id": "3", "value": "Các trường học, số người đi học" },
+        { "id": "4", "value": "Phương thức sử dụng công cụ sinh hoạt." }
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 4,
+      "question_direction": "Trong Tư tưởng Hồ Chí Minh, theo nghĩa rộng, văn hóa được hiểu là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tổng hợp mọi phương thức sinh hoạt của con người" },
+        { "id": "2", "value": "Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng" },
+        { "id": "3", "value": "Các trường học, số người đi học" },
+        { "id": "4", "value": "Phương thức sử dụng công cụ sinh hoạt." }
+      ],
+      "correct_answer": "1"
+    },
+    {
+      "id": 5,
+      "question_direction": "Chữ “Cần” trong quan niệm của Hồ Chí Minh được hiểu như thế nào?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cần cù" },
+        { "id": "2", "value": "Siêng năng" },
+        { "id": "3", "value": "Chăm chỉ" },
+        { "id": "4", "value": "Siêng năng, chăm chỉ, cố gắng dẻo dai." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 6,
+      "question_direction": "Chữ “Liêm” trong quan niệm của Hồ Chí Minh được hiểu như thế nào?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Thanh liêm" },
+        { "id": "2", "value": "Liêm khiết" },
+        { "id": "3", "value": "Trong sạch, không tham lam" },
+        { "id": "4", "value": "Ngay thẳng." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 7,
+      "question_direction": "Cụm từ nào điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Người cán bộ cách mạng phải có … Mọi việc thành hay là bại, chủ chốt là do cán bộ có thấm nhuần …, hay là không”?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phẩm chất và năng lực" },
+        { "id": "2", "value": "Ý thức tự giác" },
+        { "id": "3", "value": "Tư cách đạo đức" },
+        { "id": "4", "value": "Đạo đức cách mạng." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 8,
+      "question_direction": "Hồ Chí Minh đề cập đạo đức trong những quan hệ nào? Chọn đáp án sai:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đối với mình" },
+        { "id": "2", "value": "Đối với việc" },
+        { "id": "3", "value": "Đối với công danh" },
+        { "id": "4", "value": "Đối người." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 9,
+      "question_direction": "Điền từ còn thiếu trong câu nói của Hồ Chí Minh: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần phải có những … xã hội chủ nghĩa”",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Kinh tế" },
+        { "id": "2", "value": "Con người" },
+        { "id": "3", "value": "Khoa học kỹ thuật" },
+        { "id": "4", "value": "Nền tảng văn hóa." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 10,
+      "question_direction": "Theo Hồ Chí Minh, con người là một chỉnh thể thống nhất về:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nhân, lễ nghĩa, trí, tín" },
+        { "id": "2", "value": "Đạo đức cách mạng" },
+        { "id": "3", "value": "Trí tuệ, đạo đức, nhân cách" },
+        { "id": "4", "value": "Trí lực, tâm lực, thể lực." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 11,
+      "question_direction": "Lựa chọn cụm từ đúng điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Học để làm việc, …., học để làm cán bộ”",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Làm người" },
+        { "id": "2", "value": "Làm cách mạng" },
+        { "id": "3", "value": "Có tri thức" },
+        { "id": "4", "value": "Phục vụ nhân dân." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 12,
+      "question_direction": "Cụm từ nào điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Dễ trăm lần không …, cũng chịu; khó vạn lần …, liệu cũng xong”?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng" },
+        { "id": "2", "value": "Dân" },
+        { "id": "3", "value": "Nông dân" },
+        { "id": "4", "value": "Công nhân." }
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 13,
+      "question_direction": "Quan điểm của Hồ Chí Minh về xây dựng một nền văn hóa mới trong giai đoạn xây dựng chủ nghĩa xã hội ở miền Bắc là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tính hàn lâm" },
+        { "id": "2", "value": "Tính kế thừa" },
+        { "id": "3", "value": "Tính dân chủ" },
+        { "id": "4", "value": "Tính sáng tạo." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 14,
+      "question_direction": "Theo Hồ Chí Minh, đâu là yếu tố tạo nên sự vững mạnh của một nền văn hóa?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đạo đức, chính trị, khoa học" },
+        { "id": "2", "value": "Đạo đức, trí tuệ, nhân văn" },
+        { "id": "3", "value": "Đạo đức, tinh thần, nhân văn" },
+        { "id": "4", "value": "Vật chất, khoa học, chính trị." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 15,
+      "question_direction": "Hồ Chí Minh cho rằng đạo đức cách mạng là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Bản chất của đạo đức xã hội" },
+        { "id": "2", "value": "Nguyên lý đạo đức" },
+        { "id": "3", "value": "Đức tính về đạo đức." },
+        { "id": "4", "value": "Phẩm hạnh con người." }
+      ],
+      "correct_answer": "2"
+    },
+        {
+          "id": 16,
+          "question_direction": "Theo Hồ Chí Minh, đâu là đặc trưng của nền văn hóa xã hội chủ nghĩa?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Cộng đồng, dân tộc và nhân loại" },
+            { "id": "2", "value": "Lợi ích cá nhân" },
+            { "id": "3", "value": "Nền văn minh phương Tây" },
+            { "id": "4", "value": "Công bằng và tự do." }
+          ],
+          "correct_answer": "1"
+        },
+        {
+          "id": 17,
+          "question_direction": "Theo Hồ Chí Minh, yêu cầu quan trọng trong việc xây dựng nền văn hóa mới là gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Chủ động sáng tạo" },
+            { "id": "2", "value": "Kế thừa nền văn hóa dân tộc" },
+            { "id": "3", "value": "Bảo vệ nền văn hóa dân tộc" },
+            { "id": "4", "value": "Cải cách nền giáo dục." }
+          ],
+          "correct_answer": "2"
+        },
+        {
+          "id": 18,
+          "question_direction": "Hồ Chí Minh nhấn mạnh điều gì trong việc xây dựng đạo đức cách mạng?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Lòng nhân ái" },
+            { "id": "2", "value": "Sự trong sạch" },
+            { "id": "3", "value": "Sự hy sinh" },
+            { "id": "4", "value": "Tinh thần yêu nước." }
+          ],
+          "correct_answer": "1"
+        },
+        {
+          "id": 19,
+          "question_direction": "Theo Hồ Chí Minh, mục tiêu của nền giáo dục là gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Giúp người dân thoát nghèo" },
+            { "id": "2", "value": "Giúp học sinh phát triển trí tuệ và đạo đức" },
+            { "id": "3", "value": "Xây dựng con người hoàn hảo" },
+            { "id": "4", "value": "Đào tạo chuyên gia." }
+          ],
+          "correct_answer": "2"
+        },
+        {
+          "id": 20,
+          "question_direction": "Theo Hồ Chí Minh, bản chất của cách mạng giải phóng dân tộc là gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Chống lại đế quốc" },
+            { "id": "2", "value": "Giải phóng nhân dân lao động" },
+            { "id": "3", "value": "Giải phóng khỏi chế độ phong kiến" },
+            { "id": "4", "value": "Giải phóng về mặt kinh tế." }
+          ],
+          "correct_answer": "2"
+        },
+        {
+          "id": 21,
+          "question_direction": "Hồ Chí Minh coi trọng điều gì trong việc phát triển kinh tế và văn hóa?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Phát triển sản xuất nông nghiệp" },
+            { "id": "2", "value": "Phát triển công nghiệp hóa" },
+            { "id": "3", "value": "Nâng cao đời sống vật chất và tinh thần của nhân dân" },
+            { "id": "4", "value": "Tăng cường đầu tư nước ngoài." }
+          ],
+          "correct_answer": "3"
+        },
+        {
+          "id": 22,
+          "question_direction": "Theo Hồ Chí Minh, trong quá trình xây dựng chủ nghĩa xã hội, cần phải làm gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Giải quyết vấn đề xã hội" },
+            { "id": "2", "value": "Tăng cường liên kết quốc tế" },
+            { "id": "3", "value": "Giải quyết vấn đề chính trị" },
+            { "id": "4", "value": "Giải quyết vấn đề kinh tế." }
+          ],
+          "correct_answer": "1"
+        },
+        {
+          "id": 23,
+          "question_direction": "Chữ “Học” trong tư tưởng Hồ Chí Minh có ý nghĩa gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Đọc sách, học hỏi kinh nghiệm" },
+            { "id": "2", "value": "Học từ thực tiễn cuộc sống" },
+            { "id": "3", "value": "Học để làm việc" },
+            { "id": "4", "value": "Cả ba phương thức trên." }
+          ],
+          "correct_answer": "4"
+        },
+        {
+          "id": 24,
+          "question_direction": "Câu nói của Hồ Chí Minh: “Đạo đức cách mạng là …” đầy đủ là gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Kế thừa truyền thống tốt đẹp" },
+            { "id": "2", "value": "Cách mạng về tư tưởng" },
+            { "id": "3", "value": "Đức tính chăm chỉ, tiết kiệm" },
+            { "id": "4", "value": "Đạo đức cách mạng là làm hết mình, vì lý tưởng cách mạng." }
+          ],
+          "correct_answer": "4"
+        }
+]
+    

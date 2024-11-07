@@ -1,0 +1,279 @@
+[
+    {
+      "id": 1,
+      "question_direction": "“Nhân dân” trong quan niệm của Bác gồm những ai?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Mỗi một người con Rồng, cháu Tiên" },
+        { "id": "2", "value": "Tất cả giai cấp công nhân, nông dân" },
+        { "id": "3", "value": "Các giai cấp, tầng lớp nhân dân" },
+        { "id": "4", "value": "Vừa là mỗi người Việt Nam cụ thể, vừa là đông đảo quần chúng nhân dân" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 2,
+      "question_direction": "Điều kiện tiên quyết để xây dựng khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phải lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng." },
+        { "id": "2", "value": "Phải kế thừa truyền thống yêu nước, nhân nghĩa đoàn kết của dân tộc." },
+        { "id": "3", "value": "Phải có lòng khoan dung, độ lượng với con người." },
+        { "id": "4", "value": "Phải cần cù, chịu thương chịu khó." }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "question_direction": "Đoàn kết trên cơ sở độc lập, tự chủ theo tư tưởng Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cần phải có nhà nước do dân, vì dân, của dân" },
+        { "id": "2", "value": "Cần phải có quốc hội của dân" },
+        { "id": "3", "value": "Cần phải có nền tài chính tự chủ" },
+        { "id": "4", "value": "Tự lực cách sinh, dựa vào sức mình là chính" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 4,
+      "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh phát biểu sau đây của Hồ Chí Minh: 'Bây giờ còn một điểm rất quan trọng, cũng là…. Điểm này mà thực hiện tốt thì đẻ ra con cháu đều tốt: Đó là đoàn kết'.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Then chốt" },
+        { "id": "2", "value": "Điểm mẹ" },
+        { "id": "3", "value": "Quyết định" },
+        { "id": "4", "value": "Mấu chốt" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 5,
+      "question_direction": "Cơ sở nền tảng hình thành tư tưởng đại đoàn kết toàn dân tộc của Hồ Chí Minh là?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Từ thực tiễn dân tộc Việt Nam" },
+        { "id": "2", "value": "Từ quan điểm của chủ nghĩa Mác – Lênin" },
+        { "id": "3", "value": "Từ truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
+        { "id": "4", "value": "Từ vai trò cá nhân Hồ Chí Minh" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 6,
+      "question_direction": "Đoàn kết quốc tế theo tư tưởng Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Là vấn đề có tính nguyên tắc" },
+        { "id": "2", "value": "Là một vấn đề sách lược" },
+        { "id": "3", "value": "Là một thủ đoạn chính trị nhất thời" },
+        { "id": "4", "value": "Là nhiệm vụ chính trị" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 7,
+      "question_direction": "Lực lượng cần đoàn kết quốc tế theo tư tưởng Hồ Chí Minh. Chọn đáp án sai?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phong trào đấu tranh giải phóng dân tộc" },
+        { "id": "2", "value": "Phong trào cộng sản và công nhân quốc tế" },
+        { "id": "3", "value": "Các lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý" },
+        { "id": "4", "value": "Phong trào nông dân trên thế giới" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 8,
+      "question_direction": "Em hãy chọn đáp án phù hợp, điền vào chỗ trống: 'Thực hiện đoàn kết quốc tế nhằm kết hợp sức mạnh ……với sức mạnh ………, tạo sức mạnh tổng hợp cho cách mạng'.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nội sinh…… Ngoại sinh" },
+        { "id": "2", "value": "Dân tộc…… thời đại" },
+        { "id": "3", "value": "Giai cấp công nhân………giai cấp nông dân" },
+        { "id": "4", "value": "Dân tộc……quốc tế" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 9,
+      "question_direction": "Nguyên tắc đoàn kết quốc tế trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình dựa trên:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Các nước cùng phát triển" },
+        { "id": "2", "value": "Các dân tộc đang phát triển" },
+        { "id": "3", "value": "Các lực lượng tiến bộ trên thế giới" },
+        { "id": "4", "value": "Các nước láng giềng" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 10,
+      "question_direction": "Theo Hồ Chí Minh, điểm chung để đoàn kết cách mạng Việt Nam với các phong trào giải phóng dân tộc trên thế giới là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Vì chủ nghĩa xã hội" },
+        { "id": "2", "value": "Hòa bình trong công lý" },
+        { "id": "3", "value": "Độc lập dân tộc" },
+        { "id": "4", "value": "Độc lập, tự do và quyền bình đẳng giữa các dân tộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 11,
+      "question_direction": "Theo Hồ Chí Minh, điểm chung để đoàn kết cách mạng Việt Nam với các phong trào cộng sản và công nhân quốc tế là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Hòa bình trong công lý" },
+        { "id": "2", "value": "Vì phong trào của giai cấp công nhân" },
+        { "id": "3", "value": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội" },
+        { "id": "4", "value": "Vì phong trào của giai cấp nông dân" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 12,
+      "question_direction": "Trong giai đoạn hiện nay, điều kiện quan trọng nhất để xây dựng khối đại đoàn kết toàn dân tộc là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phải lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng" },
+        { "id": "2", "value": "Phải kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
+        { "id": "3", "value": "Phải có lòng khoan dung, độ lượng với con người" },
+        { "id": "4", "value": "Phải có niềm tin vào nhân dân" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 13,
+      "question_direction": "Mặt trận dân tộc thống nhất có tên gọi là gì trong giai đoạn hiện nay?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Mặt trận Tổ quốc Việt Nam" },
+        { "id": "2", "value": "Mặt trận dân tộc giải phóng miền nam Việt Nam" },
+        { "id": "3", "value": "Mặt trận Liên Việt" },
+        { "id": "4", "value": "Liên minh các lực lượng dân tộc, dân chủ và hòa bình Việt Nam" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question_direction": "Trong giai đoạn hiện nay, Mặt trận dân tộc thống nhất đặt dưới sự lãnh đạo của:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng Cộng sản Việt Nam" },
+        { "id": "2", "value": "Nhà nước xã hội chủ nghĩa" },
+        { "id": "3", "value": "Mặt trận dân tộc thống nhất" },
+        { "id": "4", "value": "Các tổ chức chính trị - xã hội" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 15,
+      "question_direction": "Đoàn kết quốc tế theo tư tưởng Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Vấn đề có tính nguyên tắc" },
+        { "id": "2", "value": "Một vấn đề sách lược" },
+        { "id": "3", "value": "Một thủ đoạn chính trị nhất thời" },
+        { "id": "4", "value": "Nhiệm vụ chính trị" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 16,
+      "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh nội dung câu sau: Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là vấn đề có ý nghĩa….., cơ bản, nhất quán và lâu dài, xuyên suốt tiến trình cách mạng.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cơ bản" },
+        { "id": "2", "value": "To lớn" },
+        { "id": "3", "value": "Sách lược" },
+        { "id": "4", "value": "Chiến lược" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 17,
+      "question_direction": "Theo Hồ Chí Minh, vì sao phải đoàn kết quốc tế?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phát huy sức mạnh dân tộc" },
+        { "id": "2", "value": "Tận dụng sức mạnh thời đại" },
+        { "id": "3", "value": "Tranh thủ sự ủng hộ của bạn bè quốc tế" },
+        { "id": "4", "value": "Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 18,
+      "question_direction": "Theo Hồ Chí Minh điểm chung để đoàn kết cách mạng Việt Nam với các lực lượng tiến bộ trên thế giới là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tiến lên chủ nghĩa xã hội" },
+        { "id": "2", "value": "Hòa bình, chống chiến tranh xâm lược" },
+        { "id": "3", "value": "Độc lập dân tộc" },
+        { "id": "4", "value": "Tiến lên chủ nghĩa tư bản" }
+      ],
+      "correct_answer": 2
+    },
+    {
+        "id": 19,
+        "question_direction": "Theo Hồ Chí Minh, đại đoàn kết quốc tế phải nhằm mục tiêu gì?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Vì độc lập dân tộc" },
+          { "id": "2", "value": "Vì chiến lược phát triển" },
+          { "id": "3", "value": "Vì nền dân chủ tự do" },
+          { "id": "4", "value": "Vì chủ nghĩa xã hội" }
+        ],
+        "correct_answer": 4
+      },
+      {
+        "id": 20,
+        "question_direction": "Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc đã được thể hiện trong chính sách nào?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Chính sách dân tộc và tôn giáo" },
+          { "id": "2", "value": "Chính sách kinh tế" },
+          { "id": "3", "value": "Chính sách đối ngoại" },
+          { "id": "4", "value": "Chính sách hợp tác quốc tế" }
+        ],
+        "correct_answer": 1
+      },
+      {
+        "id": 21,
+        "question_direction": "Theo Hồ Chí Minh, sự đoàn kết của các dân tộc có tính chất gì?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Đoàn kết trong từng giai đoạn" },
+          { "id": "2", "value": "Đoàn kết vô điều kiện" },
+          { "id": "3", "value": "Đoàn kết giữa các tầng lớp trong xã hội" },
+          { "id": "4", "value": "Đoàn kết trong lý tưởng xã hội chủ nghĩa" }
+        ],
+        "correct_answer": 4
+      },
+      {
+        "id": 22,
+        "question_direction": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc có vai trò gì đối với sự nghiệp cách mạng?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Là nền tảng xây dựng chủ nghĩa xã hội" },
+          { "id": "2", "value": "Là mục tiêu chính của cách mạng" },
+          { "id": "3", "value": "Là lực lượng quyết định thắng lợi cách mạng" },
+          { "id": "4", "value": "Là lý luận cách mạng" }
+        ],
+        "correct_answer": 3
+      },
+      {
+        "id": 23,
+        "question_direction": "Mặt trận dân tộc thống nhất của Việt Nam hiện nay hoạt động theo nguyên lý nào?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Hoạt động trên cơ sở kết hợp lợi ích của dân tộc với lợi ích của giai cấp" },
+          { "id": "2", "value": "Hoạt động trên cơ sở đoàn kết toàn dân vì sự nghiệp phát triển xã hội chủ nghĩa" },
+          { "id": "3", "value": "Hoạt động trên cơ sở liên minh các tầng lớp nhân dân" },
+          { "id": "4", "value": "Hoạt động trên cơ sở liên minh giai cấp và lợi ích xã hội" }
+        ],
+        "correct_answer": 2
+      }
+  ]
+  

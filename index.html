@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Làm bài kiểm tra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Làm bài kiểm tra</h1>
+    <div class="button-container">
+        <button onclick="startExam('data/bai1.json')">Bài 1</button>
+        <button onclick="startExam('data/bai2.json')">Bài 2</button>
+        <button onclick="startExam('data/bai3.json')">Bài 3</button>
+        <button onclick="startExam('data/bai4.json')">Bài 4</button>
+        <button onclick="startExam('data/bai5.json')">Bài 5</button>
+        <button onclick="startExam('data/bai6.json')">Bài 6</button>
+    </div>
+
+    <div id="questions" class="question-container"></div>
+    <button id="submit-btn" onclick="submitExam()" style="display:none;">Nộp bài</button>
+    
+    <div id="result" class="result-container" style="display:none;">
+        <p id="score"></p>
+        <div id="details"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

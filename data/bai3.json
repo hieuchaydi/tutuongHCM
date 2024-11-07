@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "question_direction": "Để xứng đáng là Đảng cầm quyền theo tư tưởng Hồ Chí Minh, trong giai đoạn hiện nay, Đảng cần: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nâng cao hoạt động chống tham nhũng" },
+        { "id": "2", "value": "Xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, \"tự diễn biến\", \"tự chuyển hóa\" trong nội bộ Đảng" },
+        { "id": "3", "value": "Điều chỉnh cơ chế hoạt động của Đảng" },
+        { "id": "4", "value": "Đào tạo cho cán bộ, đảng viên trong các tổ chức Đảng" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2,
+      "question_direction": "Hệ thống chính trị xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh bao gồm các cơ quan: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng Cộng hoà" },
+        { "id": "2", "value": "Đảng Xã hội" },
+        { "id": "3", "value": "Nhà nước đức trị" },
+        { "id": "4", "value": "Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị xã hội" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 3,
+      "question_direction": "Trong giai đoạn hiện nay, vai trò của Đảng Cộng sản trong hệ thống chính trị xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh là: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Giám sát, phản biện" },
+        { "id": "2", "value": "Quản lý" },
+        { "id": "3", "value": "Lãnh đạo" },
+        { "id": "4", "value": "Điều hành" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 4,
+      "question_direction": "Hồ Chí Minh tiếp cận Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin vào thời gian nào? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tháng 7/1920" },
+        { "id": "2", "value": "Đầu năm 1919" },
+        { "id": "3", "value": "Tháng 7/1921" },
+        { "id": "4", "value": "Tháng 6/1925" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 5,
+      "question_direction": "Từ khi nào, Hồ Chí Minh khẳng định con đường cách mạng Việt Nam: Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản. ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "1925" },
+        { "id": "2", "value": "1927" },
+        { "id": "3", "value": "1930" },
+        { "id": "4", "value": "1941" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 6,
+      "question_direction": "Theo quan điểm Hồ Chí Minh, một trong những động lực hàng đầu của chủ nghĩa xã hội là gì? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Động lực cả trong quá khứ, hiện tại và tương lai" },
+        { "id": "2", "value": "Lợi ích của dân" },
+        { "id": "3", "value": "Vật chất và tinh thần" },
+        { "id": "4", "value": "Nội lực và ngoại lực" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 7,
+      "question_direction": "Hồ Chí Minh đề cập đến vấn đề gì trong nội dung sau của quá trình cách mạng xã hội chủ nghĩa: Đây là thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tính tất yếu của chủ nghĩa xã hội" },
+        { "id": "2", "value": "Tính chất của xã hội xã hội chủ nghĩa" },
+        { "id": "3", "value": "Tính tất yếu của thời kỳ quá độ" },
+        { "id": "4", "value": "Tính chất của thời kỳ quá độ" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 8,
+      "question_direction": "Điền vào chỗ trống những từ đúng nhất để hoàn chỉnh câu nói sau của Hồ Chí Minh: “Trong thế giới bây giờ chỉ có cách mệnh .…. là đã thành công và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật, không phải tự do và bình đẳng giả dối như đế quốc chủ nghĩa Pháp khoe khoang bên An Nam” ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Anh" },
+        { "id": "2", "value": "Pháp" },
+        { "id": "3", "value": "Mỹ" },
+        { "id": "4", "value": "Nga" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 9,
+      "question_direction": "Theo Hồ Chí Minh, lực lượng tổng hợp để giải phóng dân tộc bao gồm: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nông dân" },
+        { "id": "2", "value": "Công nhân, nông dân, trí thức" },
+        { "id": "3", "value": "Công nhân" },
+        { "id": "4", "value": "Lực lượng đại đoàn kết toàn dân tộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 10,
+      "question_direction": "Vì sao Quốc tế cộng sản có lúc xem nhẹ vai trò của cách mạng thuộc địa, coi cách mạng thuộc địa phụ thuộc vào cách mạng vô sản ở chính quốc và không ủng hộ quan điểm của Hồ Chí Minh? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Quốc tế cộng sản nhìn thấy rõ khả năng của cách mạng thuộc địa" },
+        { "id": "2", "value": "Quốc tế cộng sản chưa đánh giá hết tiềm lực và khả năng to lớn của cách mạng thuộc địa" },
+        { "id": "3", "value": "Quốc tế cộng sản tuân thủ các nguyên tắc về đấu tranh giai cấp" },
+        { "id": "4", "value": "Quốc tế cộng sản xác định rõ xu thế của phong trào cách mạng vô sản" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 11,
+      "question_direction": "Trong các luận điểm dưới đây, đâu là luận điểm sáng tạo của Hồ Chí Minh? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc" },
+        { "id": "2", "value": "Cách mạng là sự nghiệp của quần chúng nhân dân, quần chúng nhân dân là chủ thể sáng tạo ra lịch sử" },
+        { "id": "3", "value": "Giai cấp công nhân phải tổ chức ra chính đảng, đảng đó phải thuyết phục, giác ngộ và tập hợp đông đảo quần chúng, huấn luyện quần chúng và đưa quần chúng ra đấu tranh" },
+        { "id": "4", "value": "Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 12,
+      "question_direction": "Theo Hồ Chí Minh, với tư cách là những động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa, thì những vấn đề gì không thể tách rời nhau? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Lợi ích của dân và dân chủ của dân" },
+        { "id": "2", "value": "Nội lực và ngoại lực" },
+        { "id": "3", "value": "Vật chất và tinh thần" },
+        { "id": "4", "value": "Kinh tế và văn hóa" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 13,
+      "question_direction": "Đoạn trích sau đây: “Chế độ kinh tế và xã hội của chúng ta nhằm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển” Hồ Chí Minh đề cập về mối quan hệ nào dưới chủ nghĩa xã hội? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Mục tiêu kinh tế với mục tiêu văn hóa" },
+        { "id": "2", "value": "Mục tiêu kinh tế với mục tiêu xã hội" },
+        { "id": "3", "value": "Mục tiêu kinh tế với mục tiêu văn hóa" },
+        { "id": "4", "value": "Mục tiêu kinh tế với mục tiêu chính trị" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 14,
+      "question_direction": "Cách mạng Pháp và cách mạng Mỹ mà Hồ Chí Minh đã khảo sát trong quá trình tìm đường cứu nước là thuộc kiểu cách mạng xã hội nào? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cách mạng xã hội chủ nghĩa" },
+        { "id": "2", "value": "Cách mạng tư sản" },
+        { "id": "3", "value": "Cách mạng cộng sản chủ nghĩa" },
+        { "id": "4", "value": "Cách mạng tiền tư bản chủ nghĩa" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question_direction": "Theo tư tưởng Hồ Chí Minh, lực lượng giải phóng dân tộc, giải phóng giai cấp, giải phóng con người là: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng Cộng sản" },
+        { "id": "2", "value": "Các lực lượng cách mạng thế giới" },
+        { "id": "3", "value": "Phong trào công nhân thế giới" },
+        { "id": "4", "value": "Khối đại đoàn kết dân tộc mà nòng cốt là liên minh công nông, trí thức" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 16,
+      "question_direction": "Đảng Cộng sản Việt Nam đã vận dụng điều kiện để đảm bảo thực hiện mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội theo tư tưởng Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Khẳng định và đảm bảo vai trò lãnh đạo của Đảng trong suốt tiến trình lãnh đạo cách mạng" },
+        { "id": "2", "value": "Xây dựng kinh tế" },
+        { "id": "3", "value": "Phát triển kinh tế" },
+        { "id": "4", "value": "Phát triển văn hoá" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 17,
+      "question_direction": "Con đường cứu nước, giải phóng dân tộc nào được Hồ Chí Minh khẳng định là đường cách mạng triệt để nhất, phù hợp với yêu cầu của cách mạng Việt Nam và xu thế phát triển của thời đại? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Con đường cách mạng vô sản" },
+        { "id": "2", "value": "Con đường cách mạng Pháp" },
+        { "id": "3", "value": "Con đường cách mạng Mỹ" },
+        { "id": "4", "value": "Con đường cách mạng Anh" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question_direction": "Theo Hồ Chí Minh, mục tiêu văn hóa chủ nghĩa xã hội là phấn đấu xây dựng nền văn hóa có tính chất: ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân tộc, khoa học, đại chúng" },
+        { "id": "2", "value": "Tiếp thu tinh hoa văn hóa của nhân loại" },
+        { "id": "3", "value": "Tiên tiến và cách mạng" },
+        { "id": "4", "value": "Khoa học, hiện đại và hội nhập" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 19,
+      "question_direction": "Hồ Chí Minh đề cập đến vấn đề gì trong nội dung sau: Việt Nam từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không trải qua giai đoạn phát triển tư bản chủ nghĩa? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tính chất của xã hội xã hội chủ nghĩa ở Việt Nam" },
+        { "id": "2", "value": "Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam" },
+        { "id": "3", "value": "Tính tất yếu của thời kỳ quá độ ở Việt Nam" },
+        { "id": "4", "value": "Đặc điểm của chủ nghĩa xã hội ở Việt Nam" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 20,
+      "question_direction": "Theo Hồ Chí Minh, lực lượng mạnh nhất trong tất cả các lực lượng góp phần đưa sự nghiệp cách mạng xã hội chủ nghĩa đi đến thành công là gì? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Lực lượng vật chất" },
+        { "id": "2", "value": "Sức mạnh đoàn kết toàn dân" },
+        { "id": "3", "value": "Sức mạnh hiện tại" },
+        { "id": "4", "value": "Nội lực con người" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 21,
+      "question_direction": "Hồ Chí Minh cho rằng “công nông là chủ cách mệnh, là gốc cách mệnh”. Cụm từ nào phản ánh đúng quan điểm đó của Người? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Công nông là lực lượng xung kích" },
+        { "id": "2", "value": "Công nông là lực lượng to lớn" },
+        { "id": "3", "value": "Công nông là lực lượng tiêu biểu" },
+        { "id": "4", "value": "Công nông là lực lượng nòng cốt" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 22,
+      "question_direction": "Luận điểm nào dưới đây là của Hồ Chí Minh? ",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người" },
+        { "id": "2", "value": "Cách mạng là sự nghiệp của quần chúng nhân dân" },
+        { "id": "3", "value": "Quần chúng nhân dân là chủ thể sáng tạo ra lịch sử" },
+        { "id": "4", "value": "Đảng cộng sản là nhân tố chủ quan để giai cấp công nhân hoàn thành sứ mệnh lịch sử của mình" }
+      ],
+      "correct_answer": 2
+    }
+  ]
+      

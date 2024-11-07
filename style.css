@@ -1,0 +1,147 @@
+/* Reset mặc định */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Tiêu đề */
+h1 {
+    text-align: center;
+    color: #4a90e2;
+    margin-bottom: 20px;
+}
+
+/* Container cho các nút chọn bài */
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #357ab7;
+}
+
+button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+}
+
+/* Phần hiển thị câu hỏi */
+.question-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.question:last-child {
+    border-bottom: none;
+}
+
+.question p {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Kiểu cho các lựa chọn đáp án */
+label {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+label:hover {
+    color: #4a90e2;
+}
+
+/* Nút nộp bài */
+#submit-btn {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #e94e77;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#submit-btn:hover {
+    background-color: #d43a61;
+}
+/* Kết quả */
+#result {
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#result h2 {
+    font-size: 24px;
+    color: #4a90e2;
+}
+
+#score, #correct, #incorrect {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #333;
+}
+
+#result button {
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#result button:hover {
+    background-color: #357ab7;
+}
