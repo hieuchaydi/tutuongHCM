@@ -1,615 +1,569 @@
 [
     {
       "id": 1,
-      "question_direction": "“Nhân dân” trong quan niệm của Bác gồm những ai?",
+      "question_direction": "Khẳng định Đảng Cộng sản “như người cầm lái” cho con thuyền là quan điểm nhất quán của Hồ Chí Minh về … của Đảng Cộng sản Việt Nam trong suốt cả quá trình cách mạng.",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Mỗi một người con Rồng, cháu Tiên" },
-        { "id": "2", "value": "Tất cả giai cấp công nhân, nông dân" },
-        { "id": "3", "value": "Các giai cấp, tầng lớp nhân dân" },
-        { "id": "4", "value": "Vừa là mỗi người Việt Nam cụ thể, vừa là đông đảo quần chúng nhân dân" }
+        { "id": "1", "value": "Tính chất" },
+        { "id": "2", "value": "Vận mệnh" },
+        { "id": "3", "value": "Sức chiến đấu" },
+        { "id": "4", "value": "Vai trò lãnh đạo" }
       ],
       "correct_answer": 4
     },
     {
       "id": 2,
-      "question_direction": "Điều kiện tiên quyết để xây dựng khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh?",
+      "question_direction": "Cán bộ, đảng viên phải là những người luôn luôn phòng và chống …",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Phải lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng." },
-        { "id": "2", "value": "Phải kế thừa truyền thống yêu nước, nhân nghĩa đoàn kết của dân tộc." },
-        { "id": "3", "value": "Phải có lòng khoan dung, độ lượng với con người." },
-        { "id": "4", "value": "Phải cần cù, chịu thương chịu khó." }
+        { "id": "1", "value": "Các tiêu cực" },
+        { "id": "2", "value": "Bệnh lười biếng" },
+        { "id": "3", "value": "Tư túng" },
+        { "id": "4", "value": "Bảo thủ, trì trệ" }
       ],
       "correct_answer": 1
     },
     {
       "id": 3,
-      "question_direction": "Đoàn kết trên cơ sở độc lập, tự chủ theo tư tưởng Hồ Chí Minh là:",
+      "question_direction": "Chọn từ thích hợp để hoàn chỉnh phát biểu của Hồ Chí Minh: “… là những người đem chính sách của Đảng, của Chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho Chính phủ hiểu rõ, để đặt chính sách cho đúng”.",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Cần phải có nhà nước do dân, vì dân, của dân" },
-        { "id": "2", "value": "Cần phải có quốc hội của dân" },
-        { "id": "3", "value": "Cần phải có nền tài chính tự chủ" },
-        { "id": "4", "value": "Tự lực cách sinh, dựa vào sức mình là chính" }
+        { "id": "1", "value": "Bộ đội" },
+        { "id": "2", "value": "Công chức" },
+        { "id": "3", "value": "Cán bộ" },
+        { "id": "4", "value": "Đảng viên" }
       ],
-      "correct_answer": 4
+      "correct_answer": 3
     },
     {
       "id": 4,
-      "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh phát biểu sau đây của Hồ Chí Minh: 'Bây giờ còn một điểm rất quan trọng, cũng là…. Điểm này mà thực hiện tốt thì đẻ ra con cháu đều tốt: Đó là đoàn kết'.",
+      "question_direction": "Đảng Cộng sản Việt Nam do Hồ Chí Minh sáng lập và rèn luyện là một đảng chính trị tồn tại và phát triển theo những quan điểm của … về đảng kiểu mới của giai cấp vô sản.",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Then chốt" },
-        { "id": "2", "value": "Điểm mẹ" },
-        { "id": "3", "value": "Quyết định" },
-        { "id": "4", "value": "Mấu chốt" }
+        { "id": "1", "value": "C. Mác" },
+        { "id": "2", "value": "Ph. Ăngghen" },
+        { "id": "3", "value": "C. Mác và Ph. Ăngghen" },
+        { "id": "4", "value": "V.I. Lênin" }
       ],
       "correct_answer": 4
     },
     {
       "id": 5,
-      "question_direction": "Cơ sở nền tảng hình thành tư tưởng đại đoàn kết toàn dân tộc của Hồ Chí Minh là?",
+      "question_direction": "Dùng cụm từ thích hợp vào điền vào chỗ trống để hoàn chỉnh phát biểu sau của chủ tịch Hồ Chí Minh: “Mỗi đảng viên và cán bộ phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người … thật trung thành của nhân dân”.",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Từ thực tiễn dân tộc Việt Nam" },
-        { "id": "2", "value": "Từ quan điểm của chủ nghĩa Mác – Lênin" },
-        { "id": "3", "value": "Từ truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
-        { "id": "4", "value": "Từ vai trò cá nhân Hồ Chí Minh" }
+        { "id": "1", "value": "Đầy tớ" },
+        { "id": "2", "value": "Lãnh đạo" },
+        { "id": "3", "value": "Phục vụ" },
+        { "id": "4", "value": "Công bộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 6,
+      "question_direction": "Theo quan điểm Hồ Chí Minh, nhà nước của nhân dân là nhà nước mà tất cả mọi ….. trong nhà nước và trong xã hội đều thuộc về nhân dân.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cán bộ, công chức" },
+        { "id": "2", "value": "Cơ quan, tổ chức" },
+        { "id": "3", "value": "Quyền lực" },
+        { "id": "4", "value": "Lực lượng" }
       ],
       "correct_answer": 3
     },
     {
-      "id": 6,
-      "question_direction": "Đoàn kết quốc tế theo tư tưởng Hồ Chí Minh là:",
+      "id": 7,
+      "question_direction": "Theo Hồ Chí Minh, hình thức dân chủ hoàn bị nhất là:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Là vấn đề có tính nguyên tắc" },
-        { "id": "2", "value": "Là một vấn đề sách lược" },
-        { "id": "3", "value": "Là một thủ đoạn chính trị nhất thời" },
-        { "id": "4", "value": "Là nhiệm vụ chính trị" }
+        { "id": "1", "value": "Dân chủ gián tiếp" },
+        { "id": "2", "value": "Dân chủ trực tiếp" },
+        { "id": "3", "value": "Dân chủ phổ thông" },
+        { "id": "4", "value": "Dân chủ đại diện" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 8,
+      "question_direction": "Theo Hồ Chí Minh, nhà nước của dân tức là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân là chủ" },
+        { "id": "2", "value": "Dân được phục vụ" },
+        { "id": "3", "value": "Dân là tất cả" },
+        { "id": "4", "value": "Nhân dân được quyền lãnh đạo trong hệ thống chính trị" }
       ],
       "correct_answer": 1
     },
     {
-      "id": 7,
-      "question_direction": "Lực lượng cần đoàn kết quốc tế theo tư tưởng Hồ Chí Minh. Chọn đáp án sai?",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Phong trào đấu tranh giải phóng dân tộc" },
-        { "id": "2", "value": "Phong trào cộng sản và công nhân quốc tế" },
-        { "id": "3", "value": "Các lực lượng tiến bộ, những người yêu chuộng hòa bình, dân chủ, tự do và công lý" },
-        { "id": "4", "value": "Phong trào nông dân trên thế giới" }
-      ],
-      "correct_answer": 4
-    },
-    {
-      "id": 8,
-      "question_direction": "Em hãy chọn đáp án phù hợp, điền vào chỗ trống: 'Thực hiện đoàn kết quốc tế nhằm kết hợp sức mạnh ……với sức mạnh ………, tạo sức mạnh tổng hợp cho cách mạng'.",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Nội sinh…… Ngoại sinh" },
-        { "id": "2", "value": "Dân tộc…… thời đại" },
-        { "id": "3", "value": "Giai cấp công nhân………giai cấp nông dân" },
-        { "id": "4", "value": "Dân tộc……quốc tế" }
-      ],
-      "correct_answer": 4
-    },
-    {
       "id": 9,
-      "question_direction": "Nguyên tắc đoàn kết quốc tế trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình dựa trên:",
+      "question_direction": "Một trong những điều kiện để kiểm soát quyền lực nhà nước theo Hồ Chí Minh là:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Các nước cùng phát triển" },
-        { "id": "2", "value": "Các dân tộc đang phát triển" },
-        { "id": "3", "value": "Các lực lượng tiến bộ trên thế giới" },
-        { "id": "4", "value": "Các nước láng giềng" }
+        { "id": "1", "value": "Việc kiểm soát phải có hệ thống" },
+        { "id": "2", "value": "Người đứng đầu các cơ quan phải chịu trách nhiệm" },
+        { "id": "3", "value": "Có cơ quan chuyên trách" },
+        { "id": "4", "value": "Có sự tham gia của giai cấp công nhân" }
       ],
-      "correct_answer": 3
+      "correct_answer": 1
     },
     {
       "id": 10,
-      "question_direction": "Theo Hồ Chí Minh, điểm chung để đoàn kết cách mạng Việt Nam với các phong trào giải phóng dân tộc trên thế giới là gì?",
+      "question_direction": "Theo Hồ Chí Minh, dân chủ trực tiếp là hình thức dân chủ trong đó:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Vì chủ nghĩa xã hội" },
-        { "id": "2", "value": "Hòa bình trong công lý" },
-        { "id": "3", "value": "Độc lập dân tộc" },
-        { "id": "4", "value": "Độc lập, tự do và quyền bình đẳng giữa các dân tộc" }
+        { "id": "1", "value": "Nhân dân trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "2", "value": "Các cơ quan nhà nước trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "3", "value": "Quốc hội và Hội đồng nhân dân các cấp trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" },
+        { "id": "4", "value": "Nhân dân cử ra các cơ quan đại diện để giải quyết mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng" }
       ],
-      "correct_answer": 4
+      "correct_answer": 1
     },
     {
       "id": 11,
-      "question_direction": "Theo Hồ Chí Minh, điểm chung để đoàn kết cách mạng Việt Nam với các phong trào cộng sản và công nhân quốc tế là gì?",
+      "question_direction": "Phương diện nào dưới đây đóng vai trò là phương diện tiên quyết thể hiện bản chất giai cấp công nhân của Nhà nước Việt Nam?",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Hòa bình trong công lý" },
-        { "id": "2", "value": "Vì phong trào của giai cấp công nhân" },
-        { "id": "3", "value": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội" },
-        { "id": "4", "value": "Vì phong trào của giai cấp nông dân" }
+        { "id": "1", "value": "Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền" },
+        { "id": "2", "value": "Có sự phân công và phối hợp giữa các cơ quan lập pháp và hành pháp" },
+        { "id": "3", "value": "Thống nhất giữa giai cấp công nhân và giai cấp nông dân" },
+        { "id": "4", "value": "Tập trung thống nhất" }
       ],
-      "correct_answer": 3
+      "correct_answer": 1
     },
     {
       "id": 12,
-      "question_direction": "Trong giai đoạn hiện nay, điều kiện quan trọng nhất để xây dựng khối đại đoàn kết toàn dân tộc là gì?",
+      "question_direction": "Theo Hồ Chí Minh, nguyên lý “dân là chủ” đối với nhà nước Việt Nam mới nhằm khẳng định:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Phải lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng" },
-        { "id": "2", "value": "Phải kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
-        { "id": "3", "value": "Phải có lòng khoan dung, độ lượng với con người" },
-        { "id": "4", "value": "Phải có niềm tin vào nhân dân" }
+        { "id": "1", "value": "Địa vị chủ thể tối cao của mọi quyền lực thuộc về nhân dân" },
+        { "id": "2", "value": "Địa vị các cán bộ, công chức do nhân dân sắp đặt" },
+        { "id": "3", "value": "Mọi cơ quan nhà nước đều do nhân dân tổ chức nên" },
+        { "id": "4", "value": "Cán bộ, công chức là “đày tớ” của nhân dân." }
       ],
       "correct_answer": 1
     },
     {
       "id": 13,
-      "question_direction": "Mặt trận dân tộc thống nhất có tên gọi là gì trong giai đoạn hiện nay?",
+      "question_direction": "Trong giai đoạn hiện nay, để xây dựng Đảng thực sự trong sạch vững mạnh cần:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Mặt trận Tổ quốc Việt Nam" },
-        { "id": "2", "value": "Mặt trận dân tộc giải phóng miền nam Việt Nam" },
-        { "id": "3", "value": "Mặt trận Liên Việt" },
-        { "id": "4", "value": "Liên minh các lực lượng dân tộc, dân chủ và hòa bình Việt Nam" }
+        { "id": "1", "value": "Nhân dân được làm chủ" },
+        { "id": "2", "value": "Nhân dân được là chủ" },
+        { "id": "3", "value": "Phải đề ra đường lối, chủ trương đúng đắn" },
+        { "id": "4", "value": "Phát triển chủ nghĩa Mác – Lênin" }
       ],
-      "correct_answer": 1
+      "correct_answer": 3
     },
     {
       "id": 14,
-      "question_direction": "Trong giai đoạn hiện nay, Mặt trận dân tộc thống nhất đặt dưới sự lãnh đạo của:",
+      "question_direction": "Đổi mới, tăng cường sự lãnh đạo của Đảng đối với Nhà nước trong giai đoạn hiện nay cần:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Đảng Cộng sản Việt Nam" },
-        { "id": "2", "value": "Nhà nước xã hội chủ nghĩa" },
-        { "id": "3", "value": "Mặt trận dân tộc thống nhất" },
-        { "id": "4", "value": "Các tổ chức chính trị - xã hội" }
-      ],
-      "correct_answer": 1
-    },
-    {
-      "id": 15,
-      "question_direction": "Đoàn kết quốc tế theo tư tưởng Hồ Chí Minh là:",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Vấn đề có tính nguyên tắc" },
-        { "id": "2", "value": "Một vấn đề sách lược" },
-        { "id": "3", "value": "Một thủ đoạn chính trị nhất thời" },
-        { "id": "4", "value": "Nhiệm vụ chính trị" }
-      ],
-      "correct_answer": 1
-    },
-    {
-      "id": 16,
-      "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh nội dung câu sau: Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là vấn đề có ý nghĩa….., cơ bản, nhất quán và lâu dài, xuyên suốt tiến trình cách mạng.",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Cơ bản" },
-        { "id": "2", "value": "To lớn" },
-        { "id": "3", "value": "Sách lược" },
-        { "id": "4", "value": "Chiến lược" }
-      ],
-      "correct_answer": 4
-    },
-    {
-      "id": 17,
-      "question_direction": "Theo Hồ Chí Minh, vì sao phải đoàn kết quốc tế?",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Phát huy sức mạnh dân tộc" },
-        { "id": "2", "value": "Tận dụng sức mạnh thời đại" },
-        { "id": "3", "value": "Tranh thủ sự ủng hộ của bạn bè quốc tế" },
-        { "id": "4", "value": "Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng" }
-      ],
-      "correct_answer": 4
-    },
-    {
-      "id": 18,
-      "question_direction": "Theo Hồ Chí Minh điểm chung để đoàn kết cách mạng Việt Nam với các lực lượng tiến bộ trên thế giới là gì?",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Tiến lên chủ nghĩa xã hội" },
-        { "id": "2", "value": "Hòa bình, chống chiến tranh xâm lược" },
-        { "id": "3", "value": "Độc lập dân tộc" },
-        { "id": "4", "value": "Tiến lên chủ nghĩa tư bản" }
+        { "id": "1", "value": "Nhà nước chủ động đề ra chính sách, pháp luật" },
+        { "id": "2", "value": "Tiếp tục nâng cao hiệu quả thực hiện và đổi mới mạnh mẽ phương thức lãnh đạo của Đảng đối với nhà nước" },
+        { "id": "3", "value": "Nhà nước đề ra những chủ trương, chính sách lớn để lãnh đạo" },
+        { "id": "4", "value": "Đảng lãnh đạo nhà nước thông qua pháp luật" }
       ],
       "correct_answer": 2
     },
     {
-        "id": 19,
-        "question_direction": "Theo Hồ Chí Minh, đại đoàn kết quốc tế phải nhằm mục tiêu gì?",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Vì độc lập dân tộc" },
-          { "id": "2", "value": "Vì chiến lược phát triển" },
-          { "id": "3", "value": "Vì nền dân chủ tự do" },
-          { "id": "4", "value": "Vì chủ nghĩa xã hội" }
-        ],
-        "correct_answer": 4
-      },
-      {
-        "id": 20,
-        "question_direction": "Tư tưởng Hồ Chí Minh về đại đoàn kết dân tộc đã được thể hiện trong chính sách nào?",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Chính sách dân tộc và tôn giáo" },
-          { "id": "2", "value": "Chính sách kinh tế" },
-          { "id": "3", "value": "Chính sách đối ngoại" },
-          { "id": "4", "value": "Chính sách hợp tác quốc tế" }
-        ],
-        "correct_answer": 1
-      },
-      {
-        "id": 21,
-        "question_direction": "Theo Hồ Chí Minh, sự đoàn kết của các dân tộc có tính chất gì?",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Đoàn kết trong từng giai đoạn" },
-          { "id": "2", "value": "Đoàn kết vô điều kiện" },
-          { "id": "3", "value": "Đoàn kết giữa các tầng lớp trong xã hội" },
-          { "id": "4", "value": "Đoàn kết trong lý tưởng xã hội chủ nghĩa" }
-        ],
-        "correct_answer": 4
-      },
-      {
-        "id": 22,
-        "question_direction": "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc có vai trò gì đối với sự nghiệp cách mạng?",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Là nền tảng xây dựng chủ nghĩa xã hội" },
-          { "id": "2", "value": "Là mục tiêu chính của cách mạng" },
-          { "id": "3", "value": "Là lực lượng quyết định thắng lợi cách mạng" },
-          { "id": "4", "value": "Là lý luận cách mạng" }
-        ],
-        "correct_answer": 3
-      },
-      {
-        "id": 23,
-        "question_direction": "Mặt trận dân tộc thống nhất của Việt Nam hiện nay hoạt động theo nguyên lý nào?",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Hoạt động trên cơ sở kết hợp lợi ích của dân tộc với lợi ích của giai cấp" },
-          { "id": "2", "value": "Hoạt động trên cơ sở đoàn kết toàn dân vì sự nghiệp phát triển xã hội chủ nghĩa" },
-          { "id": "3", "value": "Hoạt động trên cơ sở liên minh các tầng lớp nhân dân" },
-          { "id": "4", "value": "Hoạt động trên cơ sở liên minh giai cấp và lợi ích xã hội" }
-        ],
-        "correct_answer": 2
-      },
-      {
+      "id": 15,
+      "question_direction": "Trong giai đoạn hiện nay, chính quyền trong nhà nước pháp quyền xã hội chủ nghĩa do ai làm chủ?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Giai cấp nông dân" },
+        { "id": "2", "value": "Tầng lớp trí thức" },
+        { "id": "3", "value": "Nhân dân" },
+        { "id": "4", "value": "Tầng lớp doanh nhân" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 16,
+      "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên: Nếu gặp khi lợi ích chung của Đảng mâu thuẫn với lợi ích riêng của cá nhân, thì:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Phải đấu tranh để hài hòa giữa lợi ích cá nhân với lợi ích của Đảng" },
+        { "id": "2", "value": "Phải kiên quyết hy sinh lợi ích của cá nhân cho lợi ích của Đảng" },
+        { "id": "3", "value": "Phải bày tỏ quan điểm cá nhân với chủ trương của Đảng" },
+        { "id": "4", "value": "Phải kiên quyết làm sao lợi ích cá nhân đi với lợi ích của Đảng" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 17,
+      "question_direction": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải luôn luôn học tập … về mọi mặt.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Nâng cao trình độ" },
+        { "id": "2", "value": "Chủ nghĩa Mác - Lênin" },
+        { "id": "3", "value": "Chính trị" },
+        { "id": "4", "value": "Nâng cao phẩm chất đạo đức" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question_direction": "Theo Hồ Chí Minh, Đảng văn minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đảng thực hiện nguyên tắc tập trung dân chủ" },
+        { "id": "2", "value": "Đảng có kỷ luật nghiêm minh" },
+        { "id": "3", "value": "Đảng đoàn kết, thống nhất" },
+        { "id": "4", "value": "Đảng tiêu biểu cho lương tâm, trí tuệ và danh dự của dân tộc" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 19,
+      "question_direction": "Theo quan điểm Hồ Chí Minh, Nhà nước Việt Nam là nhà nước:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tập trung" },
+        { "id": "2", "value": "Dân chủ" },
+        { "id": "3", "value": "Công nhân" },
+        { "id": "4", "value": "Toàn dân" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 20,
+      "question_direction": "Theo Hồ Chí Minh, ở Việt Nam, quyền lực nhà nước là “thừa ủy quyền” của nhân dân. Đây là biểu hiện của hình thức:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Dân chủ phổ thông" },
+        { "id": "2", "value": "Dân chủ trực tiếp" },
+        { "id": "3", "value": "Dân chủ nhân dân" },
+        { "id": "4", "value": "Dân chủ gián tiếp" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 21,
+      "question_direction": "Theo Hồ Chí Minh, quyền lực của nhà nước là do nhân dân ủy thác cho. Do vậy, các cơ quan quyền lực nhà nước và đội ngũ cán bộ của nó đều là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Công chức" },
+        { "id": "2", "value": "“Ông chủ” của nhân dân" },
+        { "id": "3", "value": "“Công bộc” của nhân dân" },
+        { "id": "4", "value": "Viên chức" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 22,
+      "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên phải có mối liên hệ mật thiết với:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Các đảng cộng sản" },
+        { "id": "2", "value": "Nhân dân" },
+        { "id": "3", "value": "Cách mạng thế giới" },
+        { "id": "4", "value": "Các tổ chức" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 23,
+      "question_direction": "Trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo trong giai đoạn hiện nay, theo Tư tưởng Hồ Chí Minh cần chú ý những vấn đề gì? Chọn đáp án sai",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tạo ra nhiều mô hình nhà nước" },
+        { "id": "2", "value": "Tăng cường sự lãnh đạo của Đảng đối với nhà nước và xã hội" },
+        { "id": "3", "value": "Củng cố và phát triển nền dân chủ" },
+        { "id": "4", "value": "Tạo ra mô hình quốc gia phù hợp" }
+      ],
+      "correct_answer": 1
+    },
+    {
         "id": 24,
-        "question_direction": "Một trong những vai trò của đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh:",
+        "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên: Nếu gặp khi lợi ích chung của Đảng mâu thuẫn với lợi ích riêng của cá nhân, thì:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Là vấn đề mang tính sách lược, quyết định thành công của cách mạng" },
-          { "id": "2", "value": "Là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng" },
-          { "id": "3", "value": "Là nhiệm vụ trong một giai đoạn của cách mạng Việt Nam" },
-          { "id": "4", "value": "Là nhiệm vụ lâu dài của các mạng" }
+          { "id": "1", "value": "Phải bày tỏ quan điểm cá nhân với chủ trương của Đảng" },
+          { "id": "2", "value": "Phải kiên quyết hy sinh lợi ích của cá nhân cho lợi ích của Đảng" },
+          { "id": "3", "value": "Phải đấu tranh để hài hòa giữa lợi ích cá nhân với lợi ích của Đảng" },
+          { "id": "4", "value": "Phải kiên quyết làm sao cho lợi ích cá nhân đi với lợi ích của Đảng" }
         ],
         "correct_answer": 2
       },
       {
         "id": 25,
-        "question_direction": "“Mặt trận dân tộc thống nhất là nơi quy tụ mọi cá nhân và tổ chức yêu nước trong và ngoài nước” câu nói trên của Hồ Chí Minh đề cập đến vấn đề gì?",
+        "question_direction": "Hồ Chí Minh yêu cầu cán bộ, đảng viên phải có mối liên hệ mật thiết với:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Điều kiện của xây dựng đại đoàn kết dân tộc" },
-          { "id": "2", "value": "Hình thức tổ chức của khối đại đoàn kết dân tộc" },
-          { "id": "3", "value": "Vai trò của đại đoàn kết dân tộc" },
-          { "id": "4", "value": "Nền tảng của đại đoàn kết dân tộc" }
+          { "id": "1", "value": "Các tổ chức" },
+          { "id": "2", "value": "Các đảng cộng sản" },
+          { "id": "3", "value": "Nhân dân" },
+          { "id": "4", "value": "Cách mạng thế giới" }
         ],
-        "correct_answer": 2
+        "correct_answer": 3
       },
       {
         "id": 26,
-        "question_direction": "Nguyên tắc quan trọng nhất trong xây dựng và hoạt động của Mặt trận dân tộc thống nhất trong giai đoạn hiện nay là:",
+        "question_direction": "Theo Hồ Chí Minh, đảng văn minh là:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Phải hoạt động theo nguyên tắc tập thể lãnh đạo, cá nhân phụ trách" },
-          { "id": "2", "value": "Phải xây dựng trên nền tảng liên minh công – nông – trí thức, đặt dưới sự lãnh đạo của Đảng." },
-          { "id": "3", "value": "Phải hoạt động theo nguyên tắc hiệp thương dân chủ" },
-          { "id": "4", "value": "Phải đoàn kết lâu dài, chặt chẽ, đoàn kết thật sự, chân thành, thân ái, giúp đỡ cùng nhau tiến bộ" }
+          { "id": "1", "value": "Đảng có kỷ luật nghiêm minh" },
+          { "id": "2", "value": "Đảng thực hiện nguyên tắc tập trung dân chủ" },
+          { "id": "3", "value": "Đảng đoàn kết, thống nhất" },
+          { "id": "4", "value": "Đảng tiêu biểu cho lương tâm, trí tuệ và danh dự của dân tộc" }
         ],
         "correct_answer": 4
       },
       {
         "id": 27,
-        "question_direction": "Trong giai đoạn hiện nay, điều kiện quan trọng nhất để xây dựng khối đại đoàn kết toàn dân tộc là gì?",
+        "question_direction": "Dùng cụm từ sau thích hợp điền vào chỗ trống để hoàn chỉnh phát biểu sau của Chủ tịch Hồ Chí Minh: \"Mỗi đảng viên và cán bộ phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người ...... thật trung thành của nhân dân\"",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Phải lấy lợi ích chung làm điểm quy tụ, đồng thời tôn trọng các lợi ích khác biệt chính đáng" },
-          { "id": "2", "value": "Phải kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" },
-          { "id": "3", "value": "Phải có niềm tin vào nhân dân" },
-          { "id": "4", "value": "Phải có lòng khoan dung, độ lượng với con người" }
+          { "id": "1", "value": "Công bộc" },
+          { "id": "2", "value": "Phục vụ" },
+          { "id": "3", "value": "Đầy tớ" },
+          { "id": "4", "value": "Lãnh đạo" }
         ],
         "correct_answer": 1
       },
       {
         "id": 28,
-        "question_direction": "Em hãy chọn đáp án phù hợp, điền vào chỗ trống: “Một dân tộc không ……… mà cứ ngồi chờ dân tộc khác giúp đỡ thì không xứng đáng được độc lập”",
+        "question_direction": "Nguyên tắc hoạt động nào của đảng được Hồ Chí Minh xem là việc làm thường xuyên 'Như mỗi ngày phải rửa mặt'",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Quyết tâm" },
-          { "id": "2", "value": "Đoàn kết" },
-          { "id": "3", "value": "Tự lực cánh sinh" },
-          { "id": "4", "value": "Chủ động" }
+          { "id": "1", "value": "Dân chủ" },
+          { "id": "2", "value": "Tập thể lãnh đạo, cá nhân phụ trách" },
+          { "id": "3", "value": "Đoàn kết, Tập trung" },
+          { "id": "4", "value": "Tự phê bình và Phê bình" }
         ],
-        "correct_answer": 3
+        "correct_answer": 4
       },
       {
         "id": 29,
-        "question_direction": "Việc xây dựng khối đại đoàn kết toàn dân tộc trong giai đoạn hiện nay, phải đứng vững trên lập trường của giai cấp nào?",
+        "question_direction": "Theo quan điểm Hồ Chí Minh, Nhà nước Việt Nam là nhà nước:",
         "question_type": "radio",
         "answer_option": [
           { "id": "1", "value": "Công nhân" },
-          { "id": "2", "value": "Tư sản, tiểu tư sản" },
-          { "id": "3", "value": "Công nhân, nông dân và trí thức" },
-          { "id": "4", "value": "Công nhân, nông dân" }
+          { "id": "2", "value": "Tập trung" },
+          { "id": "3", "value": "Toàn dân" },
+          { "id": "4", "value": "Dân chủ" }
         ],
-        "correct_answer": 3
+        "correct_answer": 4
       },
       {
         "id": 30,
-        "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh phát biểu sau đây của Hồ Chí Minh: \"Bây giờ còn một điểm rất quan trọng, cũng là…. Điểm này mà thực hiện tốt thì đẻ ra con cháu đều tốt: Đó là đoàn kết\".",
+        "question_direction": "Chọn cụm từ thích hợp để làm rõ nội dung: Theo quan điểm Hồ Chí Minh, nhà nước của nhân dân là nhà nước mà tất cả mọi ...... mọi trong nhà nước và trong xã hội đều thuộc về nhân dân",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Mấu chốt" },
-          { "id": "2", "value": "Điểm mẹ" },
-          { "id": "3", "value": "Quyết định" },
-          { "id": "4", "value": "Then chốt" }
+          { "id": "1", "value": "Cơ quan, tổ chức" },
+          { "id": "2", "value": "Quyền lực" },
+          { "id": "3", "value": "Lực lượng" },
+          { "id": "4", "value": "Cán bộ, công chức" }
         ],
         "correct_answer": 2
       },
       {
         "id": 31,
-        "question_direction": "Theo Hồ Chí Minh, điểm chung để đoàn kết cách mạng Việt Nam với các phong trào giải phóng dân tộc trên thế giới là gì?",
+        "question_direction": "Theo Hồ Chí Minh về hình thức kiểm soát quyền lực nhà nước, trước hết, cần phát huy vai trò, trách nhiệm của tổ chức nào?",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Hòa bình trong công lý" },
-          { "id": "2", "value": "Hòa bình và chủ nghĩa xã hội" },
-          { "id": "3", "value": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội" },
-          { "id": "4", "value": "Độc lập, tự do và quyền bình đẳng giữa các dân tộc" }
+          { "id": "1", "value": "Các đoàn thể chính trị" },
+          { "id": "2", "value": "Đảng Cộng sản Việt Nam" },
+          { "id": "3", "value": "Các tổ chức chính trị - xã hội" },
+          { "id": "4", "value": "Mặt trận Tổ quốc Việt Nam" }
+        ],
+        "correct_answer": 4
+      },
+      {
+        "id": 32,
+        "question_direction": "Phương diện nào dưới đây đóng vai trò là phương diện tiên quyết thể hiện bản chất giai cấp công nhân của Nhà nước Việt Nam?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Tập trung thống nhất" },
+          { "id": "2", "value": "Thống nhất giữa giai cấp công nhân và giai cấp nông dân" },
+          { "id": "3", "value": "Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền" },
+          { "id": "4", "value": "Có sự phân công và phối hợp giữa các cơ quan lập pháp và hành pháp" }
         ],
         "correct_answer": 3
       },
       {
-        "id": 32,
-        "question_direction": "Theo quan điểm Hồ Chí Minh, trong quá trình xây dựng khối đại đoàn kết toàn dân tộc, phải đứng vững trên lập trường của giai cấp nào?",
+        "id": 33,
+        "question_direction": "Theo Hồ Chí Minh, nguyên lý 'dân là chủ' đối với nhà nước Việt Nam mới nhằm khẳng định:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Công nhân" },
-          { "id": "2", "value": "Công nhân, nông dân và trí thức" },
-          { "id": "3", "value": "Công nhân, nông dân" },
-          { "id": "4", "value": "Tư sản, tiểu tư sản" }
+          { "id": "1", "value": "Địa vị các cán bộ, công chức do nhân dân sắp đặt" },
+          { "id": "2", "value": "Cán bộ, công chức là 'đầy tớ' của nhân dân" },
+          { "id": "3", "value": "Mọi cơ quan nhà nước đều do nhân dân tổ chức nên" },
+          { "id": "4", "value": "Địa vị chủ thể tối cao của mọi quyền lực thuộc về nhân dân" }
+        ],
+        "correct_answer": 4
+      },
+      {
+        "id": 34,
+        "question_direction": "Theo Hồ Chí Minh, quyền lực của nhà nước là do nhân dân ủy thác cho. Do vậy, các cơ quan quyền lực nhà nước và đội ngũ cán bộ của nó đều là:",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Công bộc của nhân dân" },
+          { "id": "2", "value": "Ông chủ của nhân dân" },
+          { "id": "3", "value": "Công chức" },
+          { "id": "4", "value": "Viên chức" }
+        ],
+        "correct_answer": 1
+      },
+      {
+        "id": 35,
+        "question_direction": "Theo Hồ Chí Minh, nhà nước vì dân là:",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Nhà nước đề cao tinh thần pháp luật" },
+          { "id": "2", "value": "Nhà nước phát huy vai trò phản biện của các tổ chức" },
+          { "id": "3", "value": "Nhà nước phục vụ lợi ích và nguyện vọng của nhân dân" },
+          { "id": "4", "value": "Nhà nước ghi nhận các giá trị đạo đức phổ biến" }
+        ],
+        "correct_answer": 3
+      },
+      {
+        "id": 36,
+        "question_direction": "Trong giai đoạn hiện nay, để xây dựng đảng thực sự trong sạch, vững mạnh cần:",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Nhân dân được là chủ" },
+          { "id": "2", "value": "Nhân dân được làm chủ" },
+          { "id": "3", "value": "Phát triển chủ nghĩa Mác-Lênin" },
+          { "id": "4", "value": "Phải đề ra đường lối, chủ trương đúng đắn" }
         ],
         "correct_answer": 2
       },
       {
-        "id": 33,
-        "question_direction": "Đoàn kết trên cơ sở độc lập, tự chủ theo tư tưởng Hồ Chí Minh là:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Tự lực cánh sinh, dựa vào sức mình là chính" },
-          { "id": "2", "value": "Cần phải có nhà nước do dân, vì dân, của dân" },
-          { "id": "3", "value": "Cần phải có quốc hội của dân" },
-          { "id": "4", "value": "Cần phải có nền tài chính tự chủ" }
-        ],
-        "correct_answer": 1
-      },
-      {
-        "id": 34,
-        "question_direction": "Vì sao phải đoàn kết quốc tế theo tư tưởng Hồ Chí Minh:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Phát huy sức mạnh dân tộc" },
-          { "id": "2", "value": "Tận dụng sức mạnh thời đại" },
-          { "id": "3", "value": "Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng" },
-          { "id": "4", "value": "Tranh thủ sự ủng hộ của bạn bè quốc tế" }
-        ],
-        "correct_answer": 3
-      },
-      {
-        "id": 35,
-        "question_direction": "Nguyên tắc đoàn kết quốc tế trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình dựa trên:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Các nước láng giềng" },
-          { "id": "2", "value": "Các dân tộc đang phát triển" },
-          { "id": "3", "value": "Các nước cùng phát triển" },
-          { "id": "4", "value": "Các lực lượng tiến bộ trên thế giới" }
-        ],
-        "correct_answer": 4
-      },
-      {
-        "id": 36,
-        "question_direction": "Để xây dựng khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh, cần đặt lợi ích của lực lượng nào lên trên hết:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Toàn thể dân tộc" },
-          { "id": "2", "value": "Văn thân, sĩ phu yêu nước" },
-          { "id": "3", "value": "Giai cấp tư sản, tầng lớp trí thức" },
-          { "id": "4", "value": "Giai cấp công nhân, giai cấp nông dân" }
-        ],
-        "correct_answer": 1
-      },
-      {
         "id": 37,
-        "question_direction": "Hạt nhân trong khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh là:",
+        "question_direction": "Trong giai đoạn hiện nay để xây dựng nhà nước pháp quyền xã hội chủ nghĩa cần:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Tầng lớp trí thức" },
-          { "id": "2", "value": "Giai cấp công nhân" },
-          { "id": "3", "value": "Đội ngũ doanh nhân" },
-          { "id": "4", "value": "Là sự đoàn kết và thống nhất trong Đảng" }
+          { "id": "1", "value": "Xây dựng nhà nước phục vụ giai cấp nông dân" },
+          { "id": "2", "value": "Xây dựng nhà nước thực sự trong sạch, vững mạnh" },
+          { "id": "3", "value": "Xây dựng nhà nước phục vụ giai cấp công nhân" },
+          { "id": "4", "value": "Xây dựng nhà nước phục vụ đội ngũ trí thức" }
         ],
-        "correct_answer": 4
+        "correct_answer": 2
       },
       {
         "id": 38,
-        "question_direction": "Nguyên tắc đoàn kết quốc tế theo tư tưởng Hồ Chí Minh:",
+        "question_direction": "Đổi mới, tăng cường sự lãnh đạo của đảng đối với nhà nước trong giai đoạn hiện nay cần:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Các dân tộc đều bình đẳng" },
-          { "id": "2", "value": "Phát huy sức mạnh dân tộc" },
-          { "id": "3", "value": "Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích; có lý, có tình" },
-          { "id": "4", "value": "Đoàn kết để phát triển kinh tế" }
+          { "id": "1", "value": "Đảng lãnh đạo nhà nước thông qua pháp luật" },
+          { "id": "2", "value": "Tiếp tục nâng cao hiệu quả thực hiện và đổi mới mạnh mẽ phương thức lãnh đạo của đảng đối với nhà nước" },
+          { "id": "3", "value": "Nhà nước đề ra những chủ trương, chính sách lớn để lãnh đạo" },
+          { "id": "4", "value": "Nhà nước chủ động đề ra chính sách, pháp luật" }
         ],
-        "correct_answer": 3
+        "correct_answer": 2
       },
       {
         "id": 39,
-        "question_direction": "Em hãy chọn đáp án phù hợp, điền vào chỗ trống: “Thực hiện đoàn kết quốc tế nhằm kết hợp sức mạnh ……với sức mạnh ………, tạo sức mạnh tổng hợp cho cách mạng”",
+        "question_direction": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải luôn luôn học tập .... về mọi mặt.",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Dân tộc…… thời đại" },
-          { "id": "2", "value": "Dân tộc…… quốc tế" },
-          { "id": "3", "value": "Giai cấp công nhân……… giai cấp nông dân" },
-          { "id": "4", "value": "Nội sinh…… Ngoại sinh" }
+          { "id": "1", "value": "Nâng cao phẩm chất đạo đức" },
+          { "id": "2", "value": "Chính trị" },
+          { "id": "3", "value": "Chủ nghĩa Mác-Lênin" },
+          { "id": "4", "value": "Nâng cao trình độ" }
         ],
         "correct_answer": 1
       },
       {
         "id": 40,
-        "question_direction": "Hiện nay, Mặt trận dân tộc thống nhất là nơi quy tụ các lực lượng:",
+        "question_direction": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải là những người luôn luôn phòng và chống ......",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Mặt trận dân tộc thống nhất là tổ chức của các tầng lớp nhân dân" },
-          { "id": "2", "value": "Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân yêu nước cả trong nước và kiều bào sinh sống ở nước ngoài" },
-          { "id": "3", "value": "Mặt trận dân tộc thống nhất là tổ chức của đảng phái, các đoàn thể, các nhân sĩ" },
-          { "id": "4", "value": "Mặt trận dân tộc thống nhất là tổ chức của giai cấp công nhân, nhân dân, lao động trí óc" }
+          { "id": "1", "value": "Tư túng" },
+          { "id": "2", "value": "Bệnh lười biếng" },
+          { "id": "3", "value": "Các tiêu cực" },
+          { "id": "4", "value": "Bảo thủ, trì trệ" }
         ],
-        "correct_answer": 2
+        "correct_answer": 3
       },
       {
         "id": 41,
-        "question_direction": "Lực lượng khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh:",
+        "question_direction": "Chọn từ thích hợp để hoàn chỉnh phát biểu của Hồ Chí Minh: \" ..... là những người đem chính sách của Đảng, của chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho chính phủ hiểu rõ, để đặt chính sách cho đúng\"",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Giai cấp công nhân" },
-          { "id": "2", "value": "Bao gồm toàn thể nhân dân, tất cả những người Việt Nam yêu nước ở các giai cấp, tầng lớp trong xã hội" },
-          { "id": "3", "value": "Tầng lớp trí thức" },
-          { "id": "4", "value": "Giai cấp nông dân" }
+          { "id": "1", "value": "Cán bộ" },
+          { "id": "2", "value": "Bộ đội" },
+          { "id": "3", "value": "Công chức" },
+          { "id": "4", "value": "Đảng viên" }
         ],
-        "correct_answer": 2
+        "correct_answer": 1
       },
       {
         "id": 42,
-        "question_direction": "Chọn trả lời đúng nhất theo tư tưởng Hồ Chí Minh về tổ chức của Mặt trận dân tộc thống nhất:",
+        "question_direction": "Theo Hồ Chí Minh, hình thức dân chủ hoàn bị nhất là:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Mặt trận dân tộc thống nhất là tổ chức của các tầng lớp nhân dân" },
-          { "id": "2", "value": "Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân yêu nước cả trong nước và kiều bào sinh sống ở nước ngoài" },
-          { "id": "3", "value": "Mặt trận dân tộc thống nhất là tổ chức của đảng phái, các đoàn thể, các nhân sĩ" },
-          { "id": "4", "value": "Mặt trận dân tộc thống nhất là tổ chức của giai cấp công nhân, nhân dân, lao động trí óc" }
+          { "id": "1", "value": "Dân chủ gián tiếp" },
+          { "id": "2", "value": "Dân chủ đại diện" },
+          { "id": "3", "value": "Dân chủ trực tiếp" },
+          { "id": "4", "value": "Dân chủ phổ thông" }
         ],
-        "correct_answer": 2
+        "correct_answer": 3
       },
       {
         "id": 43,
-        "question_direction": "Trong giai đoạn hiện nay, Mặt trận dân tộc thống nhất phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của Đảng, thể hiện điều gì?",
+        "question_direction": "Theo Hồ Chí Minh, nhà nước của dân tộc là:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Nguyên tắc xây dựng và hoạt động của Mặt trận dân tộc thống nhất" },
-          { "id": "2", "value": "Chức năng của Mặt trận dân tộc thống nhất" },
-          { "id": "3", "value": "Phương thức hoạt động của Mặt trận dân tộc thống nhất" },
-          { "id": "4", "value": "Vai trò của mặt trận dân tộc thống nhất" }
+          { "id": "1", "value": "Dân là tất cả" },
+          { "id": "2", "value": "Dân được phục vụ" },
+          { "id": "3", "value": "Dân là chủ" },
+          { "id": "4", "value": "Nhân dân được quyền lãnh đạo trong hệ thống chính trị" }
         ],
-        "correct_answer": 1
+        "correct_answer": 3
       },
       {
         "id": 44,
-        "question_direction": "Chọn cụm từ thích hợp để hoàn chỉnh nội dung câu sau: Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là vấn đề có ý nghĩa….., cơ bản, nhất quán và lâu dài, xuyên suốt tiến trình cách mạng.",
+        "question_direction": "Một trong những điều kiện để kiểm soát quyền lực nhà nước theo Hồ Chí Minh là:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Chiến lược" },
-          { "id": "2", "value": "Sách lược" },
-          { "id": "3", "value": "Cơ bản" },
-          { "id": "4", "value": "To lớn" }
+          { "id": "1", "value": "Có cơ quan chuyên trách" },
+          { "id": "2", "value": "Việc kiểm soát phải có hệ thống" },
+          { "id": "3", "value": "Người đứng đầu các cơ quan phải chịu trách nhiệm" },
+          { "id": "4", "value": "Có sự tham gia của các giai cấp công nhân" }
         ],
-        "correct_answer": 1
+        "correct_answer": 3
       },
       {
         "id": 45,
-        "question_direction": "Tìm ra nguyên tắc đoàn kết quốc tế theo tư tưởng Hồ Chí Minh:",
+        "question_direction": "Theo Hồ Chí Minh, ở Việt Nam quyền lực nhà nước là thừa ủy quyền của nhân dân. Đây là biểu hiện của hình thức:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Đoàn kết trên cơ sở độc lập, tự chủ" },
-          { "id": "2", "value": "Đoàn kết nhằm phát triển kinh tế" },
-          { "id": "3", "value": "Phát huy sức mạnh dân tộc" },
-          { "id": "4", "value": "Đoàn kết nhằm ổn định xã hội" }
+          { "id": "1", "value": "Dân chủ gián tiếp" },
+          { "id": "2", "value": "Dân chủ nhân dân" },
+          { "id": "3", "value": "Dân chủ trực tiếp" },
+          { "id": "4", "value": "Dân chủ phổ thông" }
         ],
         "correct_answer": 1
       },
       {
         "id": 46,
-        "question_direction": "Cơ sở nền tảng hình thành tư tưởng đại đoàn kết toàn dân tộc của Hồ Chí Minh là?",
+        "question_direction": "Đổi mới tăng cường sự lãnh đạo của đảng đối với nhà nước trong giai đoạn hiện nay cần:",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Từ quan điểm của chủ nghĩa Mác – Lênin" },
-          { "id": "2", "value": "Từ thực tiễn dân tộc Việt Nam" },
-          { "id": "3", "value": "Từ vai trò cá nhân Hồ Chí Minh" },
-          { "id": "4", "value": "Từ truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc" }
+          { "id": "1", "value": "Đảng lãnh đạo của nhà nước thông qua pháp luật" },
+          { "id": "2", "value": "Nhà nước đề ra những chủ trương, chính sách lớn để lãnh đạo" },
+          { "id": "3", "value": "Tiếp tục nâng cao hiệu quả thực hiện và đổi mới mạnh mẽ phương thức lãnh đạo của đảng đối với nhà nước" },
+          { "id": "4", "value": "Nhà nước chủ động đề ra chính sách, pháp luật" }
         ],
-        "correct_answer": 4
+        "correct_answer": 3
       },
       {
         "id": 47,
-        "question_direction": "Theo Hồ Chí Minh, “Trong mấy triệu người cũng có người thế này thế khác, nhưng thế này hay thế khác đều dòng dõi tổ tiên ta. Vậy nên ta phải khoan hồng đại độ”. Câu nói trên của Hồ Chí Minh đề cập đến vấn đề gì?",
+        "question_direction": "Trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo trong giai đoạn hiện nay, theo Tư tưởng Hồ Chí Minh cần chú ý đến những vấn đề gì? Chọn đáp án sai",
         "question_type": "radio",
         "answer_option": [
-          { "id": "1", "value": "Nền tảng của đại đoàn kết dân tộc" },
-          { "id": "2", "value": "Vai trò của đại đoàn kết dân tộc" },
-          { "id": "3", "value": "Điều kiện xây dựng đại đoàn kết dân tộc" },
-          { "id": "4", "value": "Lực lượng của khối đại đoàn kết dân tộc" }
+          { "id": "1", "value": "Nhà nước tôn pháp luật" },
+          { "id": "2", "value": "Nhà nước pháp quyền nhân nghĩa" },
+          { "id": "3", "value": "Tam quyền phân lập trong xây dựng quyền lực nhà nước" },
+          { "id": "4", "value": "Nhà nước hợp hiến, hợp pháp" }
         ],
         "correct_answer": 3
-      },
-      {
-        "id": 48,
-        "question_direction": "Nền tảng của khối đại đoàn kết toàn dân tộc theo tư tưởng Hồ Chí Minh:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Giai cấp công nhân" },
-          { "id": "2", "value": "Giai cấp nông dân" },
-          { "id": "3", "value": "Tầng lớp trí thức" },
-          { "id": "4", "value": "Cả 3 đáp án trên" }
-        ],
-        "correct_answer": 4
-      },
-      {
-        "id": 49,
-        "question_direction": "Nguyên tắc xây dựng và hoạt động của Mặt trận dân tộc thống nhất đặt dưới sự lãnh đạo của:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Các tổ chức chính trị - xã hội" },
-          { "id": "2", "value": "Nhà nước xã hội chủ nghĩa" },
-          { "id": "3", "value": "Đảng Cộng sản Việt Nam" },
-          { "id": "4", "value": "Mặt trận dân tộc thống nhất" }
-        ],
-        "correct_answer": 3
-      },
-      {
-        "id": 50,
-        "question_direction": "“Nhân dân” theo tư tưởng Hồ Chí Minh là những ai",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Mỗi một người con Rồng, cháu Tiên" },
-          { "id": "2", "value": "Các giai cấp, tầng lớp nhân dân" },
-          { "id": "3", "value": "Tất cả giai cấp công nhân, nông dân" },
-          { "id": "4", "value": "Vừa là mỗi người Việt Nam cụ thể, vừa là đông đảo quần chúng nhân dân" }
-        ],
-        "correct_answer": 4
-      },
-      {
-        "id": 51,
-        "question_direction": "Kế thừa tư tưởng Hồ Chí Minh, trong giai đoạn hiện nay để xây dựng khối đại đoàn kết toàn dân tộc cần đặt lợi ích của lực lượng nào lên trên hết:",
-        "question_type": "radio",
-        "answer_option": [
-          { "id": "1", "value": "Của giai cấp công nhân" },
-          { "id": "2", "value": "Toàn thể dân tộc" },
-          { "id": "3", "value": "Tầng lớp trí thức" },
-          { "id": "4", "value": "Giai cấp nông dân" }
-        ],
-        "correct_answer": 2
       }
-  ]
-  
+    
+    
+]
+    
