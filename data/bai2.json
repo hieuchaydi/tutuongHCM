@@ -286,6 +286,813 @@
             { "id": "4", "value": "Đạo đức cách mạng là làm hết mình, vì lý tưởng cách mạng." }
           ],
           "correct_answer": "4"
-        }
+        },
+         {
+        "id": 25,
+        "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, đặc điểm cơ bản của thời kỳ từ đầu năm 1941 đến tháng 9-1969 là:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Dần dần hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+            { "id": "2", "value": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" },
+            { "id": "3", "value": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" },
+            { "id": "4", "value": "Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam" }
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 26,
+        "question_direction": "Sự vận dụng và phát triển chủ nghĩa Mác-Lênin ở Hồ Chí Minh nổi lên một số điểm đáng chú ý nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Người cũng đã tìm thấy những điều phù hợp với điều kiện của cách mạng nước ta là Tư tưởng dân chủ tiến bộ" },
+            { "id": "2", "value": "Hồ Chí Minh có tư duy độc lập, tự chủ và sáng tạo, có óc phê phán tinh tường" },
+            { "id": "3", "value": "Hồ Chí Minh tiếp thu có chọn lọc chủ nghĩa Mác- Lênin" },
+            { "id": "4", "value": "Xuất phát từ nhu cầu thực tiễn Việt Nam chứ không phải từ nhu cầu tư duy" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 27,
+        "question_direction": "Một trong những nội dung cơ bản Yêu sách của nhân dân An Nam của Nguyễn Ái Quốc gửi đến Hội nghị Vecxay (Pháp) là:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Bình đẳng dân tộc" },
+            { "id": "2", "value": "Cải cách nền pháp lý Đông Dương bằng cách để người bản xứ cũng được quyền hưởng những bảo đảm pháp lý như người châu Âu." },
+            { "id": "3", "value": "Đòi quyền tự do tôn giáo cho người bản xứ" },
+            { "id": "4", "value": "Đòi quyền độc lập dân tộc" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 28,
+        "question_direction": "Từ năm 1914 đến cuối 1917, Nguyễn Tất Thành ở nước Anh, Người đã làm những công việc gì?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Phụ bếp" },
+            { "id": "2", "value": "Lao động chân tay đốt lò" },
+            { "id": "3", "value": "Tất cả các nghề trên" },
+            { "id": "4", "value": "Quét tuyết" }
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 29,
+        "question_direction": "Giá trị tư tưởng Hồ Chí Minh",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Lý luận về chủ nghĩa xã hội" },
+            { "id": "2", "value": "Mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc" },
+            { "id": "3", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" },
+            { "id": "4", "value": "Lý luận về Đảng Cộng sản" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 30,
+        "question_direction": "Hồ Chí Minh đã tiếp thu những giá trị văn hoá phương Đông nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Chủ nghĩa Mác – Lênin" },
+            { "id": "2", "value": "Những mặt tích cực của Nho giáo" },
+            { "id": "3", "value": "Tư tưởng pháp trị của Pháp gia" },
+            { "id": "4", "value": "Lòng nhân ái của chúa Giê xu" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 31,
+        "question_direction": "Nông dân Việt Nam cuối thế kỷ XIX đầu thế kỷ XX chịu những tầng áp bức bóc lột nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Phong kiến" },
+            { "id": "2", "value": "Tư bản" },
+            { "id": "3", "value": "Thực dân, tư bản, phong kiến" },
+            { "id": "4", "value": "Thực dân" }
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 32,
+        "question_direction": "Theo Hồ Chí Minh, Cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Cách mạng tư sản." },
+            { "id": "2", "value": "Cách mạng dân chủ mới" },
+            { "id": "3", "value": "Cách mạng tư sản dân quyền và thổ địa cách mạng" },
+            { "id": "4", "value": "Cách mạng vô sản" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 33,
+        "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, thời kỳ Hồ Chí Minh tiếp thu truyền thống tốt đẹp của quê hương, gia đình và của dân tộc hình thành nên tư tưởng yêu nước và tìm đường cứu nước là?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Thời kỳ 1911-1920" },
+            { "id": "2", "value": "Thời kỳ 1920-1930" },
+            { "id": "3", "value": "Thời kỳ 1930 - 1941" },
+            { "id": "4", "value": "Thời kỳ trước năm 1911" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 34,
+        "question_direction": "Nguyễn Ái Quốc viết \"Bản án chế độ thực dân Pháp\" được xuất bản vào thời gian nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Năm 1925" },
+            { "id": "2", "value": "Năm 1920" },
+            { "id": "3", "value": "Năm 1930" },
+            { "id": "4", "value": "Năm 1927" }
+        ],
+        "correct_answer": 1
+    },
+    
+      {
+          "id": 35,
+          "question_direction": "Nguyễn Ái Quốc viết \"Bản án chế độ thực dân Pháp\" được xuất bản vào thời gian nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Năm 1925" },
+              { "id": "2", "value": "Năm 1920" },
+              { "id": "3", "value": "Năm 1930" },
+              { "id": "4", "value": "Năm 1927" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 36,
+          "question_direction": "Tư tưởng Hồ Chí Minh về tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta hình thành trong thời gian nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Giai đoạn từ giữa năm 1911 đến cuối năm 1920" },
+              { "id": "2", "value": "Giai đoạn đầu năm 1930 đến đầu năm 1941" },
+              { "id": "3", "value": "Giai đoạn cuối năm 1920 đến đầu năm 1930" },
+              { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 37,
+          "question_direction": "Tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản của Hồ Chí Minh dần dần hình thành ở thời kỳ nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Thời kỳ 1930 - 1941" },
+              { "id": "2", "value": "Thời kỳ trước năm 1911" },
+              { "id": "3", "value": "Thời kỳ 1911-1920" },
+              { "id": "4", "value": "Thời kỳ 1920-1930" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 38,
+          "question_direction": "Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh:",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" },
+              { "id": "2", "value": "Tư tưởng Hồ Chí Minh là sự áp dụng chủ nghĩa Mác - Lênin vào điều kiện nước ta" },
+              { "id": "3", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta" },
+              { "id": "4", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 39,
+          "question_direction": "Giá trị truyền thống dân tộc cơ bản nào hình thành nên tư tưởng Hồ Chí Minh?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Lòng yêu nước của dân tộc Việt Nam" },
+              { "id": "2", "value": "Tinh thần ham học hỏi" },
+              { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
+              { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 40,
+          "question_direction": "Chủ tịch Hồ Chí Minh đã ảnh hưởng những tinh hoa văn hoá phương Đông nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Lão giáo" },
+              { "id": "2", "value": "Nho giáo, Phật Giáo, Lão giáo" },
+              { "id": "3", "value": "Phật giáo" },
+              { "id": "4", "value": "Nho giáo" }
+          ],
+          "correct_answer": 2
+      },
+      {
+          "id": 41,
+          "question_direction": "Giai đoạn: Vượt qua thử thách, kiên trì con đường đã xác định, tiến tới giành thắng lợi đầu tiên cho cách mạng Việt Nam, là thời gian nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Từ 1930 đến 1945" },
+              { "id": "2", "value": "Từ 1920 đến 1930" },
+              { "id": "3", "value": "Từ 1945 đến 1969" },
+              { "id": "4", "value": "Từ 1911 đến 1920" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 42,
+          "question_direction": "Các giá trị về quyền sống, quyền tự do, quyền mưu cầu hạnh phúc được Hồ Chí Minh tiếp thu từ đâu?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Tuyên ngôn độc lập của Mỹ năm 1776" },
+              { "id": "2", "value": "Tuyên ngôn nhân quyền của Pháp 1789" },
+              { "id": "3", "value": "Phật giáo và Nho giáo" },
+              { "id": "4", "value": "Các tác phẩm của các nhà Khai sáng" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 43,
+          "question_direction": "Trong quá trình đi lên xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay, nhân tố nào được coi là nguồn động lực to lớn của đất nước?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Chủ nghĩa yêu nước" },
+              { "id": "2", "value": "Tinh thần nhân ái, khoan dung" },
+              { "id": "3", "value": "Tinh thần cần cù, dũng cảm" },
+              { "id": "4", "value": "Niềm tự hào dân tộc" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 44,
+          "question_direction": "Những giá trị văn hóa phương Tây nào mà Hồ Chí Minh chỉ ra vẫn tiếp tục được kế thừa trong việc xây dựng nhà nước xã hội chủ nghĩa Việt Nam hiện nay:",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Tư tưởng Pháp trị, sử dụng pháp luật để giáo hóa người dân." },
+              { "id": "2", "value": "Tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích con người làm việc thiện, chống lại điều ác." },
+              { "id": "3", "value": "Tư tưởng về xây dựng Nhà nước Pháp quyền của nhân dân, do nhân dân và vì nhân dân." },
+              { "id": "4", "value": "Tư tưởng về xây dựng một xã hội lý tưởng, không có chiến tranh, các dân tộc có mối quan hệ hữu nghị và hợp tác" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 45,
+          "question_direction": "Cơ sở lý luận nào dẫn tới sự hình thành tư tưởng Hồ Chí Minh?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Chủ nghĩa Mác – Lênin" },
+              { "id": "2", "value": "Giá trị truyền thống tốt đẹp của dân tộc" },
+              { "id": "3", "value": "Tinh hoa văn hoá nhân loại" },
+              { "id": "4", "value": "Cả 3 phương án trên" }
+          ],
+          "correct_answer": 4
+      },
+      {
+        "id": 46,
+        "question_direction": "Điều gì là chuẩn mực cao nhất, đứng đầu bảng giá trị văn hoá, tinh thần Việt Nam?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Tinh thần ham học hỏi" },
+            { "id": "2", "value": "Chủ nghĩa yêu nước của dân tộc Việt Nam" },
+            { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
+            { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 47,
+        "question_direction": "Trong giai đoạn hiện nay, việc học tập chủ nghĩa Mác theo cách nào là đúng với tinh thần tư tưởng Hồ Chí Minh?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Học thuộc lòng một số sách vở của chủ nghĩa Mác - Lênin." },
+            { "id": "2", "value": "Học chủ nghĩa Mác - Lênin để tìm ra những kết luận có sẵn cho con đường giải phóng dân tộc." },
+            { "id": "3", "value": "Học lý luận của Mác về đấu tranh giai cấp thì mình cũng nêu ra khẩu hiệu giai cấp tranh đấu." },
+            { "id": "4", "value": "Học chủ nghĩa Mác là học tập cái tinh thần xử trí mọi việc, đối với mọi người và đối với bản thân mình." }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 48,
+        "question_direction": "Một trong những nguồn gốc của Tư tưởng Hồ Chí Minh là tiếp thu:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Giá trị truyền thống dân tộc" },
+            { "id": "2", "value": "Toàn bộ tư tưởng của các nhà khai sáng" },
+            { "id": "3", "value": "Lòng nhân ái, đức hy sinh của Hồi giáo" },
+            { "id": "4", "value": "Các giá trị văn hoá tiến bộ của thời kỳ Phục hưng" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 49,
+        "question_direction": "Giai đoạn vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo hình thành trong thời gian nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Giai đoạn đầu năm 1930 đến đầu năm 1941" },
+            { "id": "2", "value": "Giai đoạn cuối năm 1920 đến đầu năm 1930" },
+            { "id": "3", "value": "Giai đoạn từ giữa năm 1911 đến cuối năm 1920" },
+            { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 50,
+        "question_direction": "Giai đoạn Hình thành tư tưởng yêu nước, thường nói của Nguyễn Ái Quốc được tính từ thời gian nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Năm 1911 đến năm 1920" },
+            { "id": "2", "value": "Năm 1921 đến năm 1930" },
+            { "id": "3", "value": "Năm 1930 đến năm 1945" },
+            { "id": "4", "value": "Trước năm 1911" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 51,
+        "question_direction": "Thử thách về mặt lập trường tư tưởng mà Nguyễn Ái Quốc - Hồ Chí Minh phải vượt qua trong giai đoạn 1930 - 1941 là:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Bị đế quốc cầm tù" },
+            { "id": "2", "value": "Đời sống khổ cực của người cách mạng trong điều kiện hoạt động bí mật" },
+            { "id": "3", "value": "Bị bệnh hiểm nghèo" },
+            { "id": "4", "value": "Quan điểm 'tả khuynh' của Quốc tế Cộng sản thời kỳ đó" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 52,
+        "question_direction": "Tư tưởng Hồ Chí Minh giai đoạn 1954-1969.",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Thi hành hai nhiệm vụ chiến lược" },
+            { "id": "2", "value": "Cả A và B (Xây dựng xã hội chủ nghĩa ở miền Bắc và tiếp tục cách mạng dân tộc dân chủ ở miền Nam)" },
+            { "id": "3", "value": "Tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam" },
+            { "id": "4", "value": "Xây dựng chủ nghĩa xã hội ở miền Bắc" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 53,
+        "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, đặc điểm cơ bản của thời kỳ trước năm 1911 là:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Hình thành tư tưởng yêu nước và có chí hướng tìm con đường cứu nước mới" },
+            { "id": "2", "value": "Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam" },
+            { "id": "3", "value": "Hình thành tư tưởng giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+            { "id": "4", "value": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 54,
+        "question_direction": "Hồ Chí Minh đã kế thừa và đổi mới tư tưởng dùng nhân trị, đức trị để quản lý xã hội, theo học thuyết nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Nho giáo" },
+            { "id": "2", "value": "Phật giáo" },
+            { "id": "3", "value": "Lão giáo" },
+            { "id": "4", "value": "Chủ nghĩa Mác – Lênin" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 55,
+        "question_direction": "Một trong những truyền thống tốt đẹp của tư tưởng, văn hoá Việt Nam được Hồ Chí Minh tiếp thu là gì?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Những mặt tích cực của Nho Giáo" },
+            { "id": "2", "value": "Tư tưởng vị tha của Phật giáo" },
+            { "id": "3", "value": "Lòng nhân ái, đức hy sinh của Hồi giáo" },
+            { "id": "4", "value": "Chủ nghĩa yêu nước Việt Nam" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 56,
+        "question_direction": "Sự kiện lịch sử nào là bước ngoặt quan trọng trong cuộc đời của Hồ Chí Minh, chủ nghĩa yêu nước kết hợp chặt chẽ với lập trường cách mạng vô sản, trở thành người cộng sản Việt Nam đầu tiên?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Bỏ phiếu tán thành Quốc tế Cộng sản, tham gia sáng lập Đảng Cộng sản Pháp" },
+            { "id": "2", "value": "Gia nhập Đảng Xã hội của giai cấp công nhân Pháp năm 1919" },
+            { "id": "3", "value": "Tham gia sáng lập Đảng Cộng sản Pháp" },
+            { "id": "4", "value": "Gửi Yêu sách của nhân dân An Nam tới Hội nghị Vécxây (18-6-1919)" }
+        ],
+        "correct_answer": 1
+    },
+    {
+      "id": 57,
+      "question_direction": "Cống hiến lý luận to lớn nào của Hồ Chí Minh giúp cho các dân tộc thuộc địa con đường giải phóng dân tộc gắn với sự tiến bộ xã hội trong giai đoạn hiện nay?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Lý luận về Đảng Cộng sản" },
+          { "id": "2", "value": "Lý luận về chủ nghĩa xã hội" },
+          { "id": "3", "value": "Lý luận về cách mạng giải phóng dân tộc" },
+          { "id": "4", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" }
+      ],
+      "correct_answer": 3
+  },
+  {
+      "id": 58,
+      "question_direction": "Hồ Chí Minh chú ý kế thừa, phát triển tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích làm việc thiện, chống lại điều ác, theo học thuyết nào?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Nho giáo" },
+          { "id": "2", "value": "Lão giáo" },
+          { "id": "3", "value": "Phật giáo" },
+          { "id": "4", "value": "Mao Trạch Đông" }
+      ],
+      "correct_answer": 3
+  },
+  {
+      "id": 59,
+      "question_direction": "Quá trình hình thành và phát triển tư tưởng Hồ Chí Minh được chia thành mấy thời kỳ?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "3" },
+          { "id": "2", "value": "5" },
+          { "id": "3", "value": "6" },
+          { "id": "4", "value": "4" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 60,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống để hoàn thành phát biểu sau của Hồ Chí Minh: 'Bây giờ học thuyết nhiều, chủ nghĩa nhiều, nhưng chủ nghĩa chân chính nhất, chắc chắn nhất, cách mạng nhất là chủ nghĩa ..........'.",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Học thuyết Tôn Dật Tiên" },
+          { "id": "2", "value": "Mác" },
+          { "id": "3", "value": "Lênin" },
+          { "id": "4", "value": "Mã Khắc Tư" }
+      ],
+      "correct_answer": 3
+  },
+  {
+      "id": 61,
+      "question_direction": "Những giá trị tích cực nào của Phật giáo được Hồ Chí Minh kế thừa, phát triển.",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Tư tưởng bác ái" },
+          { "id": "2", "value": "Tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích con người làm việc thiện, chống lại điều ác" },
+          { "id": "3", "value": "Tư tưởng nhân nghĩa" },
+          { "id": "4", "value": "Triết lý tu thân dưỡng tính, đề cao giá trị đạo đức" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 62,
+      "question_direction": "'Tuy Khổng Tử là phong kiến và tuy trong học thuyết của Khổng Tử có nhiều điều không đúng song những điều hay trong đó thì chúng ta nên học'. Học thuyết nào ở phương Đông được Hồ Chí Minh đề cập ở nội dung trên?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Nho giáo" },
+          { "id": "2", "value": "Phật giáo" },
+          { "id": "3", "value": "Tư tưởng của Tôn Trung Sơn" },
+          { "id": "4", "value": "Lão giáo" }
+      ],
+      "correct_answer": 1
+  },
+  {
+      "id": 63,
+      "question_direction": "Hồ Chí Minh chịu ảnh hưởng sâu rộng của nền văn hóa nào?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Đạo Công giáo" },
+          { "id": "2", "value": "Tư tưởng pháp trị của Pháp gia" },
+          { "id": "3", "value": "Lòng nhân ái của chúa Giê xu" },
+          { "id": "4", "value": "Nền văn hoá dân chủ và cách mạng phương Tây" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 64,
+      "question_direction": "Tác phẩm nào của Lênin được Nguyễn Ái Quốc đọc vào Tháng 7 năm 1920?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Sơ thảo lần thứ nhất vấn đề dân tộc và thuộc địa" },
+          { "id": "2", "value": "Sơ thảo lần thứ nhất Luận cương của Lênin về các vấn đề thuộc địa" },
+          { "id": "3", "value": "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa" },
+          { "id": "4", "value": "Sơ thảo lần thứ nhất Luận cương của Lênin về các vấn đề dân tộc" }
+      ],
+      "correct_answer": 3
+  },
+  {
+      "id": 65,
+      "question_direction": "Nguyễn Ái Quốc đọc 'Sơ thảo lần thứ nhất Luận cương về Đổn đề dân tộc và vấn đề thuộc địa' của VILênin vào thời gian nào?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "7/1922" },
+          { "id": "2", "value": "7/1918" },
+          { "id": "3", "value": "7/1917" },
+          { "id": "4", "value": "7/1920" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 66,
+      "question_direction": "Cơ sở lý luận quyết định bước phát triển mới về chất trong tư tưởng Hồ Chí Minh là",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Tư tưởng của Phật giáo" },
+          { "id": "2", "value": "Chủ nghĩa Mác – Lênin" },
+          { "id": "3", "value": "Tư tưởng của Lão giáo" },
+          { "id": "4", "value": "Tư tưởng của Nho giáo" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 67,
+      "question_direction": "Nhân cách Hồ Chí Minh thời niên thiếu chịu ảnh hưởng sâu sắc từ một người phụ nữ được cho là điển hình về tính cần mẫn, tần tảo, đảm đang, hết mực thương yêu chồng, thương yêu các con và ăn ở nhân đức với mọi người, được bà con láng giềng mến phục. Người phụ nữ được nhắc đến ở đây là ai?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Cụ bà Nguyễn Thị Kép - Bà ngoại Bác Hồ" },
+          { "id": "2", "value": "Bà Nguyễn Thị Thanh - Chị gái Bác Hồ" },
+          { "id": "3", "value": "Cụ Hoàng Thị Loan - Thân mẫu Bác Hồ" },
+          { "id": "4", "value": "Cụ Hoàng Thị An - Dì ruột Bác Hồ" }
+      ],
+      "correct_answer": 3
+  },
+  
+    {
+        "id": 68,
+        "question_direction": "Giá trị truyền thống dân tộc cơ bản nào hình thành nên tư tưởng Hồ Chí Minh?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Lòng yêu nước của dân tộc Việt Nam" },
+            { "id": "2", "value": "Tinh thần ham học hỏi" },
+            { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
+            { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 69,
+        "question_direction": "Chủ tịch Hồ Chí Minh đã ảnh hưởng những tinh hoa văn hoá phương Đông nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Lão giáo" },
+            { "id": "2", "value": "Nho giáo, Phật Giáo, Lão giáo" },
+            { "id": "3", "value": "Phật giáo" },
+            { "id": "4", "value": "Nho giáo" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 70,
+        "question_direction": "Giai đoạn: Vượt qua thử thách, kiên trì con đường đã xác định, tiến tới giành thắng lợi đầu tiên cho cách mạng Việt Nam, là thời gian nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Từ 1930 đến 1945" },
+            { "id": "2", "value": "Từ 1920 đến 1930" },
+            { "id": "3", "value": "Từ 1945 đến 1969" },
+            { "id": "4", "value": "Từ 1911 đến 1920" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 71,
+        "question_direction": "Các giá trị về quyền sống, quyền tự do, quyền mưu cầu hạnh phúc được Hồ Chí Minh tiếp thu từ đâu?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Tuyên ngôn độc lập của Mỹ năm 1776" },
+            { "id": "2", "value": "Tuyên ngôn nhân quyền của Pháp 1789" },
+            { "id": "3", "value": "Phật giáo và Nho giáo" },
+            { "id": "4", "value": "Các tác phẩm của các nhà Khai sảng" }
+        ],
+        "correct_answer": 2
+    },
+    {
+        "id": 72,
+        "question_direction": "Trong quá trình đi lên xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay, nhân tố nào được coi là nguồn động lực to lớn của đất nước?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Chủ nghĩa yêu nước" },
+            { "id": "2", "value": "Tinh thần nhân ái, khoan dung" },
+            { "id": "3", "value": "Tinh thần cần cù, dũng cảm" },
+            { "id": "4", "value": "Niềm tự hào dân tộc" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 73,
+        "question_direction": "Những giá trị văn hóa phương Tây nào mà Hồ Chí Minh chỉ ra vẫn tiếp tục được kế thừa trong việc xây dựng nhà nước xã hội chủ nghĩa Việt Nam hiện nay?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Tư tưởng Pháp trị, sử dụng pháp luật để giáo hóa người dân." },
+            { "id": "2", "value": "Tư tưởng từ bi, vị tha, yêu thương con người, khuyến khích con người làm việc thiện, chống lại điều ác." },
+            { "id": "3", "value": "Tư tưởng về xây dựng Nhà nước Pháp quyền của nhân dân, do nhân dân và vì nhân dân." },
+            { "id": "4", "value": "Tư tưởng về xây dựng một xã hội lý tưởng, không có chiến tranh, các dân tộc có mối quan hệ hữu nghị và hợp tác." }
+        ],
+        "correct_answer": 3
+    },
+    {
+        "id": 74,
+        "question_direction": "Cơ sở lý luận nào dẫn tới sự hình thành tư tưởng Hồ Chí Minh?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Chủ nghĩa Mác – Lênin" },
+            { "id": "2", "value": "Giá trị truyền thống tốt đẹp của dân tộc" },
+            { "id": "3", "value": "Tinh hoa văn hoá nhân loại" },
+            { "id": "4", "value": "Cả 3 phương án trên" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 75,
+        "question_direction": "Tư tưởng Hồ Chí Minh góp phần tích cực vào:",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Góp phần tích cực vào lý luận về chủ nghĩa xã hội" },
+            { "id": "2", "value": "Góp phần tích cực vào lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" },
+            { "id": "3", "value": "Góp phần tích cực vào lý luận về Đảng Cộng sản" },
+            { "id": "4", "value": "Góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác" }
+        ],
+        "correct_answer": 4
+    },
+    {
+        "id": 76,
+        "question_direction": "Năm 1941, mở đầu tác phẩm của mình, Nguyễn Ái Quốc viết: “Dân ta phải biết sử ta, Cho tường gốc tích nước nhà Việt Nam”. Đó là tác phẩm nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Đường cách mệnh" },
+            { "id": "2", "value": "Lịch sử nước ta" },
+            { "id": "3", "value": "Bài ca du kích" },
+            { "id": "4", "value": "Vi hành" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 77,
+        "question_direction": "Giai đoạn: Hình thành cơ bản Tư tưởng Hồ Chí Minh về con đường cách mạng Việt Nam, được tính từ thời gian nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Năm 1911 đến năm 1920" },
+            { "id": "2", "value": "Năm 1921 đến năm 1930" },
+            { "id": "3", "value": "Năm 1930 đến năm 1945" },
+            { "id": "4", "value": "Trước năm 1911" }
+        ],
+        "correct_answer": 1
+    },
+    {
+        "id": 78,
+        "question_direction": "Hồ Chí Minh đã kế thừa, phát triển tư tưởng: sống gắn bó với thiên nhiên, hoà đồng với thiên nhiên, bảo vệ môi trường sống của học thuyết nào?",
+        "question_type": "radio",
+        "answer_option": [
+            { "id": "1", "value": "Tư tưởng của Tôn Trung Sơn" },
+            { "id": "2", "value": "Tư tưởng của Nho giáo" },
+            { "id": "3", "value": "Tư tưởng của Phật giáo" },
+            { "id": "4", "value": "Tư tưởng của Đạo giáo" }
+        ],
+        "correct_answer": 4
+    },
+    
+      {
+          "id": 79,
+          "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, đặc điểm cơ bản của thời kỳ từ đầu năm 1941 đến tháng 9-1969 là:",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Dần dần hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
+              { "id": "2", "value": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" },
+              { "id": "3", "value": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" },
+              { "id": "4", "value": "Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 80,
+          "question_direction": "Sự vận dụng và phát triển chủ nghĩa Mác-Lênin ở Hồ Chí Minh nổi lên một số điểm đáng chú ý nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Người cũng đã tìm thấy những điều phù hợp với điều kiện của cách mạng nước ta là Tư tưởng dân chủ tiến bộ" },
+              { "id": "2", "value": "Hồ Chí Minh có tư duy độc lập, tự chủ và sáng tạo, có óc phê phán tinh tường" },
+              { "id": "3", "value": "Hồ Chí Minh tiếp thu có chọn lọc chủ nghĩa Mác- Lênin" },
+              { "id": "4", "value": "Xuất phát từ nhu cầu thực tiễn Việt Nam chứ không phải từ nhu cầu tư duy" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 81,
+          "question_direction": "Một trong những nội dung cơ bản Yêu sách của nhân dân An Nam của Nguyễn Ái Quốc gửi đến Hội nghị Vecxay (Pháp) là:",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Bình đẳng dân tộc" },
+              { "id": "2", "value": "Cải cách nền pháp lý Đông Dương bằng cách để người bản xứ cũng được quyền hưởng những bảo đảm pháp lý như người châu Âu." },
+              { "id": "3", "value": "Đòi quyền tự do tôn giáo cho người bản xứ" },
+              { "id": "4", "value": "Đòi quyền độc lập dân tộc" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 82,
+          "question_direction": "Từ năm 1914 đến cuối 1917, Nguyễn Tất Thành ở nước Anh, Người đã làm những công việc gì?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Phụ bếp" },
+              { "id": "2", "value": "Lao động chân tay đốt lò" },
+              { "id": "3", "value": "Tất cả các nghề trên" },
+              { "id": "4", "value": "Quét tuyết" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 83,
+          "question_direction": "Giá trị tư tưởng Hồ Chí Minh",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Lý luận về chủ nghĩa xã hội" },
+              { "id": "2", "value": "Mở ra cho các dân tộc thuộc địa con đường giải phóng dân tộc" },
+              { "id": "3", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" },
+              { "id": "4", "value": "Lý luận về Đảng Cộng sản" }
+          ],
+          "correct_answer": 2
+      },
+      {
+          "id": 84,
+          "question_direction": "Hồ Chí Minh đã tiếp thu những giá trị văn hoá phương Đông nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Chủ nghĩa Mác – Lênin" },
+              { "id": "2", "value": "Những mặt tích cực của Nho giáo" },
+              { "id": "3", "value": "Tư tưởng pháp trị của Pháp gia" },
+              { "id": "4", "value": "Lòng nhân ái của chúa Giê xu" }
+          ],
+          "correct_answer": 2
+      },
+      {
+          "id": 85,
+          "question_direction": "Nông dân Việt Nam cuối thế kỷ XIX đầu thế kỷ XX chịu những tầng áp bức bóc lột nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Phong kiến" },
+              { "id": "2", "value": "Tư bản" },
+              { "id": "3", "value": "Thực dân, tư bản, phong kiến" },
+              { "id": "4", "value": "Thực dân" }
+          ],
+          "correct_answer": 3
+      },
+      {
+          "id": 86,
+          "question_direction": "Theo Hồ Chí Minh, Cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Cách mạng tư sản." },
+              { "id": "2", "value": "Cách mạng dân chủ mới" },
+              { "id": "3", "value": "Cách mạng tư sản dân quyền và thổ địa cách mạng" },
+              { "id": "4", "value": "Cách mạng vô sản" }
+          ],
+          "correct_answer": 2
+      },
+      {
+          "id": 87,
+          "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, thời kỳ Hồ Chí Minh tiếp thu truyền thống tốt đẹp của quê hương, gia đình và của dân tộc hình thành nên tư tưởng yêu nước và tìm đường cứu nước là?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Thời kỳ 1911-1920" },
+              { "id": "2", "value": "Thời kỳ 1920-1930" },
+              { "id": "3", "value": "Thời kỳ 1930 - 1941" },
+              { "id": "4", "value": "Thời kỳ trước năm 1911" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 88,
+          "question_direction": "Nguyễn Ái Quốc viết 'Bản án chế độ thực dân Pháp' được xuất bản vào thời gian nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Năm 1925" },
+              { "id": "2", "value": "Năm 1920" },
+              { "id": "3", "value": "Năm 1930" },
+              { "id": "4", "value": "Năm 1927" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 89,
+          "question_direction": "Tư tưởng Hồ Chí Minh về tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta hình thành trong thời gian nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Giai đoạn từ giữa năm 1911 đến cuối năm 1920" },
+              { "id": "2", "value": "Giai đoạn đầu năm 1930 đến đầu năm 1941" },
+              { "id": "3", "value": "Giai đoạn cuối năm 1920 đến đầu năm 1930" },
+              { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
+          ],
+          "correct_answer": 4
+      },
+      {
+          "id": 90,
+          "question_direction": "Tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản của Hồ Chí Minh dần dần hình thành ở thời kỳ nào?",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Thời kỳ 1930 - 1941" },
+              { "id": "2", "value": "Thời kỳ trước năm 1911" },
+              { "id": "3", "value": "Thời kỳ 1911-1920" },
+              { "id": "4", "value": "Thời kỳ 1920-1930" }
+          ],
+          "correct_answer": 1
+      },
+      {
+          "id": 91,
+          "question_direction": "Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh:",
+          "question_type": "radio",
+          "answer_option": [
+              { "id": "1", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" },
+              { "id": "2", "value": "Tư tưởng Hồ Chí Minh là sự áp dụng chủ nghĩa Mác - Lênin vào điều kiện nước ta" },
+              { "id": "3", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta" },
+              { "id": "4", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" }
+          ],
+          "correct_answer": 3
+      } 
 ]
     
