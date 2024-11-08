@@ -67,30 +67,76 @@ function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
     questionsContainer.innerHTML = ""; // Clear old content
 
-    questions.forEach((question, index) => {
-        const questionDiv = document.createElement("div");
-        questionDiv.classList.add("question");
-        questionDiv.dataset.correctAnswer = question.correct_answer; // Store correct answer
+  questions.forEach((question, index) => {
+      const questionDiv = document.createElement("div");
+      const questionHeaderDiv = document.createElement("div");
 
-        // Display question text
-        const questionText = document.createElement("p");
-        questionText.textContent = `${index + 1}. ${question.question_direction}`;
-        questionDiv.appendChild(questionText);
+      questionDiv.classList.add("question");
+      questionDiv.dataset.correctAnswer = question.correct_answer; // Store correct answer
 
-        // Display answer options
-        question.answer_option.forEach(option => {
-            const label = document.createElement("label");
-            const input = document.createElement("input");
-            input.type = "radio";
-            input.name = `question${question.id}`;
-            input.value = option.id;
-            label.appendChild(input);
-            label.appendChild(document.createTextNode(option.value));
-            questionDiv.appendChild(label);
-        });
+      questionHeaderDiv.classList.add("question-header");
 
-        questionsContainer.appendChild(questionDiv);
-    });
+      // Display question text
+      const questionNumber = document.createElement("p");
+      const questionText = document.createElement("p");
+
+      questionNumber.textContent = `Câu ${index + 1}:`
+      questionNumber.classList.add("question-number");
+
+      questionText.innerHTML = `${question.question_direction}`;
+
+      questionHeaderDiv.appendChild(questionNumber);
+      questionHeaderDiv.appendChild(questionText);
+
+      questionDiv.appendChild(questionHeaderDiv);
+
+      const answerDiv = document.createElement("div");
+      answerDiv.classList.add("answer-div");
+
+      const optionLabels = ['A', 'B', 'C', 'D'];
+
+      // Display answer options
+      question.answer_option.forEach((option, optionIndex) => {
+          const answerOpionDiv = document.createElement("div");
+          const label = document.createElement("label");
+          const input = document.createElement("input");
+          const optionText = document.createElement("span");
+          const optionLabel = document.createElement("span");
+
+          answerOpionDiv.classList.add("answer-option-div");
+          
+          optionLabel.classList.add("option-label-text");
+          optionLabel.textContent = optionLabels[optionIndex];
+          
+          input.type = "radio";
+          input.name = `question_${question.id}`;
+          input.value = option.id;
+          input.classList.add("custom-radio"); // Add a class for custom styling
+
+          label.classList.add("option-label"); // Add a class for styling
+          label.appendChild(input);
+          label.appendChild(optionText);
+    
+          // Use innerHTML to render HTML content in the option value
+          optionText.innerHTML = option.value;
+
+          answerOpionDiv.appendChild(optionLabel);
+          answerOpionDiv.appendChild(label);
+          answerDiv.appendChild(answerOpionDiv);
+
+          input.addEventListener('change', () => {
+            document.querySelectorAll(`input[name="question_${question.id}"]`).forEach(radio => {
+              radio.parentElement.classList.remove('selected');
+            });
+            if (input.checked) {
+              label.classList.add('selected');
+            }
+          });
+      });
+
+      questionDiv.appendChild(answerDiv);
+      questionsContainer.appendChild(questionDiv);
+  });
 }
 
 // Submit exam and display results

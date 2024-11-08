@@ -1,143 +1,200 @@
 /* Đặt font chữ và căn chỉnh cơ bản */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #121212; /* Nền tối */
-    color: #e0e0e0; /* Màu chữ sáng */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212; /* Nền tối */
+  color: #e0e0e0; /* Màu chữ sáng */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 0;
 }
 
 h1 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    color: #007bff; /* Màu sáng cho tiêu đề */
-    text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #007bff; /* Màu sáng cho tiêu đề */
+  text-align: center;
 }
 
 .button-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    color: #fff;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 button:hover {
-    background-color: #0056b3;
+  background-color: #0056b3;
 }
 
 button:disabled {
-    background-color: #ccc;
-    cursor: not-allowed;
+  background-color: #ccc;
+  cursor: not-allowed;
 }
 
 .question-container {
-    width: 100%;
-    max-width: 700px;
-    background-color: #1f1f1f; /* Màu nền tối cho container */
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    margin-bottom: 20px;
+  width: 100%;
+  max-width: 1100px;
+  background-color: #1f1f1f; /* Màu nền tối cho container */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  margin-bottom: 20px;
 }
 
 .question {
-    margin-bottom: 15px;
-    padding: 15px;
-    background-color: #2a2a2a; /* Màu nền tối cho câu hỏi */
-    border: 1px solid #444;
-    border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 15px;
+  background-color: #2a2a2a; /* Màu nền tối cho câu hỏi */
+  border: 1px solid #444;
+  border-radius: 5px;
 }
 
 .question p {
-    font-weight: bold;
-    margin-bottom: 8px;
-    color: #e0e0e0; /* Màu chữ sáng cho câu hỏi */
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #e0e0e0; /* Màu chữ sáng cho câu hỏi */
 }
 
 label {
-    display: block;
-    margin-bottom: 5px;
-    font-size: 0.95rem;
-    color: #e0e0e0; /* Màu chữ sáng cho các lựa chọn */
-    cursor: pointer;
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.95rem;
+  color: #e0e0e0; /* Màu chữ sáng cho các lựa chọn */
+  cursor: pointer;
 }
 
 input[type="radio"] {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .result-container {
-    width: 100%;
-    max-width: 700px;
-    background-color: #333; /* Nền tối cho phần kết quả */
-    border: 2px solid #555;
-    border-radius: 8px;
-    padding: 20px;
-    margin-top: 20px;
+  width: 100%;
+  max-width: 1100px;
+  background-color: #333; /* Nền tối cho phần kết quả */
+  border: 2px solid #555;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 .correct {
-    background-color: #2d6a4f;
-    border-left: 4px solid #28a745;
-    padding: 10px;
-    margin-top: 10px;
-    border-radius: 5px;
-    color: #e0e0e0;
+  background-color: #2d6a4f;
+  border-left: 4px solid #28a745;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: #e0e0e0;
 }
 
 .incorrect {
-    background-color: #9b2226;
-    border-left: 4px solid #dc3545;
-    padding: 10px;
-    margin-top: 10px;
-    border-radius: 5px;
-    color: #e0e0e0;
+  background-color: #9b2226;
+  border-left: 4px solid #dc3545;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: #e0e0e0;
 }
 
 #score {
-    font-size: 1.2rem;
-    color: #28a745;
-    text-align: center;
-    margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: #28a745;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 #timer {
-    font-size: 1.1rem;
-    color: #dc3545;
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: #dc3545;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-
 input[type="radio"]:checked {
-    background-color: #007bff;
+  background-color: #007bff;
 }
 
 input[type="radio"]:focus {
-    outline: none;
+  outline: none;
 }
 
-
 body.dark-mode {
-    background-color: #121212;
+  background-color: #121212;
 }
 
 body.dark-mode .container {
-    background-color: #1f1f1f;
+  background-color: #1f1f1f;
+}
+
+.question-header {
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.question-number {
+  font-weight: 700;
+}
+
+.option-label {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 8px; /* Add some space between options */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-right: 10px;
+  height: 100%;
+}
+
+.option-label input {
+  margin-right: 16px; /* Add some space between the input and the text */
+  margin-left: 16px;
+}
+
+.option-label.selected {
+  border-color: #4680ff; /* Blue border when selected */
+}
+
+.answer-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  gap: 10px; /* Space between columns */
+  width: 100%;
+}
+
+.answer-option-div {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.answer-option {
+  display: flex;
+  align-items: baseline; /* Align items with the baseline of the first line of text */
+}
+
+.option-label-text {
+  margin-right: 18px;
+  padding-left: 12px;
+  font-weight: 700;
+}
+
+/* Fix tất cả thành chữ trắng nền tối */
+.question-container p, span {
+  color: #e0e0e0 !important;
+  background-color: #2a2a2a !important;
 }
