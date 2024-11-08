@@ -12,15 +12,15 @@ function startExam(file) {
     fetch(file)
         .then(response => response.json())
         .then(data => {
-            const randomQuestions = getRandomQuestions(data, 10);
+            const randomQuestions = getRandomQuestions(data, 10); // Lấy ngẫu nhiên 10 câu hỏi
             displayQuestions(randomQuestions);
             isExamInProgress = true;
-            document.getElementById("submit-btn").style.display = "block";
+            document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
         })
         .catch(error => console.error("Lỗi khi tải file JSON:", error));
 }
 
-// Start exam from all JSON files for the final test
+// Start final exam with 50 random questions from all JSON files
 function startExamForAll() {
     if (isExamInProgress) {
         alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
@@ -30,13 +30,14 @@ function startExamForAll() {
     const files = ['data/bai1.json', 'data/bai2.json', 'data/bai3.json', 'data/bai4.json', 'data/bai5.json', 'data/bai6.json'];
     const questions = [];
 
+    // Fetch data from all files and combine into one array
     Promise.all(files.map(file => fetch(file).then(response => response.json())))
         .then(results => {
-            results.forEach(result => questions.push(...result));
-            const randomQuestions = getRandomQuestions(questions, 50); // Get 50 random questions
-            displayQuestions(randomQuestions);
+            results.forEach(result => questions.push(...result)); // Gộp tất cả câu hỏi vào một mảng
+            const randomQuestions = getRandomQuestions(questions, 50); // Lấy 50 câu hỏi ngẫu nhiên
+            displayQuestions(randomQuestions); // Hiển thị câu hỏi
             isExamInProgress = true;
-            document.getElementById("submit-btn").style.display = "block";
+            document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
         })
         .catch(error => console.error("Lỗi khi tải file JSON:", error));
 }
@@ -119,7 +120,7 @@ function submitExam() {
     userAnswers.forEach((answer, index) => {
         const answerDiv = document.createElement('div');
         answerDiv.classList.add(answer.userAnswer === answer.correctAnswer ? 'correct' : 'incorrect');
-        answerDiv.innerHTML = `
+        answerDiv.innerHTML = ` 
             <p><strong>Câu ${index + 1}:</strong> ${answer.question}</p>
             <p><strong>Đáp án bạn chọn:</strong> ${answer.userAnswer}</p>
             <p><strong>Đáp án đúng:</strong> ${answer.correctAnswer}</p>
