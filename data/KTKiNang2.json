@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1000009,
+    "question_direction": "<p class=\"MsoNormal\"><strong>Tư tưởng nào là tư tưởng xuyên suốt trong cuộc đời hoạt động cách mạng của Hồ Chí Minh?&nbsp;</strong><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Giải phóng giai cấp&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Độc lập dân tộc gắn liền với thống nhất Tổ quốc, toàn vẹn lãnh thổ</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Độc lập dân tộc, dân chủ&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Giải phóng con người&nbsp;</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 1000008,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Đoạn trích sau đây được Hồ Chí Minh viết trong tác phẩm nào: “Bất kỳ đàn ông, đàn bà, bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc”&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span>Lời kêu gọi toàn quốc kháng chiến&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span>Thư kêu gọi tổng khởi nghĩa&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span>Lời kêu gọi thi đua ái quốc&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Tuyên ngôn độc lập&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 1000007,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Hệ thống chính trị xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh bao gồm các cơ quan&nbsp;:</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span>Nhà nước đức trị&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span>Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị xã hội&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span>Đảng Xã hội&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Đảng Cộng hoà&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 1000006,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Chọn đáp án đúng nhất cho câu sau: Để xứng đáng là Đảng cầm quyền theo tư tưởng Hồ Chí Minh, trong giai đoạn hiện nay, Đảng cần&nbsp;:</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span>Nâng cao hoạt động chống tham nhũng&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span>Đào tạo cho cán bộ, đảng viên trong các tổ chức Đảng&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span>Điều chính cơ chế hoạt động của Đảng&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span> Xây dụng, chính đốn Đảng, ngăn chặn đấy lùi sự suy thoái về tư tưởng chính trị đạo đúc, lối sống, “tự diễn biến”;, “tự chuyển hóa”; trong nội bộ Đáng&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 1000001,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Hồ Chí Minh đã kế thừa, phát triển tư tưởng: sống gắn bó với thiên nhiên, hoà đồng với thiên nhiên, bảo vệ môi trường sống của học thuyết nào&nbsp;?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span>Tư tưởng của Đạo giáo&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span>Tư tưởng của Phật giáo&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span>Tư tưởng của Tôn Trung Sơn&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Tư tưởng của Nho Giáo&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  }
+]

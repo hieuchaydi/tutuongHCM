@@ -3,7 +3,7 @@ const subjects = {
     TTNT: "TTNT"
 }
 
-const onlyDisplayNonAnswer = true;
+const onlyDisplayNonAnswer = false;
 let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
@@ -38,7 +38,7 @@ function startExamForAll(subject) {
 
     switch (subject) {
         case subjects.TTHCM:
-            files.push('data/TTHCM1.json', 'data/TTHCM2.json', 'data/TTHCM3.json', 'data/TTHCM4.json', 'data/TTHCM5.json', 'data/TTHCM6.json');
+            files.push('data/TTHCM1.json', 'data/TTHCM2.json', 'data/TTHCM3.json', 'data/TTHCM4.json', 'data/TTHCM5.json', 'data/TTHCM6.json', 'data/KTKiNang2.json');
             break;
         case subjects.TTNT:
             files.push('data/TTNT1.json', 'data/TTNT2.json', 'data/TTNT3.json', 'data/TTNT4.json', 'data/TTNT5.json', 'data/TTNT6.json', 'data/TTNT7.json', 'data/TTNT8.json', 'data/TTNT9.json')
