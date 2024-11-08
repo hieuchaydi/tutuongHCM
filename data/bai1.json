@@ -17,10 +17,10 @@
       "question_direction": "Khái niệm tư tưởng Hồ Chí Minh là:",
       "question_type": "radio",
       "answer_option": [
-        { "id": "1", "value": "Hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam" },
-        { "id": "2", "value": "Là sản phẩm của lịch sử Việt Nam" },
-        { "id": "3", "value": "Là quan điểm về cách mạng Việt Nam" },
-        { "id": "4", "value": "Là đường lối cách mạng Việt Nam" }
+        { "id": "1", "value": "Tất cả các đáp án trên" },
+        { "id": "2", "value": "Kết quả của sự vận dụng sáng tạo chủ nghĩa Mác- lênin vào điều kiện cụ thể của nước ta" },
+        { "id": "3", "value": "Tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta" },
+        { "id": "4", "value": "Hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam" }
       ],
       "correct_answer": 1
     },
@@ -323,5 +323,284 @@
         { "id": "4", "value": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội" }
       ],
       "correct_answer": 4
-    }
+    },
+    {
+      "id": 28,
+      "question_direction": "Điền từ thích hợp vào chỗ trống:“Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của ........”.",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cách mạng Việt Nam" },
+        { "id": "2", "value": "Dân tộc Việt Nam" },
+        { "id": "3", "value": "Cách mạng thế giới" },
+        { "id": "4", "value": "Nhân dân Việt Nam" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 29,
+      "question_direction": "Điền từ thích hợp để hoàn thành luận điểm sau:“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta” (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Người anh hùng dân tộc vĩ đại" },
+        { "id": "2", "value": "Người anh hùng dân tộc" },
+        { "id": "3", "value": "Vị cha già kính yêu của dân tộc" },
+        { "id": "4", "value": "Lãnh tụ vĩ đại của dân tộc" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 30,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Quan điểm cách mạng" },
+        { "id": "2", "value": "Nền tảng tư tưởng" },
+        { "id": "3", "value": "Đường lối cách mạng" },
+        { "id": "4", "value": "Đường lối chiến lược" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 31,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống: “ Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Trần Nhân Tông" },
+        { "id": "2", "value": "Hồ Chủ Tịch" },
+        { "id": "3", "value": "Quang Trung – Nguyễn Huệ" },
+        { "id": "4", "value": "Đường lối chiến lược" }
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 32,
+      "question_direction": "Sự chuyển biến của CNTB cuối thế kỉ XIX đầu thế kỉ XX:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tự do cạnh tranh → độc quyền (CNĐQ)" },
+        { "id": "2", "value": "Chủ nghĩa tư bản độc quyền" },
+        { "id": "3", "value": "Tự do cạnh danh" },
+        { "id": "4", "value": "Chủ nghĩa tư bản độc quyền Nhà nước" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 33,
+      "question_direction": "Quốc tế cộng sản thành lập là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tổ chức lãnh đạo phong trào cách mạng vô sản thế giới" },
+        { "id": "2", "value": "Cổ vũ mạnh mẽ phong trào cách mạng thế giới phát triể" },
+        { "id": "3", "value": "Cổ vũ phong trào công nhân" },
+        { "id": "4", "value": "Cổ vũ phong trào nông dân" }
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 34,
+      "question_direction": "Các phong trào yêu nước cuối cùng đều thất bại do?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "thiếu người lãnh đạo" },
+        { "id": "2", "value": "Thiếu đường lối phù hợp" },
+        { "id": "3", "value": "Chưa có phương pháp cách mạng, thiếu đường lối phù hợp" },
+        { "id": "4", "value": "Chưa có phương pháp cách mạng, có đường lối phù hợp" }
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 35,
+      "question_direction": "Xã hội Việt Nam có sự biến đổi sâu sắc về chính trị, kinh tế, văn hóa, xã hội thế nào?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Xuất hiện giai cấp, tầng lớp mới" },
+        { "id": "2", "value": "Xuất hiện mâu thuẫn giữa đại chủ và nông dân" },
+        { "id": "3", "value": "Không xuất hiện mâu thuẫn mới" },
+        { "id": "4", "value": "Xuất hiện giai cấp, tầng lớp mới: công nhân, tư sản, tiểu tư sản" }
+      ],
+      "correct_answer": 4
+    }, 
+    {
+      "id": 35,
+      "question_direction": "Cuộc cách mạng nào mở ra thời đại mới trong lịch sử loài người?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Cách mạng tư sản" },
+        { "id": "2", "value": "Cách mạng tư sản Pháp" },
+        { "id": "3", "value": " Cách mạng tư sản MỸ" },
+        { "id": "4", "value": "Cách mạng Tháng 10 Nga" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 36,
+      "question_direction": "Con đường phát triển của dân tộc Việt Nam trong giai đoạn hiện nay theo qua điểm của chủ tịch Hồ Chí Minh là:",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "độc lập dân tộc" },
+        { "id": "2", "value": "xây dựng CNXH" },
+        { "id": "3", "value": "Quá độ lên chủ nghĩa xã hội" },
+        { "id": "4", "value": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội" }
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 37,
+      "question_direction": "Điền từ thích hợp để hoàn thành luận điểm sau:“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta” (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969)",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Người anh hùng dân tộc vĩ đại" },
+          { "id": "2", "value": "Người anh hùng dân tộc" },
+          { "id": "3", "value": "Vị cha già kính yêu của dân tộc" },
+          { "id": "4", "value": "Lãnh tụ vĩ đại của dân tộc" }
+      ],
+      "correct_answer": 1
+  },
+  {
+      "id": 38,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động”",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Quan điểm cách mạng" },
+          { "id": "2", "value": "Nền tảng tư tưởng" },
+          { "id": "3", "value": "Đường lối cách mạng" },
+          { "id": "4", "value": "Đường lối chiến lược" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 39,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống: “Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta”",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Trần Nhân Tông" },
+          { "id": "2", "value": "Hồ Chủ Tịch" },
+          { "id": "3", "value": "Quang Trung – Nguyễn Huệ" },
+          { "id": "4", "value": "Lê Thái Tổ" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 40,
+      "question_direction": "“Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam”. Đoạn trích trên đề cập đến vấn đề gì trong khái niệm tư tưởng Hồ Chí Minh?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Bản chất khoa học, cách mạng, nội dung cơ bản của tư tưởng Hồ Chí Minh" },
+          { "id": "2", "value": "Vai trò lãnh đạo của Đảng Cộng sản Việt Nam" },
+          { "id": "3", "value": "Ý nghĩa của tư tưởng Hồ Chí Minh" },
+          { "id": "4", "value": "Cơ sở hình thành tư tưởng Hồ Chí Minh" }
+      ],
+      "correct_answer": 1
+  },
+  {
+      "id": 41,
+      "question_direction": "Nội dung nào là một trong những nguyên tắc phương pháp luận trong nghiên cứu môn học tư tưởng Hồ Chí Minh?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Quan điểm kế thừa và phát triển" },
+          { "id": "2", "value": "Quan điểm toàn diện và cụ thể" },
+          { "id": "3", "value": "Quan điểm kế thừa và toàn diện" },
+          { "id": "4", "value": "Quan điểm cách mạng và cụ thể" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 42,
+      "question_direction": "Năm 1990 UNESCO đã công nhận ai là “Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất của Việt Nam”",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Vua Quang Trung – Nguyễn Huệ" },
+          { "id": "2", "value": "Vua Trần Nhân Tông" },
+          { "id": "3", "value": "Vua Lê Thái Tổ" },
+          { "id": "4", "value": "Chủ tịch Hồ Chí Minh" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 43,
+      "question_direction": "Điền từ còn thiếu để hoàn thành khái niệm sau: “Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, kết quả của sự vận dụng và phát triển sáng tạo …….. vào điều kiện cụ thể của nước ta, kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hoá nhân loại; là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta, mãi mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi”.",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Chủ nghĩa Lênin" },
+          { "id": "2", "value": "Chủ nghĩa Mác" },
+          { "id": "3", "value": "Học thuyết “Tam dân”" },
+          { "id": "4", "value": "Chủ nghĩa Mác – Lênin" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 44,
+      "question_direction": "Điền từ còn thiếu vào chỗ trống để hoàn thành luận điểm sau được nêu trong Đại hội II của Đảng Cộng sản Việt Nam (2-1951): “Đường lối chính trị, nền nếp làm việc và …….. của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch. Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và ………. của Hồ Chủ tịch; sự học tập ấy, là điều kiện tiên quyết làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn”.",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Lập trường" },
+          { "id": "2", "value": "Phong cách" },
+          { "id": "3", "value": "Tư tưởng" },
+          { "id": "4", "value": "Đạo đức cách mạng" }
+      ],
+      "correct_answer": 2
+  },
+  {
+      "id": 45,
+      "question_direction": "Sự kiện nào được Nguyễn Ái Quốc đánh giá “mở ra một thời đại mới, thời đại chống đế quốc, giải phóng dân tộc”?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Cách mạng tháng Mười Nga thắng lợi" },
+          { "id": "2", "value": "Sự thành lập Đảng Cộng sản Pháp" },
+          { "id": "3", "value": "Vụ mưu sát tên toàn quyền Mecslanh của Phạm Hồng Thái" },
+          { "id": "4", "value": "Sự thành lập Hội Việt Nam cách mạng Thanh niên" }
+      ],
+      "correct_answer": 1
+  },
+  {
+      "id": 46,
+      "question_direction": "Yếu tố cơ bản nào của thời đại chi phối sự hình thành tư tưởng Hồ Chí Minh?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Sự thành công của cách mạng tháng Mười Nga" },
+          { "id": "2", "value": "Sự ra đời của Đảng Cộng sản ở các nước" },
+          { "id": "3", "value": "Sự thành công của cách mạng Tân Hợi" },
+          { "id": "4", "value": "Chủ nghĩa tư bản phát triển ở giai đoạn tự do cạnh tranh" }
+      ],
+      "correct_answer": 1
+  },
+  {
+      "id": 47,
+      "question_direction": "Công nhân Việt Nam cuối thế kỷ XIX đầu thế kỷ XX chịu những tầng áp bức bóc lột nào?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Thực dân" },
+          { "id": "2", "value": "Tư bản" },
+          { "id": "3", "value": "Phong kiến" },
+          { "id": "4", "value": "Thực dân, tư bản, phong kiến" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 48,
+      "question_direction": "Lựa chọn đáp án đúng nhất, theo quan điểm của Hồ Chí Minh “Chỉ có ...... là dũng cảm nhất, cách mạng nhất, luôn luôn gan góc đương đầu với bọn đế quốc thực dân”",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Giai cấp nông dân" },
+          { "id": "2", "value": "Giai cấp địa chủ, phong kiến" },
+          { "id": "3", "value": "Giai cấp tư sản" },
+          { "id": "4", "value": "Giai cấp công nhân" }
+      ],
+      "correct_answer": 4
+  },
+  {
+      "id": 49,
+      "question_direction": "Bối cảnh lịch sử thế giới cuối thế kỷ XIX đầu thế kỷ XX dẫn đến sự hình thành tư tưởng Hồ Chí Minh? Chọn đáp án sai?",
+      "question_type": "radio",
+      "answer_option": [
+          { "id": "1", "value": "Sự phát triển của chủ nghĩa tư bản từ thời kỳ tự do cạnh tranh chuyển sang thời kỳ độc quyền đế quốc" },
+          { "id": "2", "value": "Sự thắng lợi của Cách mạng Tháng Mười Nga" },
+          { "id": "3", "value": "Sự thắng lợi của Cách mạng Tân Hợi 1911" },
+          { "id": "4", "value": "Sự ra đời của chủ nghĩa Mác" }
+      ],
+      "correct_answer": 4
+  }
+   
+   
+   
   ]
