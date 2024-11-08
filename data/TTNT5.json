@@ -1,0 +1,650 @@
+[
+  {
+    "id": 14322,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-81fb62d2-7fff-4d84-3952-db456567feec\">Trong thủ tục Minimax(u,v), biến v có ý nghĩa gì?&nbsp;</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-861aec1b-7fff-ab6a-959d-1d40db9c2831\"><span style=\"background-color:transparent;color:#000000;\">v là biến lưu lại trạng thái mà Trắng đã chọn đi tới từ u</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a241151e-7fff-f795-14fd-c09d617356e3\">v là biến lưu trạng thái bắt đầu</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1e460cb0-7fff-0a0a-cd75-593009fe29e3\">v là biến lưu lại trạng thái kết thúc</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-16ddf369-7fff-2847-9a96-37fe95a14f00\">v là biến lưu lại giá trị của hàm kết quả tại đỉnh kết thúc u.</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14324,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-faa576aa-7fff-a23f-599b-b89aaf4b637d\"><span style=\"background-color:transparent;color:#000000;\">Chiến lược tìm kiếm nào dưới đây thường được sử dụng trong các trò chơi có đối thủ như cờ vua, cờ tướng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-07791aec-7fff-b2eb-06be-783d51087db1\">Tìm kiếm theo chiều sâu</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6a0f727d-7fff-c4e5-4d25-22dd92ef779a\">Minimax</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7a60539a-7fff-d81a-d548-68fc20bdca40\">Tìm kiếm theo chiều rộng</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-69face3a-7fff-ea13-bb76-2b462068c798\"><span style=\"background-color:transparent;color:#000000;\">Tìm kiếm nhị phân</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 14327,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9a59b48a-7fff-1014-1052-313ef6836ad7\"><span style=\"background-color:transparent;color:#000000;\">Minimax là một dạng của chiến lược tìm kiếm nào?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4d74be5a-7fff-4563-792b-fe527498a0aa\">Tìm kiếm tối ưu</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bd951f64-7fff-575d-c676-d9f5b7bddd6a\">Tìm kiếm theo chiều rộng</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-249bc1cf-7fff-7646-dec5-903ea96b595a\">Tìm kiếm có đối thủ</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a5f29a60-7fff-8f67-8d7c-94c89a4bd7c8\"><span style=\"background-color:transparent;color:#000000;\">Tìm kiếm nhị phân</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14342,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-df449c24-7fff-75b5-1971-4c8e631358d0\"><span style=\"background-color:transparent;color:#000000;\"><strong>Giải thuật nào sử dụng chung với thuật toán tìm kiếm Minimax nhằm hỗ trợ giảm bớt các không gian trạng thái?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-40a1018f-7fff-94a4-1c1d-964269fcd8c7\"><span style=\"background-color:transparent;color:#000000;\">Giải thuật tìm kiếm beam.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-80de878a-7fff-a786-eeb4-b1825ddf83be\"><span style=\"background-color:transparent;color:#000000;\">Giải thuật tìm kiếm sâu dần.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c1d025f3-7fff-ba16-631f-6723bf42bdf1\">Giải thuật cắt tỉa Alpha-Beta</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-84a6d304-7fff-d541-653d-643b3af88fc3\"><span style=\"background-color:transparent;color:#000000;\">Tất cả các giải thuật</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14357,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6ce75a1c-7fff-ae8f-cc62-6a94d5b253ba\"><span style=\"background-color:transparent;color:#000000;\"><strong>Đặc điểm của các trò chơi có hai người chơi được phát biểu như sau:</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9f473860-7fff-cd43-ec33-3db5c64f82b6\">&nbsp;Hai người chơi thay phiên nhau đưa ra các nước đi tuân theo các luật đi nào đó, các luật này là như nhau cho cả hai người</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-db175a99-7fff-ec74-7bca-6f8e0cefd2a5\"><span style=\"background-color:transparent;color:#000000;\">Chỉ một trong hai người chơi được biết thông tin đầy đủ về các tình thế trong trò chơi.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-72409e37-7fff-02b6-c903-2ef29f51dedd\"><span style=\"background-color:transparent;color:#000000;\">Hai người chơi đều không được biết thông tin đầy đủ về các tính thế trong trò chơi.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0798abce-7fff-1cc6-742b-635dbf33bff6\"><span style=\"background-color:transparent;color:#000000;\">Chỉ cần một trong hai người chơi tuân theo các luật được đặt ra cho trò chơi</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14360,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-4e33bb24-7fff-47f9-8885-ace1e616dcfb\"><span style=\"background-color:#ffffff;color:#000000;\"><strong>Phát biểu nào sau đây là đúng cho hàm Maxval, Minval trong giải thuật tìm kiếm Minimax.</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-d3ac10d4-7fff-6fb3-5337-e87ff1db540c\">&nbsp;Hàm&nbsp;</span><strong>MaxVal</strong> xác định giá trị cho các đỉnh Trắng, hàm&nbsp;<strong>MinVal</strong> xác định giá trị cho các đỉnh Đen</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-45e92099-7fff-9890-b9ba-bacfe1e19384\"><span style=\"background-color:#ffffff;color:#000000;\">Hàm&nbsp;<strong>MaxVal</strong> xác định giá trị cho các đỉnh Đen</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-3fab655e-7fff-bf9b-28c8-d867059cfa04\">Hàm&nbsp;</span><strong>MinVal</strong> xác định giá trị cho các đỉnh Đen</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-c4f272d2-7fff-df3e-3acf-908603201317\"><span style=\"background-color:#ffffff;color:#000000;\">Hàm&nbsp;<strong>MaxVal</strong> xác định giá trị cho các đỉnh Trắng và Đen</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14362,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-037da3b3-7fff-75fc-2b6f-00608a0eb5da\"><span style=\"background-color:transparent;color:#000000;\">Vấn đề chơi cờ có thể xem như vấn đề tìm kiếm trong không gian trạng thái. Mỗi trạng thái là một tình thế (sự bố trí các quân của hai bên trên bàn cờ). Đâu là phát biểu đúng về trạng thái ban đầu của trò chơi cờ:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-897110ca-7fff-9ba5-69d4-42a6541e6f24\">Trạng thái ban đầu là sự sắp xếp các quân cờ của hai bên lúc bắt đầu cuộc chơi.</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p style=\"text-align:justify;\" dir=\"ltr\" id=\"docs-internal-guid-a73a8e59-7fff-b3d0-b187-fdeb46fe39db\"><span style=\"background-color:transparent;color:#000000;\">Trạng Thái ban đầu là trạng thái mà quân Trắng đi trước</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p style=\"text-align:justify;\" dir=\"ltr\" id=\"docs-internal-guid-44387148-7fff-cd1e-a6eb-00fc59a55ebb\"><span style=\"background-color:transparent;color:#000000;\">Trạng Thái ban đầu là trạng thái mà quân Đen đi trước</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p style=\"text-align:justify;\" dir=\"ltr\" id=\"docs-internal-guid-df7364e5-7fff-de9c-cef6-624fe63d0040\"><span style=\"background-color:transparent;color:#000000;\">Các đáp án này đều sai</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14584,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh a là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-5bf5f1a3-7fff-9a85-0402-d4cbf8d962c1\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5UIeOVKVnalxn4CxkHALPis51J7mw6D7kDqhqDP7IH1BQI5MMZ16PGhwncOveHdxHcZ6j0lPZKtXMz1BRan7wnM-G9ZLE21-x99bXtlSxyVTmpMm_oD3Vaed5p0Oxgr2wXGJw8Io5dDdm5hGfg5BV3Am4roLYsbzQH9wHUg?key=ADoOAsdjObFS1owhsRc8OA\" width=\"420\" height=\"229\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>12</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>10</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>8</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>-5</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14588,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-03123273-7fff-b516-c4b8-99f5dff83c04\">Trong chiến lược Minimax, người chơi cần tối thiểu hóa điều gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9725a788-7fff-c83d-77ab-2cd063749773\">Giá trị lợi thế của đối thủ</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6d72f666-7fff-dd2c-cce3-4fa6506faf6b\">Thời gian tìm kiếm</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bd158690-7fff-f09e-5c02-e7c75dc373d0\">Độ sâu của cây tìm kiếm</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ccfe3f73-7fff-0302-0672-7146a9f44620\"><span style=\"background-color:transparent;color:#000000;\">Số lượng nước đi</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14590,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-976bda63-7fff-3518-9cc3-d7f24e290eeb\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh f?</span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-593a1562-7fff-46a9-4cf4-c532bf91b554\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ae4a9eb2-7fff-6804-bda5-e79cd8f3cf8b\">Đỉnh f là đỉnh Trắng, nên giá trị của nó là max(5, 2, -3) = 5</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p id=\"docs-internal-guid-22fbc8d7-7fff-7da7-4ebb-983d8d40b702\"><span style=\"background-color:transparent;color:#000000;\">Đỉnh f là đỉnh Đen, nên giá trị của nó là max(5, 2, -3) = 5</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p id=\"docs-internal-guid-f440ba7d-7fff-9120-7145-3c3205268ec9\"><span style=\"background-color:transparent;color:#000000;\">Đỉnh f là đỉnh Trắng, nên giá trị của nó là min(5, 2, -3) = -3</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p id=\"docs-internal-guid-117ef56b-7fff-c558-9754-2506f23d58f6\"><span style=\"background-color:transparent;color:#000000;\">Đỉnh f là đỉnh Đen, nên giá trị của nó là min(5, 2, -3) = -3</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14593,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><span style=\"background-color:transparent;color:#000000;\">Xét trò chơi Dodgen (được tạo ra bởi Colin Vout). Có hai quân Trắng và hai quân Đen, ban đầu được xếp vào bàn cờ 3*3 như hình vẽ</span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-59567ba7-7fff-2079-7544-f5a5fc62f804\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGJceMg-EUKp-LLNLZsLJIhnpE5KeVfsCYGBOwcGzPpVFyPIrQ_dv8ZIh7y32dBKqZdZz8hDT1p4dF9do986tCi08xBsp1UH74G0jcAM-o2EL0x0qY380Q-BOSeO02XZmuF2gw8eA9-da_tNnjxMpbplTRTCFKVt5gzjw5kPO2W_flay3m4OE?key=ADoOAsdjObFS1owhsRc8OA\"  width=\"173\" height=\"166\"></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-99617613-7fff-4065-dfd6-7a5f546c6d90\"><span style=\"background-color:transparent;color:#000000;\"><strong>Mô tả nào sau đây là đúng về trò chơi này</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-538c1130-7fff-5dae-7765-bcc85ebb1162\"><span style=\"background-color:transparent;color:#000000;\">Quân Đen có thể đi tới ô trống ở bên phải, ở trên hoặc ở dưới. Quân Trắng có thể đi tới trống ở bên trái, bên phải, ở trên.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a0766916-7fff-72b5-e661-8690263aa0fe\"><span style=\"background-color:transparent;color:#000000;\">Quân Đen nếu ở cột ngoài cùng bên phải có thể đi ra khỏi bàn cờ, quân Trắng nếu ở hàng trên cùng có thể đi ra khỏi bàn cờ.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-dd807132-7fff-89e8-beb0-c8a0ec699efa\"><span style=\"background-color:transparent;color:#000000;\">Ai đưa hai quân của mình ra khỏi bàn cờ trước sẽ thắng, hoặc tạo ra tình thế bắt đối phương không đi được cũng sẽ thắng.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-160c450c-7fff-a001-0ec5-8fc6ca2f4d80\">Cả 3 đáp án đều đúng</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 14604,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-596c8f77-7fff-d803-e3d7-475a758eff43\"><span style=\"background-color:transparent;color:#000000;\">Nếu cây trò chơi có độ cao m, và tại mỗi đỉnh có b nước đi thì độ phức tạp về thời gian của thuật toán Minimax là:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><img data-org=\"serverAws\" src=\"33109\" alt=\"33109|serverAws\"></p>"
+      },
+      {
+        "id": "2",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33117\" alt=\"33117|serverAws\"></figure>"
+      },
+      {
+        "id": "3",
+        "value": "<p>&nbsp;</p><figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33119\" alt=\"33119|serverAws\"></figure><p>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33122\" alt=\"33122|serverAws\"></figure>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14605,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh D có giá trị bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1b1d995b-7fff-042f-e59f-3a6ea1386bf4\"><strong><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0rkSiMeJIqTqPg9WH8EIO0tZS9NwvhlGlJ3zorzLkarauA6xPw_GwYg9m74BiIHK5nRGlkZHnRTYJaexK3-kQXaUhF5ArBwXsy9lOmc4LGqNgAylGQGLjgoSEjZny_vrQPxzKFa0Tz6DkNsmqSFqes5UgRzu0lje45pHj?key=ADoOAsdjObFS1owhsRc8OA\" width=\"487\" height=\"241\"></strong></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>0</p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14607,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh i?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e92b528f-7fff-853e-4d49-3c18aca3a257\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e85fe836-7fff-af45-0b51-fa306551de6e\">Đỉnh i là Trắng, nên giá trị của nó là max(3, -2) = 3</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p id=\"docs-internal-guid-87b87b65-7fff-c98c-fe21-c1a2024eae48\"><span style=\"background-color:transparent;color:#000000;\">Đỉnh i là Đen, nên giá trị của nó là min(3, -2) = -2</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p id=\"docs-internal-guid-7f6b3cb7-7fff-f580-57ef-4e584a716df4\"><span style=\"background-color:transparent;color:#000000;\">Đỉnh i là Trắng, nên giá trị của nó là min(3, -2) = -2</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-80160dc3-7fff-1288-37c5-da7555319139\">Đỉnh i là Đen, nên giá trị của nó là max(3, -2) = 3</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14611,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh d?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fc16b068-7fff-5906-2eb8-7e3e642d26c0\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-697437c1-7fff-7a4f-94cb-4837fb9fe004\">Đỉnh d là đỉnh Đen, nên giá trị của nó là min(2, 3, 4) = 2</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-54ee0a79-7fff-9349-8c46-f5f206a1f7be\">Đỉnh d là Đen, nên giá trị của nó là max(2, 3, 4) = 4</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-26a542fe-7fff-b203-5ea9-b9f09ed568e3\">Đỉnh d là Trắng, nên giá trị của nó là min(2, 3, 4) = 2</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e7c9acc9-7fff-cfa8-8b48-015d52eff18a\">Đỉnh d là Trắng, nên giá trị của nó là max(2, 3, 4) = 4</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14320,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-c72558df-7fff-ad6a-2a5a-b1e23e4133d1\"><span style=\"background-color:transparent;color:#000000;\"><strong>Giải thuật Minimax là gì?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0cc476ef-7fff-e6fb-577e-c289e86428b5\">Là một giải thuật đệ quy.&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-af376fcc-7fff-fc8f-e7f4-3cf129ce1ba8\"><span style=\"background-color:transparent;color:#000000;\">Là một giải thuật không đệ quy.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5bc2f3b8-7fff-129d-8c66-0b4cda86b848\">Là một giải thuật đệ quy và không đệ quy.</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-8688b1f0-7fff-2959-8dbc-2f6417044656\"><span style=\"background-color:transparent;color:#000000;\">Tất cả các đáp án đều sai.</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14331,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-09ad6818-7fff-c85d-a0bb-c99f2bc9512b\"><span style=\"background-color:transparent;color:#000000;\">Alpha và Beta trong Chiến lược Cắt cụt Alpha-Beta đại diện cho gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-48579cf6-7fff-227a-0bad-305059eff7a2\">Giá trị tối đa và tối thiểu của người chơi</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e9ae274e-7fff-46c6-4cbf-4a68cc645a51\">Giá trị tốt nhất hiện tại mà người chơi tối đa hóa và tối thiểu hóa có thể đảm bảo</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2358f02b-7fff-780c-02ef-f47265f891fe\">&nbsp;Giá trị ngẫu nhiên</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6a642490-7fff-88f9-57b7-55abda19a5d9\"><span style=\"background-color:transparent;color:#000000;\">Giá trị của nước đi hiện tại</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14355,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5107b935-7fff-fe59-0758-57b8eea7fd44\">Chiến lược Cắt cụt alpha – beta khắc phục nhược điểm gì của chiến lược Minimax:</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-042e1741-7fff-320f-6605-befc61b7cb21\">Chiến lược Minimax phải đánh giá tất cả các đỉnh của cây gốc u tới độ sâu h</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a91f6cb7-7fff-522d-ead1-9d4d2e42f1f7\"><span style=\"background-color:transparent;color:#000000;\">Chiến lược Minimax có thời gian xử lý lớn</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6e649383-7fff-66c8-21f0-7100c723e2fb\"><span style=\"background-color:transparent;color:#000000;\">Chiến lược Minimax có không gian tìm kiếm lớn</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e961b151-7fff-7cf2-f74b-56949e2692d4\">Tất cả các đáp án đều đúng</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14580,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ef034f57-7fff-a49f-8c17-48e8d67fae48\"><span style=\"background-color:transparent;color:#000000;\"><strong>Phát biểu nào sau đây là đúng về bài toán chơi cờ:</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f872af30-7fff-bfc9-7d59-edf9b4bd1120\"><span style=\"background-color:transparent;color:#000000;\">Vấn đề chơi cờ có thể xem như vấn đề tìm kiếm nước đi, tại mỗi lần đến lượt mình, người chơi phải tìm trong số rất nhiều nước đi hợp lệ (tuân theo đúng luật đi), một nước đi tốt nhất sao cho qua một dãy nước đi đã thực hiện, anh ta giành phần thắng.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b583f03d-7fff-e7c5-c39f-09eb19a4c808\">Vấn đề chơi cờ có thể xem như vấn đề tìm kiếm trong không gian trạng thái. Mỗi trạng thái là một tình thế (sự bố trí các quân của hai bên trên bàn cờ).</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-cd5c866e-7fff-36f0-951a-e17dd1dc863e\"><span style=\"background-color:transparent;color:#000000;\">Vấn đề tìm kiếm nước đi trong chơi cờ sẽ phức tạp hơn vấn đề tìm kiếm khác, bởi vì ở đây có đối thủ, người chơi không biết được đối thủ của mình sẽ đi nước nào trong tương lai.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-df885e75-7fff-5123-07f1-dd748847ad76\">Cả 3 đáp án trên đều đúng&nbsp;</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14586,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-7f83e3b4-7fff-30ff-ecba-d97f464cda74\"><span style=\"background-color:transparent;color:#000000;\">&nbsp;Tại sao thuật toán cắt cụt Alpha-Beta lại hữu ích trong việc tối ưu hóa tìm kiếm Minimax?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-54061658-7fff-4325-23ec-dc66a7b57a0f\">Vì nó giảm thời gian xử lý một đỉnh</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2db0d96f-7fff-55d9-67be-f3b77b08defb\">Vì nó tăng cường giá trị của các nhánh</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d844df2d-7fff-6c3a-7571-02fe4a019457\">Vì nó sử dụng thuật toán tìm kiếm đơn giản</span></span><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1856cba4-7fff-8161-01f7-1d350ecb6fb7\">Vì nó giảm số lượng nhánh cần duyệt qua</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14614,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh F có giá trị bao nhiêu?</span><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a61fca3e-7fff-2247-7056-cdbbc19c3619\"><strong><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfgMM0Lu-FkIOpn9DZoksmwKVeNyLHbyEvn9Bnc1oPSt0E1aRG5d3CswH-g4FU3SSE6QbUKuRiOldh8iIxSr8IYi6Vx7Xz0VecaZZ5ix3sv-uI9h5J12sl8zF5DMi7U7i06nTDVTxwpRPe0bUA3KNEaS3Jk72wwPRB4J6FGo3eB9qKjuppvUQ?key=ADoOAsdjObFS1owhsRc8OA\"  width=\"497\" height=\"239\"></strong></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>0</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14647,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh u là bao nhiêu?</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"33166\" alt=\"33166|serverAws\"></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>10</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>-3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>8</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>5</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14353,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6c655338-7fff-aa6d-3c4b-aeced0a3df05\"><span style=\"background-color:transparent;color:#000000;\"><strong>Điền vào dấu “…” của câu sau: Duyệt hết các trạng thái nên giải thuật Minimax sẽ …</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0dde69a6-7fff-61d4-c4f0-59bb49699c17\">tốn nhiều thời gian và bộ nhớ lưu trữ</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-45d1a8d4-7fff-8255-6661-87853564920d\"><span style=\"background-color:transparent;color:#000000;\">không tốn nhiều thời gian.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-b29413ac-7fff-9ed3-aa80-d09d31bc50f3\"><span style=\"background-color:transparent;color:#000000;\">có không gian trạng thái tối ưu.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6fd47e49-7fff-bacb-0ba3-84af1a751267\"><span style=\"background-color:transparent;color:#000000;\">có quá trình xử lý tìm kiếm tối ưu</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14566,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><span style=\"background-color:#ffffff;color:#000000;\">Trong chiến lược cắt cụt alpha-beta. Nếu đỉnh c là Trắng thì&nbsp; khi nào ta sẽ cắt bỏ cây con gốc a trong sơ đồ sau:</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-87f24660-7fff-1384-d2a9-7c6cec52d4c2\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmJdxbl5VX6XVrFNSSIxziN43LUOwKRnyTDcZ3ZAeDOFuRduvri-_Bya420eX_nOpctvpp0axGOrbDKqNbktPfn8M7ojXKgZh54xfAvYpIeyXHVuwJmGCClh1rclNRHjbL-gE6dGaJk1NDVmQkPcXG4JkjfR4vlVCRIIWDaQ?key=ADoOAsdjObFS1owhsRc8OA\" width=\"213\" height=\"166\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-315d30b1-7fff-4105-ff72-78fb39f971fa\">Khi eval(u) &gt; eval(v).</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-019302f0-7fff-c570-659a-ec14b1ea07bb\">Khi eval(u) &lt; eval(v)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-6cd8459f-7fff-e3bc-cd6f-aef8ec54b560\">&nbsp;Khi eval(u) = eval(v)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-31e1cf23-7fff-0201-993f-d4f6395ad621\"><span style=\"background-color:#ffffff;color:#000000;\">Khi eval(u) &gt; 0&nbsp; và eval(v) &gt;0.</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14570,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng) giới hạn bởi độ cao h = 3. Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh v là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><meta charset=\"utf-8\"><span style=\"background-color:#ffff00;color:#000000;\"><span id=\"docs-internal-guid-d15df877-7fff-63e2-34fe-160b40837967\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSHOP62EAeu7eHdW0b10w74Fl58y-HisyJMq7lmelDpehPBrnsmbiHm9ZkMkxy5ixKUHB6jfcx-TkDxew3w3Yls5H6ih9TidefyH3d4a6Dtehw5ExyMCpnapjw2upWB2uvWEd6Boujkd1ROMcxVdA49f2pkSPf1CDb5oq-FA?key=ADoOAsdjObFS1owhsRc8OA\" width=\"429\" height=\"237\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>10</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>-3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>12</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14575,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh k là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-530989d1-7fff-4a91-8133-476fea2b0338\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZbPLk1TeCYvR1thAK7oFL0e2RZtLG_L1gDQbPrPI2dIxwkLC1u5y2H1iMz46-S3SagDfkaThiS7zzhDWDTl4li_Vx_TYh2XUDgvib3gcjNoLBc9aKiT-nSWcKJAHWEsspp4LQu3p9aiuLCsHwKnuZIgOiwGWOoQ9teK5M?key=ADoOAsdjObFS1owhsRc8OA\" width=\"427\" height=\"237\"></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>10</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>-3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>8</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>5</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14336,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-b3e535aa-7fff-cae9-bb8e-ae8b3ca4c6d4\"><span style=\"background-color:transparent;color:#000000;\">Đánh giá nào sau đây là đúng nhất về chiến lược Minimax:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-efa2f88b-7fff-f133-3946-944e569ebb45\">Về mặt lý thuyết, Chiến lược Minimax cho phép ta tìm được nước đi tối ưu cho Trắng. nhưng nó không thực tế, có thể chúng ta sẽ không có đủ thời gian để tính được nước đi tối ưu</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-3ac57941-7fff-3de2-82b9-aad01867aa57\">Chiến lược Minimax cho phép ta tìm được nước đi tối ưu cho Trắng</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f6cddfb5-7fff-63b2-4145-f25dd8356520\"><span style=\"background-color:transparent;color:#000000;\">Chiến lược Minimax tìm ra nhanh nước đi tốt nhất.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-cffdb01a-7fff-83b0-7bd7-b7f693146f0b\">Chiến lược Minimax không cho phép ta tìm ra nước đi tối ưu cho quân Trắng</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

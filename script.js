@@ -1,3 +1,8 @@
+const subjects = {
+    TTHCM: "TTHCM",
+    TTNT: "TTNT"
+}
+
 let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
@@ -21,14 +26,23 @@ function startExam(file) {
 }
 
 // Start final exam with 50 random questions from all JSON files
-function startExamForAll() {
+function startExamForAll(subject) {
     if (isExamInProgress) {
         alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
         return;
     }
 
-    const files = ['data/bai1.json', 'data/bai2.json', 'data/bai3.json', 'data/bai4.json', 'data/bai5.json', 'data/bai6.json'];
+    let files = [];
     const questions = [];
+
+    switch (subject) {
+        case subjects.TTHCM:
+            files.push('data/TTHCM1.json', 'data/TTHCM2.json', 'data/TTHCM3.json', 'data/TTHCM4.json', 'data/TTHCM5.json', 'data/TTHCM6.json');
+            break;
+        case subjects.TTNT:
+            files.push('data/TTNT1.json', 'data/TTNT2.json', 'data/TTNT3.json', 'data/TTNT4.json', 'data/TTNT5.json', 'data/TTNT6.json', 'data/TTNT7.json', 'data/TTNT8.json', 'data/TTNT9.json')
+            break;
+    }
 
     // Fetch data from all files and combine into one array
     Promise.all(files.map(file => fetch(file).then(response => response.json())))

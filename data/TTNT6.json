@@ -1,0 +1,722 @@
+[
+  {
+    "id": 14654,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu là thành phần cơ bản của ngôn ngữ biểu diễn tri thức?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Cấu trúc</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Câu phức</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Câu từ</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Cú pháp</p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 14661,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu là thành phần cơ bản của ngôn ngữ biểu diễn tri thức?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Ý nghĩa</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Nội dung</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Ngữ nghĩa</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Định nghĩa</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14674,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A, B là các công thức trong logic mệnh đề, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A∨B là công thức</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A∩B là công thức</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>A⸦B là công thức</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>A⊆B là công thức</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14680,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A là công thức trong logic mệnh đề, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Công thức A là thoả được</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Công thức A là không thoả được</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Công thức A là vững chắc</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Công thức A là không xác định</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14681,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A là công thức trong logic mệnh đề, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Công thức A∨⎤A là thoả được</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Công thức A∨⎤A là không thoả được</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Công thức A∨⎤A là vững chắc</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Công thức A∨⎤A là không xác định</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14682,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A là công thức trong logic mệnh đề, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Công thức A∧⎤A là thoả được</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Công thức A∧⎤A là không thoả được</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Công thức A∧⎤A là vững chắc</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Công thức A∧⎤A là không xác định</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 14693,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A, B, C là các công thức trong logic mệnh đề, khẳng định nào sau đây là sai?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A∧B)∨C là công thức</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>(A⊆B)∩C là công thức</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>⎤A∧B)∨C là công thức</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>(A∧B)⇒C là công thức</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 14702,
+    "question_direction": "<p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Điền vào dấu •••</span><o:p></o:p></p><p><span lang=\"EN-US\">Một công thức ở dạng chuẩn hội nếu nó là •••, có dạng A<sub>1</sub>&nbsp;∨...∨ A<sub>m</sub> trong đó các A<sub>i là</sub> </span><i><span lang=\"EN-US\">literal</span></i></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">hội của các câu tuyển</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">tuyển của các câu tuyển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">hội của các câu hội</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">tuyển của các câu hội</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14708,
+    "question_direction": "<p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Điền vào dấu •••</span><o:p></o:p></p><p><span lang=\"EN-US\">Một công thức H được xem là </span><i><span lang=\"EN-US\">hệ qủa logic</span></i><span lang=\"EN-US\"> của một tập công thức </span><i><span lang=\"EN-US\">G&nbsp;</span></i><span lang=\"EN-US\">={G<sub>1</sub>,...,G<sub>m</sub>} nếu trong bất kỳ minh họa nào mà {G<sub>1</sub>,...,G<sub>m</sub>} ••• thì H cũng •••</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">đúng - đúng</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">đúng - sai</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">sai - sai</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">sai - đúng</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14716,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e0f9b5e0-7fff-82fb-3d63-6b88d5fec03a\">Cho A, B, C là các công thức trong logic mệnh đề. Biểu thức nào sau đây là sai?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-cc8295f0-7fff-ae13-3d2b-69db8c35803a\">A</span>∨(B∧C)&nbsp;≡ (A∨B)∧(A∨C)</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e4acd390-7fff-c70a-9b6c-ec72c4dc8a9c\">A</span>∧(B∨C)&nbsp;≡ (A∧B)∨(A∧C)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f6f75c95-7fff-d8ed-257b-77f3703cc897\">A</span>∨(B∨C)&nbsp;≡ (A∨B)∧(A∨C)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-70734b92-7fff-effe-cb5c-a5208ac66443\">A</span>∨(B∨C)&nbsp;≡ (A∨B)∨C</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14718,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-347e7e3d-7fff-77e3-429f-fc4021808c53\"><span style=\"background-color:transparent;color:#000000;\">Cho công thức: (A⇒B)∧C</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây là biến đổi tương đương của công thức đã cho:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-239ae6ff-7fff-d8d8-c32f-213f83117cb8\">(⎤A∧B)∧C</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9352c6da-7fff-f496-74e5-90bea487fe74\">(⎤A∨B)∧C</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c8f924ac-7fff-0833-cff5-51af6b1f4169\">(A∨⎤B)∧C</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9f5cbd69-7fff-21b0-4872-5572ef9d901a\">(A∧⎤B)∧C</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 14723,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-474166af-7fff-d9dd-b86d-88a370008354\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức ở dạng chuẩn tắc hội được chuẩn hóa từ công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">&nbsp;(C⇒D)⇒E</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-dc44e5ff-7fff-fb3e-ee89-12dd8871a0ae\">(C∨E) ∧(⎤D∨E)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8769b170-7fff-0e29-bfd1-020b733ac79e\">(⎤C∨E) ∧(⎤D∨E)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e8eefa4d-7fff-2380-e78c-26e0eac07103\">(C∨⎤E) ∧(⎤D∨⎤E)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-433035aa-7fff-3b0f-028f-ee4516b73ed3\">(⎤C∨E) ∧(D∨E)</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14728,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-7e482da0-7fff-f12e-6deb-3d8cacb0b951\"><span style=\"background-color:transparent;color:#000000;\">Cho tập các công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">A⇒B</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">A∧C</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây không là hệ quả logic của tập công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>C</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>B</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6642b099-7fff-36a1-eb44-3e8b0c2e2439\">⎤A</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 14730,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-df4ade7c-7fff-74bc-8cec-6c246985ba19\"><span style=\"background-color:transparent;color:#000000;\">Cho tập các công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">A⇒B</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤B∧C</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây không là hệ quả logic của tập công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>C</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b22f6835-7fff-bade-d486-3edb456e547c\">⎤B</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f20a3a3a-7fff-ca2d-8013-709b08845f67\">⎤A</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14739,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a870d252-7fff-f54b-94b4-d3faf7155a89\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤A∨C</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤C∨E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây không là hệ quả logic của tập công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-001d008e-7fff-087e-430c-7e4595c3c561\">⎤C</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-75405acf-7fff-1840-596e-b9996edfb657\">⎤A</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0527ff45-7fff-2825-7070-cbfe8d57e5d8\">A</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8bccd922-7fff-3bcf-3926-4834ae7e1375\">⎤E</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14652,
+    "question_direction": "<p><span lang=\"EN-US\">Ngôn ngữ biểu diễn tri thức gồm mấy thành phần cơ bản?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>7</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 14665,
+    "question_direction": "<p><span lang=\"EN-US\">Cú pháp của một ngôn ngữ biểu diễn tri thức bao gồm?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tập các ký hiệu và tập các quy tắc</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tập các ký hiệu hoặc tập các quy tắc</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Tập các ký hiệu</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tập các quy tắc</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14671,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu không phải là ký hiệu kết nối logic trong logic mệnh đề</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>⇒</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>∧</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>∨</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>∩</p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 14677,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A là công thức trong logic mệnh đề, trong trường hợp tổng quát khẳng định khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Công thức A luôn nhận giá trị True</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Công thức A luôn nhận giá trị False</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Công thức A luôn nhận giá trị True hoặc False</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Công thức A luôn nhận cả 2 giá trị True và False</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14688,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A, B là các công thức trong logic mệnh đề, khẳng định nào sau đây là sai?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A⊆B là công thức</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A∧⎤B là công thức</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>⎤A∧B là công thức</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>A⇒B là công thức</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14703,
+    "question_direction": "<p><span lang=\"EN-US\">Thủ tục chuẩn hoá một công thức trong logic mệnh đề gồm mấy bước?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>5</p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14711,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A, B, C là các công thức trong logic mệnh đề. Biểu thức nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A∨(B∧C) ≡ (A∨B)∧(A∨C)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A∨(B∧C) ≡ (A∧B)∨(A∧C)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-02387a3e-7fff-cbd1-8ab3-65ed3962d96f\">A</span>∨(B∧C)&nbsp;≡ (A∨B)∨(A∨C)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0eba7e3d-7fff-e1b5-a7db-b0dcfd133a8d\">A</span>∨(B∧C)&nbsp;≡ (A∧B)∧(A∧C)</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14726,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-1d82ba6f-7fff-6ce1-cdd0-77df2126677e\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức ở dạng chuẩn tắc hội được chuẩn hóa từ công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">&nbsp;(C∨D)⇒E</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ce62f242-7fff-872d-7d8a-8d41e630238a\">(C∨E) ∧(D∨E)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-991480d8-7fff-9ae7-2724-010fd83de1c8\">(C∨⎤E) ∧(D∨⎤E)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0c9417a7-7fff-b641-23a0-43b972f3bcfc\">(⎤C∨E) ∧(⎤D∨E)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bb27c16d-7fff-ce10-1e3b-a7da83153968\">(⎤C∧E)∨(⎤D∧E)</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 14732,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0c0602cb-7fff-f61e-1d4b-e770a7ac6852\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">A⇒B</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤B</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây là hệ quả logic của tập công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-749c73d3-7fff-0c9f-6967-0e23711d99b7\">⎤A</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-27192dce-7fff-343c-b163-20a8fb0bb420\">⎤Bv</span><span id=\"docs-internal-guid-749c73d3-7fff-0c9f-6967-0e23711d99b7\">⎤A</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>B</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14736,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a9f3fdbb-7fff-6232-d33c-051bde7584d3\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤A∨B</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤B∨E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">A</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Tập công thức trên là:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ae7b67e8-7fff-80d2-976e-d32b945317cb\">Không thoả được</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4a435a11-7fff-94fe-42ba-6f698459649a\">Thoả được</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8704bacd-7fff-a47c-04cd-14e4a44c9078\">Vững chắc</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-155885f7-7fff-c1ed-7135-60fe0e14bc45\">Không xác định</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 14664,
+    "question_direction": "<p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Điền vào dấu “…”</span><o:p></o:p></p><p><span lang=\"EN-US\">Ngoài hai thành phần cú pháp và ngữ nghĩa, ngôn ngữ biểu diễn tri thức cần được cung cấp …</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">cơ chế suy diễn</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">cơ chế hành động</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">cơ chế vận hành</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">cơ chế làm việc</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14686,
+    "question_direction": "<p><span lang=\"EN-US\">Cho A, B là các công thức trong logic mệnh đề, khẳng định nào sau đây là sai?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A∨B là công thức</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A∩B là công thức</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>A∧B là công thức</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>A⇒B là công thức</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14699,
+    "question_direction": "<p><span lang=\"EN-US\">Hai công thức A và B được xem là </span><i><span lang=\"EN-US\">tương đương</span></i><span lang=\"EN-US\"> nếu</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Có cùng giá trị chân lý trong một minh hoạ</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Có cùng giá trị chân lý trong mọi minh hoạ</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Không có cùng giá trị chân lý trong một minh hoạ</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Không có cùng giá trị chân lý trong mọi minh hoạ</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14737,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ec3b2b9c-7fff-f0ef-ff57-410c79ab2e5b\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤A∨C</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤C∨E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤E</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Tập công thức trên là:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a47a6254-7fff-0a7a-139c-1ad2695ad085\">Không thoả được</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4a296d57-7fff-1da1-6d36-c04bbc004afd\">Thoả được</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-82cceae7-7fff-301e-46c8-3fa6574c75b7\">Vững chắc</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4158b17f-7fff-43fe-f619-f6105a63fb53\">Không xác định</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14720,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-4ed62d42-7fff-4f0e-a2f8-f830d6a8fb67\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức ở dạng chuẩn tắc hội được chuẩn hóa từ công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">(A⇒B)∧C</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d4071aac-7fff-6adf-c664-ab33b58b47e4\">(⎤A∨B)∧C</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b7e527c4-7fff-7da6-9d2c-ca549e7b705d\">(⎤A∧C)∨(B∧C)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2fd36afe-7fff-980c-e5d4-31c40f4efb38\">(A∨B)∧C</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8ab6bee1-7fff-aa30-6900-301a8bc2cabb\">(A∧C)∨(B∧C)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

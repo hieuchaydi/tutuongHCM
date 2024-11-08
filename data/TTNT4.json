@@ -1,0 +1,698 @@
+[
+  {
+    "id": 9548,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Thuật toán A* là:</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo độ sâu</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá </span><span style=\"color:black;\"><span lang=\"EN-US\">f(u)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo bề rộng</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá </span><span style=\"color:black;\"><span lang=\"EN-US\">f(u)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm leo đồi</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá </span><span style=\"color:black;\"><span lang=\"EN-US\">f(u)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm sâu lặ</span></span><span lang=\"EN-US\">p kết hợp hàm đánh giá </span><span style=\"color:black;\"><span lang=\"EN-US\">f(u)</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 9555,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Thành phần h(u) trong hàm đánh giá của A* được gọi là gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Giá trị chi phí</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Giá trị heuristic</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Chi phí thực tế</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Chi phí tối ưu</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 9565,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Thuật toán A* kết thúc khi nào?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khi&nbsp;</span></span><span lang=\"EN-US\">hàm đánh giá g(u)=0 và h(u)!=0</span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khi tìm thấy&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> có g(u)=h(u)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khi tìm thấy&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> đích h</span></span><span lang=\"EN-US\">oặc danh sách chờ rỗng</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khi</span></span><span lang=\"EN-US\"> số lượng</span><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;</span></span><span lang=\"EN-US\">chờ quá lớn</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 9568,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong thuật toán A*, hàng đợi ưu tiên được sắp xếp theo giá trị nào?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">g(u)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">h(u)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">f(u)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">f</span><span style=\"color:black;\"><span lang=\"EN-US\">(u) + g(u)</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 10170,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Điểm dừng của thuật toán nhánh cận</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Danh sách L rỗng</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Danh sách L khác rỗng</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Danh sách L1 rỗng&nbsp;</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Đỉnh được xét thuộc T</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10172,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong tìm kiếm tối ưu g(u) là giá trị số đánh giá…</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Độ dài đường đi từ u<sub>0</sub> đến u</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Độ dài đường đi từ đỉnh u bất kỳ đến đích</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Độ dài đường đi từ v đến u</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Độ dài đường đi đến u</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10173,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Thuật toán nào sử dụng hàm đánh giá f(u)=</span></span><span lang=\"EN-US\">g(u)+h(u)</span><span style=\"color:black;\"><span lang=\"EN-US\"> trong quá trình tìm kiếm</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm nhánh cận</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm tốt nhất đầu tiên</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm leo đồi</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm cắt cụt&nbsp;</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10183,
+    "question_direction": "<p>Cho đồ thị không gian trạng thái sau:&nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22460\" alt=\"22460|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}. Giá trị g(u) tại đỉnh F là:&nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>9</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>21</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>29</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>7</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10189,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22488\" alt=\"22488|serverAws\"></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B-C-H</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-C-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-G-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-B-D-H</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10191,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22505\" alt=\"22505|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi ngắn nhất tìm được là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-C-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-G-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-B-H</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10194,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J},</span><o:p></o:p></p><p class=\"MsoNormal\"><w:sdt sdttag=\"goog_rdk_4\" id=\"-1461178466\"></w:sdt><w:sdt sdttag=\"goog_rdk_5\" id=\"572164166\"></w:sdt><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22540\" alt=\"22540|serverAws\"></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B-H-I-D-G-C</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-H-D-G-C-F-K-J-E</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-H</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10198,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"22568\" alt=\"22568|serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích tìm được là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-H-D-G-C</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">A-B-H</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-B-H-D-G-C-F-K-J-E</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-D-H</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 10201,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất tìm được là.</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22739\" alt=\"22739|serverAws\"></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>6</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 10204,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image image-style-align-center\"><img src=\"22761\" alt=\"22761|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B- D-H</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-C-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-E-F-J</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-C</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10229,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22917\" alt=\"22917|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>8</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>15</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>10</p>"
+      }
+    ],
+    "correct_answer": 8
+  },
+  {
+    "id": 9550,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Thuật toán nhánh cận là:</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo độ sâu&nbsp;</span></span><span lang=\"EN-US\">kết hợp hàm đánh giá f(u)</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo bề rộng</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá f(u)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm sâu lặp</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá f(u)</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm tốt nhất đầu tiên</span></span><span lang=\"EN-US\"> kết hợp hàm đánh giá f(u)</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10174,
+    "question_direction": "<p><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán nào sau đây thuộc tìm kiếm tối ưu.</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán tìm kiếm sâu lặp</span></span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán tìm kiếm nhánh cận</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán tìm kiếm leo đồi</span></span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"background-color:white;\"><span lang=\"EN-US\">Thuật toán tìm kiếm f(u)</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10187,
+    "question_direction": "<p>Cho không gian trạng thái:&nbsp;</p><figure class=\"image\"><img src=\"52919\" alt=\"52919|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Với trạng thái ban đầu U<sub>0</sub> = {A}; Tập trạng thái kết thúc T = {B}</span></span><o:p></o:p></p><p class=\"MsoNormal\">Áp dụng thuật toán A*, giá trị f(G) là:&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">24</span></span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">36</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">41</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">53</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10203,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22753\" alt=\"22753|serverAws\"></figure><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>6</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10205,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22767\" alt=\"22767|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B- H-I-D-G-C</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B- H-I-D-G-C-E-F-J-K</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-C-H</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10222,
+    "question_direction": "<p><span style=\"color:black;\">Trong bài toán người du lịch (Travelling Salesman Problem - TSP), thuật toán nhánh và cận (Branch and Bound) giúp giải quyết vấn đề gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>&nbsp;Tìm ra tất cả các đường đ<span class=\"hljs-selector-tag\">i</span> có <span class=\"hljs-selector-tag\">th</span>ể giữ<span class=\"hljs-selector-tag\">a</span> các <span class=\"hljs-selector-tag\">th</span>ành phố</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Tìm đường đ<span class=\"hljs-selector-tag\">i</span> ngắn nhất qua tất cả các <span class=\"hljs-selector-tag\">th</span>ành phố đúng một lần<br><br>&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Tìm ra một đường đi gần đúng&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\">Tính <span class=\"hljs-selector-tag\">to</span>án đường vận chuyển giữ<span class=\"hljs-selector-tag\">a</span> các <span class=\"hljs-selector-tag\">th</span>ành phố</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10227,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22907\" alt=\"22907|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh F.</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>13</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>12</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>29</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>7</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 9558,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Hàm đánh giá trong thuật toán A* được biểu diễn dưới dạng nào?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">f(u)=g(u)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">f(u)=h(u)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">f(u)=g(u)+h(u)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">f(u)=g(u)×h(u)&nbsp;</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 9574,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong thuật toán nhánh cận L<sub>1</sub> để lưu :</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái kề c</span></span><span lang=\"EN-US\">ủa u đã</span><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;</span></span><span lang=\"EN-US\">được sắp xếp</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái chờ để phát triển</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái đã phát&nbsp;</span></span><span lang=\"EN-US\">triển</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái kề và các trạng thái chờ được phát triển</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10171,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Trong thuật toán tìm kiếm nhánh cận hàm đánh giá f(u) xác định …</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">g(u)+h(u)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">g(u)+k(u,v)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">h(u)+k(u)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">g(u)+k(u,v)+h(u)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10225,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22898\" alt=\"22898|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B-D-I</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-I</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-C-D-H-I</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-C-E</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 9573,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Cost trong thuật toán nhánh cận để :</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Lưu giá trị</span></span><span lang=\"EN-US\"> f(u)</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Lưu giá trị&nbsp;</span></span><span lang=\"EN-US\">đường đi </span><span style=\"color:black;\"><span lang=\"EN-US\">tốt&nbsp;</span></span><span lang=\"EN-US\">cho tới thời điểm hiện tại</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Lưu giá trị</span></span><span lang=\"EN-US\"> h(u)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Lưu&nbsp;</span></span><span lang=\"EN-US\">số đỉnh đã xét</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 10185,
+    "question_direction": "<p>Cho đồ thị không gian trạng thái</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22470\" alt=\"22470|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span><o:p></o:p></p><p><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh K</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>18</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>32</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>38</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>12</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 9561,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong thuật toán A*, thành phần g(u) của hàm đánh giá đại diện cho điều gì?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khoảng cách ước lượng từ&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> hiện tại đến đích</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Chi phí từ&nbsp;</span></span><span lang=\"EN-US\">trạng thái bắt đầu</span><span style=\"color:black;\"><span lang=\"EN-US\"> đến&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> hiện tại</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tổng chi phí từ&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> gốc đến đích</span></span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Chi phí từ&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> hiện tại đến&nbsp;</span></span><span lang=\"EN-US\">trạng thái</span><span style=\"color:black;\"><span lang=\"EN-US\"> con</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

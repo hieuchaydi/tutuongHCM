@@ -1,0 +1,698 @@
+[
+  {
+    "id": 6784,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo là lĩnh vực nghiên cứu của việc xây dựng các hệ thống máy tính có đặc điểm gì?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">H</span></span><span lang=\"EN-US\">ành động như người</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">H</span></span><span lang=\"EN-US\">ành động như chim</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"VI\">H</span><span lang=\"EN-US\">ành động như cá</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"VI\">Hành động&nbsp;</span><span lang=\"EN-US\">như côn trùng</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6787,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo thường được viết tắt là gì:&nbsp;</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"EN-US\">IA</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\">AIOT<o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">AI</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">OPENAI</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6790,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><strong>Điền vào chỗ trống câu sau</strong></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Trí tuệ nhân tạo là môn khoa học nghiên cứu và mô phỏng các quá trình sáng tạo của …. trên máy tính điện tử, nhằm tạo ra các sản phẩm thông minh có khả năng suy nghĩ, ra quyết định, hoặc hỗ trợ ra quyết định như con người.</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">thực vật</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">con người</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">động vật</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">côn trùng</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6796,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo là lĩnh vực nghiên cứu việc xây dựng các hệ thống máy tính có đặc điểm gì?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Hoạt động bay</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Hành động tập bơi</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Suy nghĩ hợp lý</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"VI\">Hành động&nbsp;tập viết</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6803,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo là lĩnh vực nghiên cứu việc xây dựng các hệ thống máy tính KHÔNG có đặc điểm gì?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Suy nghĩ hợp lý</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Suy nghĩ như người</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"VI\">Hàn</span><span lang=\"EN-US\">h động hợp lý</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Hành động ngẫu nhiên</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6807,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo thuộc về lĩnh vực nào?</strong></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Khoa học xã hội&nbsp;</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Khoa học nhân văn</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Khoa học máy tính và Khoa học tự nhiên</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Nghệ thuật và nhân văn</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6814,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\"><strong>Turing Test được sử dụng để đánh giá điều gì trong lĩnh vực trí tuệ nhân tạo?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Khai phá dữ liệu</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Lập trình nhân tạo</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Khả năng của AI trong việc hành động như con người</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Tối ưu hóa hiệu suất phần cứng</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6816,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Cho biết đâu là lĩnh vực ứng dụng của trí tuệ nhân tạo</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Thị giác máy tính</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Xử lý ngôn ngữ tự nhiên&nbsp;</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Robot</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tất cả các trường hợp trên</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6823,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Cho biết khoảng thời gian của công nghiệp trí tuệ nhân tạo</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Từ 1980 đến nay</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Từ 1990 đến nay</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Từ 2000 đến nay</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Từ 2010 đến nay</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6824,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Cho biết khoảng thời gian cách tiếp cận của trí tuệ nhân tạo dựa trên dữ liệu, sử dụng khối lượng dữ liệu lớn</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Từ 1980 đến nay</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Từ 1990 đến nay</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Từ 2001 đến nay</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Từ 2010 đến nay</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6826,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><strong>Hình ảnh dưới đây mô tả điều gì?</strong></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><strong><img data-org=\"serverAws\" src=\"12527\" alt=\"12527|serverAws\"></strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Lịch sử phát triển của máy tính</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Lịch sử phát triển của điện thoại</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Lịch sử phát triển của hệ điều hành</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Lịch sử phát triển của trí tuệ nhân tạo</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6829,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Deep Blue là gì và nổi tiếng vì lý do nào?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Một loại máy tính cá nhân phổ biến trong những năm 1990.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Một hệ thống trí tuệ nhân tạo nổi tiếng vì đã đánh bại nhà vô địch cờ vua Garry Kasparov</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Một ứng dụng chỉnh sửa ảnh nổi tiếng.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Một chương trình trò chơi điện tử được phát triển vào đầu thế kỷ 21.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6834,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Cho biết đâu là lĩnh vực nghiên cứu của trí tuệ nhân tạo</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Lập luận và suy diễn</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Biểu diễn tri thức&nbsp;</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tất cả các trường hợp trên</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6835,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo yếu (weak AI) thường được sử dụng trong những ứng dụng nào dưới đây?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Hệ thống có khả năng học và hiểu mọi lĩnh vực giống như con người.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Các ứng dụng cụ thể, đơn lẻ</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Phát triển khả năng tư duy tổng quát và trí tuệ tương tự con người.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tạo ra các lý thuyết mới trong vật lý và toán học.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6782,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\"><strong>Tác giả của khái niệm \"Turing Test\" là ai?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Isaac Newton</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Albert Einstein</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Alan Turing</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Charles Babbage</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6809,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Cho biết đâu là ưu điểm của trí tuệ nhân tạo</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Xử lý dữ liệu khoa học</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Xử lý dữ liệu nhanh</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Xử lý dữ liệu có hệ thống</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tất cả các trường hợp&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6820,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Thuật ngữ \"Artificial Intelligence\" (Trí tuệ nhân tạo) lần đầu tiên được giới thiệu vào năm nào?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">1843</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">1910</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">1956</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\">2020</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6828,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Đâu là chương trình trò chơi nổi tiếng áp dụng trí tuệ nhân tạo</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Deep blue</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">AlphaGo</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:windowtext;\"><span class=\"fontstyle21\" lang=\"EN-US\">H</span><span class=\"fontstyle21\" lang=\"VI\">ệ thống&nbsp;</span><span class=\"fontstyle31\" lang=\"VI\">trả lời tự động Watson</span></span><span lang=\"EN-US\">.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tất cả các đáp án trên&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6830,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>&nbsp;</strong></span></span><span lang=\"EN-US\"><strong>AlphaGo là một chương trình trí tuệ nhân tạo nổi tiếng vì lý do gì?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Đánh bại nhà vô địch cờ vua Garry Kasparov.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Đánh bại nhà vô địch cờ vây Lee Sedol</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Đạt giải Nobel Kinh tế.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Phát triển phần mềm học sâu cho nhận diện hình ảnh.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6783,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo là gì</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">M</span></span><span lang=\"EN-US\">ôn khoa học nghiên cứu và mô phỏng các quá trình sáng tạo của con người trên máy tính điện tử, nhằm tạo ra các sản phẩm thông minh có khả năng suy nghĩ, ra quyết định, hoặc hỗ trợ ra quyết định như con người.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Máy tính có khả năng lưu trữ và truy xuất dữ liệu lớn</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Phần mềm dùng để thiết kế đồ họa</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Hệ thống máy tính quản lý cơ sở dữ liệu</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6788,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Điền vào chỗ trống câu sau: </strong>Trí tuệ nhân tạo là môn khoa học ….. các quá trình sáng tạo của con người trên máy tính điện tử, nhằm tạo ra các sản phẩm thông minh có khả năng suy nghĩ, ra quyết định, hoặc hỗ trợ ra quyết định như con người.</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">quan sát</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>kiểm tra</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">đánh giá</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">nghiên cứu và mô phỏng</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6818,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\"><strong>Cho biết đâu là giai đoạn manh nha, tiền khởi đầu của trí tuệ nhân tạo</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">1943-1955</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">1890-1990</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">2000-2010</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">2010-nay</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6832,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Xử lý ngôn ngữ tự nhiên (NLP) trong trí tuệ nhân tạo thường được sử dụng để làm gì?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tạo ra các mô hình dự đoán tài chính.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Nhận diện hình ảnh và video.&nbsp;</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Hiểu và phân tích ngôn ngữ của con người, ví dụ như dịch thuật và chatbot</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Quản lý dữ liệu và tối ưu hóa hệ thống mạng.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6805,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\"><strong>Định nghĩa trí tuệ nhân tạo có thể nhóm mấy nhóm khác nhau</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>1</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>4</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6812,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Điền vào chỗ trống câu sau:</strong></span></span><o:p></o:p></p><p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>&nbsp;H</strong></span></span><span lang=\"EN-US\"><strong>ọc máy là…..trí tuệ nhân tạo</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">bao trùm</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ngang hàng</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>cha đẻ</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>một nhánh</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6817,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Trí tuệ nhân tạo có thể ứng dụng trong lĩnh vực nào dưới đây?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Chỉ trong lĩnh vực công nghệ thông tin.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Chỉ trong lĩnh vực tài chính.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Trong nhiều lĩnh vực, ngành nghề khác nhau như y tế, giáo dục, giải trí, và sản xuất,…&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Chỉ trong lĩnh vực khoa học và nghiên cứu.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6825,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Chức năng chính của ChatGPT là gì?</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\">Điểm danh khuôn mặt<o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Xử lý và tạo văn bản tự nhiên</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\">Điện toán đám mây<o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Hệ thống thông tin địa lý<o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6831,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Chương trình nhận dạng tiếng nói nào dưới đây nổi tiếng vì sử dụng trí tuệ nhân tạo để hiểu và chuyển đổi lời nói thành văn bản?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Siri</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Photoshop</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Excel</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Calculator</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6821,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><strong>Lịch sử phát triển của trí tuệ nhân tạo trải qua bao nhiêu giai đoạn</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>1</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Nhiều hơn 3</p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": 2472,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Điền từ thích hợp vào chỗ trống:“Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của ........”.&nbsp;</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Dân tộc Việt Nam"
+      },
+      {
+        "id": "2",
+        "value": "Cách mạng Việt Nam "
+      },
+      {
+        "id": "3",
+        "value": "Nhân dân Việt Nam"
+      },
+      {
+        "id": "4",
+        "value": "Cách mạng thế giới"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2477,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Điền từ thích hợp để hoàn thiện quan điểm sau được nêu trong Đại hội VII (1991) của Đảng Cộng sản Việt Nam: “Tư tưởng Hồ Chí Minh chính là kết quả sự…….. chủ nghĩa Mác - Lênin trong điều kiện cụ thể của nước ta”.&nbsp;</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Vận dụng và phát triển "
+      },
+      {
+        "id": "2",
+        "value": "Phát triển "
+      },
+      {
+        "id": "3",
+        "value": "Vận dụng "
+      },
+      {
+        "id": "4",
+        "value": "Vận dụng sáng tạo "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2491,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><strong>Điền từ còn thiếu để hoàn thành khái niệm sau: “Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, kết quả của sự vận dụng và phát triển sáng tạo …….. vào điều kiện cụ thể của nước ta, kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hoá nhân loại; là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta, mãi mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi”.&nbsp;</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Học thuyết “Tam dân” "
+      },
+      {
+        "id": "2",
+        "value": "Chủ nghĩa Lênin "
+      },
+      {
+        "id": "3",
+        "value": "Chủ nghĩa Mác  "
+      },
+      {
+        "id": "4",
+        "value": "Chủ nghĩa Mác – Lênin "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2510,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Khái niệm tư tưởng Hồ Chí Minh được đưa vào văn kiện chính thức của Đảng ta khi nào?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "1986 "
+      },
+      {
+        "id": "2",
+        "value": "1996"
+      },
+      {
+        "id": "3",
+        "value": "1991 "
+      },
+      {
+        "id": "4",
+        "value": "2001"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2539,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><strong>Năm 1990 UNESCO đã công nhận ai là&nbsp;“Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất của Việt Nam”</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Vua Lê Thái Tổ "
+      },
+      {
+        "id": "2",
+        "value": "Vua Trần Nhân Tông "
+      },
+      {
+        "id": "3",
+        "value": "Vua Quang Trung – Nguyễn Huệ"
+      },
+      {
+        "id": "4",
+        "value": "Chủ tịch Hồ Chí Minh "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2541,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969 đã khẳng định Chủ tịch Hồ Chí Minh là:</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "“Anh hùng giải phóng dân tộc”"
+      },
+      {
+        "id": "2",
+        "value": " “Nhà văn hóa kiệt xuất”"
+      },
+      {
+        "id": "3",
+        "value": " “Anh hùng dân tộc vĩ đại”"
+      },
+      {
+        "id": "4",
+        "value": "“Anh hùng giải phóng dân tộc và là nhà văn hóa kiệt xuất” "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2544,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Tổ chức nào đã tôn vinh Chủ tịch Hồ Chí Minh là “Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất”?&nbsp;</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "ASEAN "
+      },
+      {
+        "id": "2",
+        "value": "WTO "
+      },
+      {
+        "id": "3",
+        "value": " AFTA "
+      },
+      {
+        "id": "4",
+        "value": "UNESCO"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2565,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>14. Điền từ thích hợp để hoàn thành luận điểm sau:“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta” (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969)</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Vị cha già kính yêu của dân tộc "
+      },
+      {
+        "id": "2",
+        "value": " Người anh hùng dân tộc vĩ đại"
+      },
+      {
+        "id": "3",
+        "value": "Người anh hùng dân tộc "
+      },
+      {
+        "id": "4",
+        "value": " Lãnh tụ vĩ đại của dân tộc "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2572,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Điền từ còn thiếu vào chỗ trống để hoàn thành luận điểm sau được nêu trong Đại hội II của Đảng Cộng sản Việt Nam (2-1951): “Đường lối chính trị, nền nếp làm việc và …….. của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch. Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và ………. của Hồ Chủ tịch; sự học tập ấy, là điều kiện tiên quyết làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn”.&nbsp;</strong></span></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": " Đạo đức cách mạng "
+      },
+      {
+        "id": "2",
+        "value": "Phong cách "
+      },
+      {
+        "id": "3",
+        "value": " Lập trường "
+      },
+      {
+        "id": "4",
+        "value": "Tư tưởng "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2584,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Nguyên nhân quan trọng nhất dẫn tới sự thất bại của các phong trào yêu nước cuối thế kỉ XIX đầu thế kỉ XX?&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Các phong trào diễn ra lẻ tẻ, tự phát"
+      },
+      {
+        "id": "2",
+        "value": "Không phát huy được sức mạnh đại đoàn kết dân tộc"
+      },
+      {
+        "id": "3",
+        "value": "Thiếu một đường lối đúng đắn"
+      },
+      {
+        "id": "4",
+        "value": "Thua kém về vũ khí"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2603,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Dưới chế độ thực dân phong kiến, giai cấp nông dân Việt Nam có yêu cầu bức thiết nhất là gì?</strong></span></p><p>&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Độc lập dân tộc"
+      },
+      {
+        "id": "2",
+        "value": "Quyền bình đẳng nam, nữ"
+      },
+      {
+        "id": "3",
+        "value": "Ruộng đất"
+      },
+      {
+        "id": "4",
+        "value": "Được giảm tô, giảm tức"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2634,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\">&nbsp;<strong>Yếu tố cơ bản nào của thời đại chi phối và quyết định sự hình thành tư tưởng Hồ Chí Minh?&nbsp;</strong></span></p><p class=\"MsoNormal\"><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Sự thành công của cách mạng tháng Mười Nga"
+      },
+      {
+        "id": "2",
+        "value": " Sự thành công của cách mạng Tân Hợi "
+      },
+      {
+        "id": "3",
+        "value": "Sự ra đời của Đảng Cộng sản ở các nước "
+      },
+      {
+        "id": "4",
+        "value": "Chủ nghĩa tư bản phát triển ở giai đoạn tự do cạnh tranh "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2644,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Công nhân Việt Nam cuối thế kỷ XIX đầu thế kỷ XX chịu những tầng áp bức bóc lột nào?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Chủ nô</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Tư sản dân tộc</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Phong kiến</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Thực dân, tư bản, phong kiến</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2667,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Bối cảnh lịch sử thế giới cuối thế kỷ XIX đầu thế kỷ XX dẫn đến sự hình thành tư tưởng Hồ Chí Minh? Chọn đáp án sai?</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": " Sự phát triển của chủ nghĩa tư bản từ thời kỳ tự do cạnh tranh chuyển sang thời kỳ độc quyền đế quốc"
+      },
+      {
+        "id": "2",
+        "value": "Sự thắng lợi của Cách mạng Tân Hợi 1911"
+      },
+      {
+        "id": "3",
+        "value": "Sự thắng lợi của Cách mạng Tháng Mười Nga"
+      },
+      {
+        "id": "4",
+        "value": "Sự ra đời của chủ nghĩa Mác "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2673,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Chủ tịch Hồ Chí Minh coi học thuyết Mác – Lênin là “Cẩm nang thần kỳ” chứ không phải là “Kinh thánh”, vì thế khi vận dụng chủ nghĩa Mác Lênin vào Việt Nam cần:</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Vận dụng linh hoạt, sáng tạo</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Vận dụng một cách giáo điều</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Vận dụng dập khuôn, máy móc</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Vận dụng luôn đổi mới</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2487,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><strong>“Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam”. Đoạn trích trên đề cập đến vấn đề gì trong khái niệm tư tưởng Hồ Chí Minh?&nbsp;</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Cơ sở hình thành tư tưởng Hồ Chí Minh "
+      },
+      {
+        "id": "2",
+        "value": "Ý nghĩa của tư tưởng Hồ Chí Minh "
+      },
+      {
+        "id": "3",
+        "value": "Bản chất khoa học, cách mạng, nội dung cơ bản của tư tưởng Hồ Chí Minh "
+      },
+      {
+        "id": "4",
+        "value": "Vai trò lãnh đạo của Đảng Cộng sản Việt Nam "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2536,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động\" (Trích Đại hội Đại biểu toàn Quốc lần thứ VII)</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Nền tảng tư tưởng</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Đường lối chiến lược</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Đường lối cách mạng</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Quan điểm cách mạng</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2574,
+    "question_direction": "<p style=\"text-align:justify;\"><span style=\"color:black;\"><span><strong>Đối tượng nghiên cứu của Tư tưởng Hồ Chí Minh</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Cuộc đời và sự nghiệp hoạt động cách mạng của Hồ Chí Minh"
+      },
+      {
+        "id": "2",
+        "value": " Hệ thống các quan điểm, lý luận của Hồ Chí Minh"
+      },
+      {
+        "id": "3",
+        "value": "Tiểu sử của Hồ Chí Minh"
+      },
+      {
+        "id": "4",
+        "value": "Sự nghiệp hoạt động cách mạng của Hồ Chí Minh"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2578,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Phương pháp cụ thể nghiên cứu môn học tư tưởng Hồ Chí Minh</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Kết hợp phương pháp phân tích</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Phương pháp quy nạp</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Phương pháp phân tích văn bản kết hợp với nghiên cứu hoạt động thực tiễn</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Phương pháp diễn dịch</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2589,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Trong đợt khai thác thuộc địa lần thứ nhất của thực dân Pháp nước ta có giai cấp mới nào được hình thành?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Giai cấp nông dân"
+      },
+      {
+        "id": "2",
+        "value": "Giai cấp công nhân "
+      },
+      {
+        "id": "3",
+        "value": "Giai cấp địa chủ, phong kiến"
+      },
+      {
+        "id": "4",
+        "value": "Giai cấp chủ nô"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2594,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Mâu thuẫn cơ bản và chủ yếu ở Việt Nam đầu thế kỷ XX là mâu thuẫn nào?</strong></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": ". Mâu thuẫn giữa giai cấp nông dân với giai cấp tư sản"
+      },
+      {
+        "id": "2",
+        "value": "C. Mâu thuẫn giữa giai cấp công nhân và nông dân với đế quốc và phong kiến "
+      },
+      {
+        "id": "3",
+        "value": "Mâu thuẫn giữa giai cấp công nhân với giai cấp tư sản"
+      },
+      {
+        "id": "4",
+        "value": "Mâu thuẫn giữa dân tộc Việt Nam với đế quốc xâm lược và tay sai của chúng "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2657,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Lựa chọn đáp án đúng nhất, theo quan điểm của Hồ Chí Minh “Chỉ có ...... là dũng cảm nhất, cách mạng nhất, luôn luôn gan góc đương đầu với bọn đế quốc thực dân”</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Giai cấp nông dân"
+      },
+      {
+        "id": "2",
+        "value": "Giai cấp tư sản"
+      },
+      {
+        "id": "3",
+        "value": "Giai cấp địa chủ, phong kiến"
+      },
+      {
+        "id": "4",
+        "value": "Giai cấp công nhân "
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2524,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Điền từ còn thiếu vào chỗ trống: “ Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta”&nbsp;</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Lê Thái Tổ"
+      },
+      {
+        "id": "2",
+        "value": " Quang Trung – Nguyễn Huệ "
+      },
+      {
+        "id": "3",
+        "value": "Hồ Chủ Tịch "
+      },
+      {
+        "id": "4",
+        "value": "Trần Nhân Tông"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2558,
+    "question_direction": "<p><span style=\"color:black;\"><strong>Nội dung nào là một trong những nguyên tắc phương pháp luận trong nghiên cứu môn học tư tưởng Hồ Chí Minh?&nbsp;</strong></span></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Quan điểm lịch sử thế giới</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Quan điểm lịch sử</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Quan điểm lịch sử Việt Nam</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Quan điểm lịch sử - cụ thể</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2679,
+    "question_direction": "<p class=\"MsoNormal\"><strong>Con đường phát triển của dân tộc Việt Nam trong giai đoạn hiện nay theo qua điểm của chủ tịch Hồ Chí Minh là:</strong><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Độc lập dân tộc</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Quá độ lên chủ nghĩa xã hội</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Xây dựng chủ nghĩa xã hội</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Độc lập dân tộc gắn liền với chủ nghĩa xã hội</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2483,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Khái niệm tư tưởng Hồ Chí Minh là:</strong></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Là sản phẩm của lịch sử Việt Nam</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Là quan điểm về cách mạng Việt Nam</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Là đường lối cách mạng Việt Nam</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2612,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Sự kiện nào được Nguyễn Ái Quốc đánh giá “mở ra một thời đại mới, thời đại chống đế quốc, giải phóng dân tộc”?</strong></span></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Cách mạng tháng Mười Nga thắng lợi "
+      },
+      {
+        "id": "2",
+        "value": " Vụ mưu sát tên toàn quyền Mecslanh của Phạm Hồng Thái"
+      },
+      {
+        "id": "3",
+        "value": " Sự thành lập Đảng Cộng sản Pháp.  "
+      },
+      {
+        "id": "4",
+        "value": "Sự thành lập Hội Việt Nam cách mạng Thanh niên"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2622,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Việt Nam cuối thế kỷ XIX đầu thế kỷ XX đã xuất hiện những giai tầng mới, đó là những giai tầng nào?</strong></span></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">B.&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">C.</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">D.&nbsp;</span><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Tầng lớp địa chủ, phong kiến"
+      },
+      {
+        "id": "2",
+        "value": " Giai cấp công nhân, giai cấp tư sản và tầng lớp tiểu tư sản ở thành thị ##"
+      },
+      {
+        "id": "3",
+        "value": "Những người nô lệ"
+      },
+      {
+        "id": "4",
+        "value": "Giai cấp nông dân"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2653,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><strong>&nbsp;“Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã trở thành một nước tự do và độc lập....” câu trên được trích trong tác phẩm nào của chủ tịch Hồ Chí Minh?</strong></span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "Đường cách mệnh"
+      },
+      {
+        "id": "2",
+        "value": "Tuyên ngôn độc lập"
+      },
+      {
+        "id": "3",
+        "value": "Sửa đổi lề lối làm việc"
+      },
+      {
+        "id": "4",
+        "value": "Bản án chế độ thực dân Pháp"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 2550,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Nội dung nào là một trong những nguyên tắc phương pháp luận trong nghiên cứu môn học tư tưởng Hồ Chí Minh?&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Quan điểm kế thừa và toàn diện</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Quan điểm cách mạng và cụ thể</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Quan điểm kế thừa và phát triển</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Quan điểm toàn diện và cụ thể</p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

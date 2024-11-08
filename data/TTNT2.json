@@ -1,0 +1,674 @@
+[
+  {
+    "id": 6840,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Để biểu diễn một vấn đề trong không gian trạng thái thì cần xác định những yếu tố nào?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Trạng thái đầu</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tất cả các đáp án</span><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Tập hợp trạng thái cuối</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Tập hợp các toán tử</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6865,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó, các toán tử là gì?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"12547\" alt=\"12547|serverAws\"></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Xuống</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Lên, xuống</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Trái, phải</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Lên, xuống, trái, phải&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6876,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “5 ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"53296\" alt=\"53296|serverAws\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Xuống</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Lên, xuống</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Trái</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trái, phải&nbsp;</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6885,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Điểm dừng của thuật toán tìm kiếm theo bề rộng là&nbsp;:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Danh sách L khác rỗng</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Đỉnh phát triển thuộc T</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Danh sách L rỗng hoặc đỉnh phát triển thuộc T</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Đỉnh phát triển thuộc T rỗng</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6891,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong các kỹ thuật sau,&nbsp;</span></span><span lang=\"EN-US\">kỹ thuật nào thuộc chiến lược tìm kiếm mù:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm theo sâu lặp</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm theo tốt nhất đầu tiên</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Tìm kiếm theo nhánh và cận</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Tìm kiếm theo Minimax</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6905,
+    "question_direction": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Trong bài toán du khách tìm đường từ thành phố A đến thành phố B (sử dụng bản đồ du lịch), các thành phố trong bản đồ được coi là gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Toán tử</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Không gian trạng thái</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\">Điểm đến<o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6910,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:#111827;\"><span lang=\"EN-US\">Tại sao không áp dụng tìm kiếm theo độ sâu cho các bài toán có cây tìm kiếm chứa các nhánh vô hạn?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Vì bài toán không tồn tại</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Vì bài toán sẽ luôn luôn tìm ra nghiệm nhưng rất chậm</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Vì bài toán có thể bị lặp ở nhánh vô hạn và không dừng lại&nbsp;</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Vì bài toán đòi hỏi rất nhiều không gian nhớ</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6926,
+    "question_direction": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Tại sao việc gán nhãn \"giải được\" hay \"không giải được\" cho các đỉnh trong đồ thị AND/OR lại quan trọng?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Vì nó giúp xác định thứ tự của các đỉnh trong đồ thị.</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Vì nó giúp xác định liệu bài toán ban đầu có thể được giải quyết hay không</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Vì nó thay đổi cấu trúc của đồ thị.</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Vì nó làm cho đồ thị trở nên lớn hơn.</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6943,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12602\" alt=\"12602|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-G-M-C-F-K</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-F-K</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-B-H-I</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-E-F-N</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6947,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img src=\"12604\" alt=\"12604|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo bề rộng xét các đỉnh là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-B-C-D-H-I</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-F-K</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-I</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-C-D</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6953,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12606\" alt=\"12606|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo độ sâu thì đỉnh kết thúc đầu tiên sẽ tìm thấy là</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">I,N,K</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>L</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>N</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>K</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6960,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12637\" alt=\"12637|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {I, N, K}</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo chiều rộng thì đỉnh kết thúc đầu tiên sẽ tìm thấy là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>I, N, K</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>I</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>N</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>K</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6964,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img src=\"12640\" alt=\"12640|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm theo bề rộng, thứ tự các đỉnh được xét là&nbsp;:&nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-E-I-H</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">A-D-E-F-G-H</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-F-E</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-E-H</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6968,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12644\" alt=\"12644|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-F-K-M-E-I</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-F-K-M-D-I</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-F-E-D-G-H</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-E-H</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6984,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-B-C-D-H-I</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12652\" alt=\"12652|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Theo chiều rộng</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Theo chiều sâu</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Sâu lặp</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Sâu hạn chế với d = 2</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6871,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “</span></span><a><span style=\"color:black;\"><span lang=\"EN-US\">6</span></span></a><span class=\"MsoCommentReference\" lang=\"EN-US\">&nbsp;</span><span style=\"color:black;\"><span lang=\"EN-US\">” ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"12577\" alt=\"12577|serverAws\"></span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Xuống</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Lên, xuống</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trái, phải</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Lên, xuống, trái, phải&nbsp;</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6878,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tại sao việc biểu diễn một vấn đề trong không gian trạng thái lại quan trọng trong giải quyết vấn đề bằng tìm kiếm.&nbsp;</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Vì nó giúp xác định trạng thái đầu</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Vì nó chỉ ra các toán tử có thể sử dụng</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Vì nó xác định tập hợp các trạng thái kết thúc</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Vì việc tìm kiếm nghiệm của bài toán được quy về việc tìm đường đi từ trạng thái ban đầu đến trạng thái đích</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6900,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:#111827;\"><span lang=\"EN-US\">Khi nào một đỉnh trong đồ thị AND/OR được đánh dấu là \"giải được\"?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Khi nó không có đỉnh kề nào.</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Khi nó là đỉnh kết thúc hoặc có một toán tử sao cho tất cả các đỉnh kề theo toán tử đó đều được đánh dấu \"giải được\"</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Khi nó là đỉnh bắt đầu</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:#111827;\"><span lang=\"EN-US\">Khi nó có nhiều hơn hai đỉnh kề.</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6912,
+    "question_direction": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Trong tìm kiếm theo bề rộng, danh sách L được thiết kế như thế nào?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Như một hàng đợi (Queue)&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Như một ngăn xếp (Stack)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Như một danh sách liên kết (Linked List)</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Như một cây (Tree)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6938,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img src=\"12600\" alt=\"12600|serverAws\" data-org=\"serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,E}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là&nbsp;:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-K-I-C-H</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-C-G</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-B-E</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-G-H</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6972,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12646\" alt=\"12646|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán theo chiều rộng, đỉnh nào sẽ được duyệt sau đỉnh D?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>G</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>H</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>F</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>C</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6975,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"12648\" alt=\"12648|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm chiều sâu hạn chế với d =2, thứ tự các đỉnh được xét là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-G-C-F-E-B-I</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-G-M-C</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-B-H-I</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-C-E-N</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6987,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-K-I-C-H</span><o:p></o:p></p><figure class=\"image\"><img src=\"12654\" alt=\"12654|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Theo chiều rộng</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Theo chiều sâu</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Theo kinh nghiệm</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Theo Sâu hạn chế với d = 1</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6996,
+    "question_direction": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Cho đồ thị không gian trạng thái.&nbsp;</span></p><figure class=\"image\"><img src=\"12656\" alt=\"12656|serverAws\" data-org=\"serverAws\"></figure><p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Nếu áp dụng thuật toán tìm kiếm sâu lặp với trạng thái kết thúc là F, thuật toán dừng tại độ sâu là bao nhiêu?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>1</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>4</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7000,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"12664\" alt=\"12664|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu đỉnh bắt đầu là A, T = ∅</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm theo chiều rộng, đỉnh cuối cùng được duyệt là đình nào?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>I</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>N</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>H</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>M</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6896,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong thuật toán tìm kiếm theo độ sâu, danh sách&nbsp; L để lưu&nbsp;:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Các trạng thái kề</span><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Các trạng thái chờ để phát triển&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Các trạng thái đã phát triền</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tập trạng thái kết thúc</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6915,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:#111827;\"><span lang=\"EN-US\">Thuật toán tìm kiếm sâu lặp kết hợp ưu điểm của những phương pháp nào?</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo độ sâu và tìm kiếm heuristic</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo bề rộng và tìm kiếm theo độ sâu</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm heuristic và tìm kiếm mù</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Tìm kiếm theo bề rộng và tìm kiếm heuristic</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 6980,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-G-C-F-E-B-I</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Với trạng thái bắt đầu là A, trạng thái đích là H</span><o:p></o:p></p><figure class=\"image\"><img src=\"12650\" alt=\"12650|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Theo chiều rộng</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Theo kinh nghiệm</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Theo chiến lược</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Sâu hạn chế với d = 2</p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

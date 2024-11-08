@@ -1,0 +1,722 @@
+[
+  {
+    "id": 14743,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9ba20287-7fff-0184-c117-664435de4dfc\">Đâu là kí hiệu trong logic vị từ cấp 1</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-be3fb933-7fff-294e-6a8d-34cd498c13c1\">Các ký hiệu đơn</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-20cb7c6e-7fff-3fb2-2464-4a5c98231ee8\">Các ký hiệu hàm</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-109ab5ab-7fff-5893-1a3e-2599c6b5f9ad\">Các ký hiệu hạng thức</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-28a4a65b-7fff-75b8-9227-39094b772aae\">Các ký hiệu phân tử</span></span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14750,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-1df52fb9-7fff-acbb-0f50-0f27e96a6758\"><span style=\"background-color:transparent;color:#000000;\">Điền vào dấu …</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Logic vị từ cấp một là … của logic mệnh đề</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bce5f845-7fff-d33c-8f32-af154669bcd3\">một nhánh</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-3dec2141-7fff-ecb7-6741-89bbb5b0d5b3\">mở rộng</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e470104d-7fff-01be-f1d8-e6d3c15d2a5d\">tập con</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a3894ecc-7fff-1478-48ab-300fbf1f1be4\">thành phần</span></span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14756,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2ed5c74a-7fff-b503-bd16-319af49ec53c\">Nếu An là các ký hiệu hằng, mother là hàm một biến. Khẳng định nào sau đây là đúng?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0cdf1187-7fff-08dc-82a5-bc2b67684c0e\">mother(An) là hạng thức</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1caf6e55-7fff-1eb9-af8f-c5e391ef8b53\">mother(An) là công thức phân tử</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-efc2abbb-7fff-36b5-4a58-3f3fb2bac675\">mother(An) là câu đơn</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2283766a-7fff-4cb1-1219-a6e262660293\">mother&nbsp; là câu phức</span></span></p>"
+      }
+    ],
+    "correct_anwser": 1
+  },
+  {
+    "id": 14778,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-be775448-7fff-96de-4fa7-6bc346b20072\">Công thức nào sau đây là công thức đóng trong logic vị từ cấp 1?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><img data-org=\"serverAws\" src=\"33215\" alt=\"33215|serverAws\"></p>"
+      },
+      {
+        "id": "2",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33213\" alt=\"33213|serverAws\"></figure>"
+      },
+      {
+        "id": "3",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33219\" alt=\"33219|serverAws\"></figure>"
+      },
+      {
+        "id": "4",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33223\" alt=\"33223|serverAws\"></figure>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14781,
+    "question_direction": "<p>Công thức nào sau đây là công thức đóng trong logic vị từ cấp 1?</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33225\" alt=\"33225|serverAws\"></figure>"
+      },
+      {
+        "id": "2",
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33226\" alt=\"33226|serverAws\"></figure>"
+      },
+      {
+        "id": "3",
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33228\" alt=\"33228|serverAws\"></figure>"
+      },
+      {
+        "id": "4",
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33230\" alt=\"33230|serverAws\"></figure>"
+      }
+    ],
+    "correct_anwser": 3
+  },
+  {
+    "id": 14815,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-276ea593-7fff-e94c-d206-d75bdfe6fc7f\">Công thức nào sau đây là câu thức đóng trong logic vị từ cấp 1?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\">P(x, f(a, x)) ∧ ∃y Q(y)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d38a197-7fff-4389-315c-e974d559efa0\">∀xP(x, f(a, x)) ∧ ∃y Q(y)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d38a197-7fff-4389-315c-e974d559efa0\">∀</span><span id=\"docs-internal-guid-a8b8ad0b-7fff-a0f6-7831-426ad8d2788f\">xP(y, f(a, x)) ∧ ∃y Q(y)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d38a197-7fff-4389-315c-e974d559efa0\">∀</span><span id=\"docs-internal-guid-edafd0ef-7fff-dde7-2b48-b59d7d1da198\">xP(x, f(a, y)) ∧ ∃y Q(y)</span></span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14818,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5b0fd6ed-7fff-113d-7829-99d6c2593900\">Công thức nào sau đây là câu thức luôn nhận giá trị đúng trong mọi minh hoạ?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9d6ef319-7fff-363b-41bd-0e79fc7574cc\">G⇔⎤G</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-dd223787-7fff-4dab-f3d2-4949bd698a5b\">G∨⎤G</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b6d10a67-7fff-6db7-207e-b6673ce04290\">G∧⎤G</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-38dc015d-7fff-7f91-67a3-7f0c30ddef12\">G⇒⎤G</span></span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14830,
+    "question_direction": "<p><span lang=\"EN-US\">Thủ tục chuẩn hoá một công thức trong logic vị từ cấp 1 gồm mấy bước?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>6</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>7</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>8</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>9</p>"
+      }
+    ],
+    "correct_anwser": 8
+  },
+  {
+    "id": 14834,
+    "question_direction": "<p><span lang=\"EN-US\">Thủ tục chứng minh bác bỏ bằng luật phân giải dừng khi nào?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Câu rỗng được sinh ra</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Không sinh ra câu mới</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Câu rỗng được sinh ra và không sinh ra câu mới</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Câu rỗng được sinh ra hoặc không sinh ra câu mới</span></p>"
+      }
+    ],
+    "correct_anwser": 4
+  },
+  {
+    "id": 14841,
+    "question_direction": "<p><span lang=\"EN-US\">Cho công thức&nbsp;</span><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-25970d71-7fff-279d-b2d1-42dfb31743e3\">∀</span></span><span lang=\"EN-US\">xLike (x, Football) (mọi người đều thích bóng đá). Khi thế biến x bởi An, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0cffad25-7fff-a78b-ed7a-2f9ea4949af5\">⎤</span></span><span lang=\"EN-US\">Like (An, Football)</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Like (An, Football)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Like (x, Football)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Like (f(x), Football)</span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14859,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-1ae3b726-7fff-267e-98c9-33f22a13e77b\"><span style=\"background-color:transparent;color:#000000;\">Cho công thức sau:</span></p><p style=\"text-align:justify;\" dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤(∀x∃yQ(x,y))</span></p><p style=\"text-align:justify;\" dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức tương đương với công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0e9e35ec-7fff-43e9-2596-edc997340056\">∀x∃y⎤Q(x,y)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a5099165-7fff-6aee-dcce-beb8a7acb6c9\">∃x∀y⎤Q(x,y)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-08369ac4-7fff-7f62-eef4-c280d855cdbb\">∀y∃x⎤Q(x,y)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4ff66fc9-7fff-98e8-046b-c73a521e5283\">∃y∀x⎤Q(x,y)</span></span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14866,
+    "question_direction": "<p>Cho công thức ∀xLike (x, Travel) (mọi người đều thích du lịch). Khi thế biến x bởi Hoa, khẳng định nào sau đây là đúng?</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-53ed42e1-7fff-d2be-3986-55db487dff56\">⎤Like (An, Travel)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Like (Hoa, Travel)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Like (x, Travel)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Like (f(x), Travel)</span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14869,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-fd790f0d-7fff-7f47-7672-e1ea18c851c7\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤ P(w) ∨ Q(w)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">P(x) ∨ R(x)<span class=\"Apple-tab-span\">&nbsp;</span></span></p><p><span style=\"background-color:transparent;color:#000000;\">Ta có thể áp dụng luật suy diễn nào với tập công thức đã cho&nbsp;?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Luật phân giải trên câu Horn</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Luật phân giải trên câu tuyển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Ponens</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Tolens</span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14871,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-aabb7a00-7fff-20f3-52ab-a8e56da18a84\"><span style=\"background-color:transparent;color:#000000;\">Cho công thức:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">∃y (∀xP(x,y) ∨ Q(y)) ⇒ ∀xR(x)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức tương đương với công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c83fd2a7-7fff-4c67-372c-cb7567a2e465\">(∃y∃x⎤P(x,y) ∧⎤Q(y)) ∧ ∀xR(x)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8a9329e6-7fff-5f7e-a584-ebb7ce49680d\">(⎤P(x,y) ∧⎤Q(y)) ∨ ∀xR(x)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c7552f35-7fff-734b-d3ae-736a610875b3\">(⎤P(x,y) ∨⎤Q(y)) ∧ ∀xR(x)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f5d7fe55-7fff-85d9-22b6-d75a21b93d10\">∀y∃x(⎤P(x,y) ∧⎤Q(y)) ∨ ∀xR(x)</span></span></p>"
+      }
+    ],
+    "correct_anwser": 4
+  },
+  {
+    "id": 14883,
+    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33349\" alt=\"33349|serverAws\"></figure>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4dad60cf-7fff-fd50-cba4-27f0db280bb6\">⎤</span></span><span lang=\"EN-US\">P(a)</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">P(a)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Q(a,b)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4dad60cf-7fff-fd50-cba4-27f0db280bb6\">⎤</span></span><span lang=\"EN-US\">R(b)</span></p>"
+      }
+    ],
+    "correct_anwser": 2
+  },
+  {
+    "id": 14753,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-cc2778b6-7fff-2cd6-ef1e-ea2ec0ed559b\">Nếu x, y là các ký hiệu biến, f là ký hiệu hàm 2 biến. Khẳng định nào sau đây là đúng?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e583c2c8-7fff-4abf-ddd7-5c91ce297205\">f là câu phức</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-db5fa553-7fff-6012-5a3f-24e57ec675ee\">f(x,y) là hạng thức</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d381e20c-7fff-79d3-4d71-814c940b0761\">f(x,y) là công thức phân tử</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-009b97df-7fff-9856-43a7-dec9ab835fee\">f là công thức phân tử</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14804,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7020e9dd-7fff-91b2-6337-c6187684e6d0\">Cho câu Younger(x,20) là “x trẻ hơn 20 tuổi” và miền đối tượng gồm ba người {Lan, An, Hoa} trong đó An 16 tuổi.&nbsp;</span></span></p><p><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7020e9dd-7fff-91b2-6337-c6187684e6d0\">Khi đó ngữ nghĩa của câu </span></span><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-060a7a04-7fff-d0bd-2cbe-3be1cad9c353\">∃</span><span id=\"docs-internal-guid-7020e9dd-7fff-91b2-6337-c6187684e6d0\">x Yourger(x,20) là:</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-060a7a04-7fff-d0bd-2cbe-3be1cad9c353\">∃</span></span>x Yourger(x,20)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>True</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>False</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Yourger(Lan,20)∧ Yourger(An,20)∧ Yourger(Hoa,20)</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14809,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-22c4f8fa-7fff-dcd0-25e8-81c474ac3dd1\">Cho câu Younger(x,20) là “x trẻ hơn 20 tuổi” và miền đối tượng gồm ba người {Lan, An, Hoa} trong đó An 16 tuổi.&nbsp;</span></span></p><p><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-22c4f8fa-7fff-dcd0-25e8-81c474ac3dd1\">Khi đó ngữ nghĩa của câu ∀x Yourger(x,20) là:</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-885bac40-7fff-6a22-6e3b-c94b1586349e\">∀x Yourger(x,20)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>True</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>False</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a12329a8-7fff-ccce-e642-a0dad1016256\">Yourger(Lan,20)∨ Yourger(An,20)∨ Yourger(Hoa,20)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14821,
+    "question_direction": "<p><span lang=\"EN-US\">Khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33279\" alt=\"33279|serverAws\"></figure>"
+      },
+      {
+        "id": "2",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33282\" alt=\"33282|serverAws\"></figure>"
+      },
+      {
+        "id": "3",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33285\" alt=\"33285|serverAws\"></figure>"
+      },
+      {
+        "id": "4",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33288\" alt=\"33288|serverAws\"></figure>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14843,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu không là chiến lược phân giải trong việc hình thành cây chứng minh</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Chiến lược phân giải theo bề rộng</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Chiến lược phân giải theo độ sâu</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Chiến lược phân giải theo tập hỗ trợ</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Chiến lược phân giải tuyến tính</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14854,
+    "question_direction": "<p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Cho các công thức:</span><o:p></o:p></p><p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Like (An, y)</span><o:p></o:p></p><p class=\"MsoNormal\" align=\"left\"><span lang=\"EN-US\">Like (x, Football)</span><o:p></o:p></p><p><span lang=\"EN-US\">Hãy chọn phép thế&nbsp;θ để hai công thức đã cho hợp nhất được.</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">θ=[ x/An, y/Football]</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">θ=[ x/ Football, y/An]</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">θ=[ x/ y, y/x]</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">θ=[ y/x, x/y]</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14891,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-2034620d-7fff-81ae-d69b-b7d42d1b2a48\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤P(x,y,z) ∨ ⎤Q(x)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">P(a,b,c) ∨ ⎤H(a,b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">H(x,y) ∨ R(y)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤R(b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Công thức nào sau đây KHÔNG là hệ quả logic của tập công thức đã cho</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-23859a71-7fff-a467-07ce-9e0ff4ffab5a\">Q(a)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">H(x,b)</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">P(a,b,c)</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2504f31e-7fff-4cec-ad69-176f717c3430\">⎤</span></span><span lang=\"EN-US\">Q(a)</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14795,
+    "question_direction": "<p>Nếu miền đối tượng gồm ba người {Lan, An, Hoa} thì ngữ nghĩa của câu ∃x Student(x) được xác định là ngữ nghĩa của câu nào sau đây</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Student(Lan) ∨ Student(An) ∨ Student(Hoa)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>True</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Student(Lan) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-867f6f3b-7fff-3127-cc1c-ca646cff345d\">∧</span></span> Student(An) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-867f6f3b-7fff-3127-cc1c-ca646cff345d\">∧</span></span> Student(Hoa)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>False</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14850,
+    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33345\" alt=\"33345|serverAws\"></figure>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Luật phân giải trên câu Horn</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Luật phân giải trên câu tuyển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Ponens</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Luật suy diễn Modus Tolens</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14878,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-6060aef7-7fff-4623-2436-3f0a49cbf39b\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">P(x) ∨ H(x,y)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤P(a) ∨ Q(a,b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤Q(x,y) ∨ R(y)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤R(b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức được suy dẫn từ tập công thức trên</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-eef98507-7fff-7953-49ae-dd8ead21a344\">⎤H(b,a)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-625e4a46-7fff-8e71-bf35-38b17651ae6b\">⎤H(a,b)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8faa32c0-7fff-a097-6359-73ed51ab649d\">H(a,b)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0827ef3a-7fff-b323-fbf5-53b942d73ff0\">H(b,a)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14827,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu là công thức tương đương trong logic vị từ cấp 1.</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33291\" alt=\"33291|serverAws\"></figure>"
+      },
+      {
+        "id": "2",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33294\" alt=\"33294|serverAws\"></figure>"
+      },
+      {
+        "id": "3",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33297\" alt=\"33297|serverAws\"></figure>"
+      },
+      {
+        "id": "4",
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33300\" alt=\"33300|serverAws\"></figure>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14874,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0c90dfb4-7fff-ccc0-2607-03d78110766a\"><span style=\"background-color:transparent;color:#000000;\">Cho tập công thức:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">P(x) ∨ Q(x,y) ∨ R(y)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤P(a) ∨ H(a,b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤H(x,y)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">⎤R(b)</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Đâu là công thức được suy dẫn từ tập công thức trên</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c9974897-7fff-e44a-1d5b-0de336826f69\">Q(b,a)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b850e636-7fff-f34a-a9d8-54d0626a3c6f\">Q(a,b)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8897cdda-7fff-095f-7ba5-f3d94d0f724a\">⎤Q(a,b)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-13cb5682-7fff-26d9-de1f-088d5fc1a500\">⎤Q(b,a)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14792,
+    "question_direction": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33256\" alt=\"33256|serverAws\"></figure>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Student(Lan) ∨ Student(An) ∨ Student(Hoa)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-26df386e-7fff-7a40-2612-1a612fc3dd2a\">True</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>False</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Student(Lan) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a93a8007-7fff-01e9-ed32-4adfa5e0a5ad\">∧&nbsp;</span></span> Student(An) <meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a93a8007-7fff-01e9-ed32-4adfa5e0a5ad\">∧&nbsp;</span></span> Student(Hoa)</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14747,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-939921cf-7fff-2480-5538-2f2e8920d2a3\">Đâu không là kí hiệu trong logic vị từ cấp 1</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e083865b-7fff-4801-7678-7a6b01fc15a7\">Các ký hiệu tu từ</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-067bfc73-7fff-5c43-8637-38075aecfc96\">Các ký công thức phân tử</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-83f83d8e-7fff-7c5e-1a25-9a76b95f729d\">Các ký hiệu hằng</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2b707f9e-7fff-930c-37f5-9a71e6d7476b\">Các hạng thức</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 14745,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-af237ce1-7fff-977f-3e64-1e8a38da3711\">Đâu không là kí hiệu trong logic vị từ cấp 1</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-308f63d9-7fff-b714-6c9d-271ca2a05380\">Các ký hiệu biến</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-46fc5203-7fff-d1aa-f51a-b2d69081e7ac\">Các ký hiệu hàm</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-22acc97a-7fff-e86a-ffa5-212541939f0b\">Các ký hiệu hằng</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-47605844-7fff-facd-aa2e-87618905bda3\">Các ký hiệu hạng thức</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

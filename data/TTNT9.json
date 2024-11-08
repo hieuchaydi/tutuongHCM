@@ -1,0 +1,698 @@
+[
+  {
+    "id": 23313,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-bbe78d78-7fff-a3f2-7589-002ccb8c45d9\"><span style=\"background-color:transparent;color:#000000;\">Bạn hãy điền từ phù hợp vào dấu … để hoàn thiện định nghĩa sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Ngôn ngữ mô tả khái niệm là ngôn ngữ cho phép mô tả các đối tượng, các lớp đối tượng, các mối quan hệ giữa chúng, các … của các đối tượng và … của các lớp.</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e18d6cab-7fff-bda6-fa80-b270b3d67ca4\">tính chất</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1288a76d-7fff-cfad-2768-4b56bbb60343\">thuộc tính</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ab92ab86-7fff-e16b-6aa2-0321a0593ffe\">quan hệ</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-95621560-7fff-f74e-bddd-75dde7b112d0\">liên hệ</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23314,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-a8aa7410-7fff-3399-212b-70b97e00185d\"><span style=\"background-color:transparent;color:#000000;\">Bạn hãy điền từ phù hợp vào dấu … để hoàn thiện định nghĩa sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Ngôn ngữ mô tả khái niệm là ngôn ngữ cho phép mô tả các đối tượng, các lớp đối tượng, các mối quan hệ giữa chúng, các tính chất của các đối tượng và tính chất của ...</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ffcfa40e-7fff-4cb6-9e79-a3fbb043f9a6\">các lớp</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bf7cd56d-7fff-5ce0-c8de-bf0e939cec29\">các khóa</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-03b4f571-7fff-6f9f-3c02-f09b1ea91e26\">các đối tượng</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-79b0c973-7fff-80e6-9896-d639b90c0708\">các quan hệ</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 23809,
+    "question_direction": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7d5f5656-7fff-c318-393a-86e5c2e79909\">Trong ngôn ngữ mô tả khái niệm thì vị từ nào sau đây có nghĩa đối tượng “An” là thành viên của lớp “CNTTK21”</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>isa(An, CNTTK21)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ako(An, CNTTK21)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>oki(An, CNTTK21)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>feature(An, CNTTK21)</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23810,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8abcde4e-7fff-68ec-0f96-9db826a69d7a\">Trong ngôn ngữ mô tả khái niệm thì vị từ nào sau đây có nghĩa “Khoa CNTT” là lớp con của lớp “Trường ĐHCNTT&amp;TT”?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>ako(Khoa CNN, Trường ĐH CNTT&amp;TT)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>isa(Khoa CNN, Trường ĐH CNTT&amp;TT)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>feature(Khoa CNN, Trường ĐH CNTT&amp;TT)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Khoa CNN &nbsp;&lt;&lt; Trường ĐH CNTT&amp;TT</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23812,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d5be855d-7fff-e330-7547-d2061f9ed6b8\">Trong ngôn ngữ mô tả khái niệm thì vị từ nào sau đây có nghĩa đối tượng môn \"Trí tuệ nhân tạo\" là thành viên của lớp “Ngành công nghệ thông”</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>isa(Trí tuệ nhân tạo, Ngành công nghệ thông tin)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>isa( Ngành công nghệ thông tin, Trí tuệ nhân tạo)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>ako(Trí tuệ nhân tạo, Ngành công nghệ thông tin)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>feature(Trí tuệ nhân tạo, Ngành công nghệ thông tin)</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23815,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-10f1393f-7fff-8fb1-ef09-7ea80a370e44\"><span style=\"background-color:transparent;color:#000000;\">Nếu một đối tượng x là thành viên của một lớp y, lớp y là lớp con của lớp z, kết luận nào sau đây là đúng?&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>x là thành viên của lớp z</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>x là tập con của lớp z</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>x không là thành viên của lớp z</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>tập y là thành viên của lớp z</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23816,
+    "question_direction": "<p><span lang=\"EN-US\">Cơ chế suy diễn của mạng ngữ nghĩa dựa trên nguyên lý gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Nguyên lý tương tự</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Nguyên lý kế thừa</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Cơ chế đệ quy</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Cơ chế tích lũy</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 23822,
+    "question_direction": "<p>Điền vào dấu “…” câu sau: Hệ khung là …</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tập hợp các khung, mỗi khung biểu diễn một đối tượng hoặc lớp đối tượng</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tập hợp các khung, tất cả khung biểu diễn một đối tượng hoặc lớp đối tượng</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Tập hợp các khung, mỗi khung biểu diễn một lớp đối tượng</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Tập hợp các khung, mỗi khung biểu diễn một đối tượng</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23833,
+    "question_direction": "<p><span lang=\"EN-US\">Hệ khung và mạng ngữ nghĩa biểu diễn tri thức dạng nào:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Tri thức dạng mô tả</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Tri thức dạng thẻ HTML</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Tri thức dạng hàm hoặc công thức</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Tri thức dạng toán học</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23834,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8c19cc6d-7fff-cf25-cd08-98e149230c96\">Cho mạng ngữ nghĩa sau:</span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c55da6f3-7fff-dd43-ef83-8c319258ebf6\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7dqXaBxRm9wudK0oj3u2YdS0CXXKlcEaJgqMv_OqV8tb_XAOdot2V50l99JB1oiI1xEuG91Fika5c1UFXKvWKa-YOoPiBGAgki0-2uu_3LGas77qb64v0Ae3yVIT_442fKn1Mh13nW42Kb_YdedVLw89Lc2qCgTzPcH1j?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"148\"></span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d7439c55-7fff-03d5-dc98-e1b1f1ccb701\">Khẳng định nào dưới đây là đúng?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-aca07860-7fff-19f2-1ae6-3e3a1719574b\">Sẻ là lớp con của lớp Chim</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2573e8e5-7fff-2ef4-c5c2-116ff7f103cc\">Sẻ không biết bay</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b200d942-7fff-41a6-72e2-258513b21440\">Sẻ không có cánh</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-faa1ac42-7fff-5f08-4287-abda978f5d78\">Chim là thành viên của lớp Con vật</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23850,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-c9e71ec3-7fff-6811-6d5f-43610308fcff\"><span style=\"background-color:transparent;color:#000000;\"><span><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXetWyn1T8Gm-lk4ybwCclz7HaMSJAAQ_yquhEVITziqR8944TfNdP1CyGjslDcBHJHiTDS1rsYJbotSkW6y9lGsrairb3IscnbJO6csWojtH2xD1TZDqOT5nhS1WVixxaCqXWxKUYidpg9VDl4e0Ix_V5GW6dlmTMAqT7iNwQ?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"347\"></span></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Cho lưới ngữ nghĩa như hình trên, khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c79efe3c-7fff-f270-fb8b-10044c37c786\">Mic là thành viên của lớp dog</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c79efe3c-7fff-f270-fb8b-10044c37c786\">Mic là con của lớp dog</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c79efe3c-7fff-f270-fb8b-10044c37c786\">Mic là lớp con của lớp dog</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Mic <span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c79efe3c-7fff-f270-fb8b-10044c37c786\">à thành viên của lớp bat</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23853,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-fb49d118-7fff-83c8-500e-ca1ab987d416\"><span style=\"background-color:transparent;color:#000000;\">Cho hệ khung sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><span><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdD7yIjREN7yjGd_sx2D4lmpS6xuXVtlKPq8XNPlIdlYAe19OKkfuByrNRNNblYyPeV5i262zN7L-ss5CDcAAD11ahOzlVykyDTS3dJ2ozhyXVFCt7VjBUsEFpxXzOjtHhT_pdAt6qgtyoH9wtxw0TwAPsD_TkelPXvlRPKQA?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"460\"></span></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Khẳng định nào dưới đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6b05bd1f-7fff-a0e5-e4dd-087d4f966d15\">Kiti có Size = 120</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6b05bd1f-7fff-a0e5-e4dd-087d4f966d15\">Kiti có Size = 105</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6b05bd1f-7fff-a0e5-e4dd-087d4f966d15\">Kiti có Size = 102</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6b05bd1f-7fff-a0e5-e4dd-087d4f966d15\">Kite có Size = 150</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23855,
+    "question_direction": "<p>Cho hệ khung sau:&nbsp;</p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5b521366-7fff-0343-be18-2e16f8fb472b\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdD7yIjREN7yjGd_sx2D4lmpS6xuXVtlKPq8XNPlIdlYAe19OKkfuByrNRNNblYyPeV5i262zN7L-ss5CDcAAD11ahOzlVykyDTS3dJ2ozhyXVFCt7VjBUsEFpxXzOjtHhT_pdAt6qgtyoH9wtxw0TwAPsD_TkelPXvlRPKQA?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"460\"></span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d5ed49c-7fff-1f3c-4966-fa35d8d7fe3c\">Khẳng định nào dưới đây là đúng?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fb8e8420-7fff-3580-8eb3-6230bf619c6e\">Miki biết bay và có 2 chân</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-514c214b-7fff-4c8d-51c0-e32853a5e7af\">Miki không biết bay và có 4 chân</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d7c9aa32-7fff-bb87-7299-7379e96a7e01\">Miki có size là 120</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1c2be591-7fff-cf07-b1b6-4af7b3d86c53\">Miki là lớp con của lớp albatross</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23857,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"PT\">Mạng ngữ nghĩa nào thể nhiện mô tả:&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"PT\">+ </span><i><span lang=\"PT\">Người</span></i><span lang=\"PT\"> là động vật, có 2 chân, 2 tay, 2 mắt, 1 mũi, 1 mồm</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"PT\">+ </span><i><span lang=\"PT\">Động vật</span></i><span lang=\"PT\"> thở bằng không khí, có lông</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"PT\">+ </span><i><span lang=\"PT\">Giáo sư</span></i><span lang=\"PT\"> là </span><i><span lang=\"PT\">người</span></i><span lang=\"PT\">, giỏi chuyên môn</span><o:p></o:p></p><p><span lang=\"PT\">+ </span><i><span lang=\"PT\">Ông An</span></i><span lang=\"PT\"> là </span><i><span lang=\"PT\">giáo sư</span></i><span lang=\"PT\"> về lĩnh vực kinh tế</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70451\" alt=\"70451|serverAws\" width=\"447\" height=\"179\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70453\" alt=\"70453|serverAws\" width=\"453\" height=\"228\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70455\" alt=\"70455|serverAws\" width=\"453\" height=\"216\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70457\" alt=\"70457|serverAws\" width=\"453\" height=\"215\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23858,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho mạng ngữ nghĩa sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70462\" alt=\"70462|serverAws\" width=\"453\" height=\"335\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy xác định giá trị của các thuộc tính không phải của An:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Chuyên môn giỏi</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Thở bằng không khí</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Có lông</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Lĩnh vực Kế toán</p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 23820,
+    "question_direction": "<p>Cho biết ý nghĩa của biểu diễn logic vị từ sau:&nbsp;</p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8f777389-7fff-b38f-5c4c-0f141fc54eff\">isa (x, y) ∧ ako(y, z) ⇒ isa(x, z)</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-90ee5e7b-7fff-ff13-345e-e135943c972c\"><span style=\"background-color:transparent;color:#000000;\">Nếu một đối tượng là thành viên của một lớp thì nó là thành viên của tất cả các lớp mẹ của lớp này.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-90ee5e7b-7fff-ff13-345e-e135943c972c\"><span style=\"background-color:transparent;color:#000000;\">Nếu một lớp là thành viên của một lớp thì nó là thành viên của tất cả các lớp mẹ của lớp này.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"background-color:transparent;color:#000000;\">Nếu một đối tượng là thành viên của một lớp thì nó KHÔNG là thành viên của tất cả các lớp mẹ của lớp này.</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-2417f756-7fff-f454-14c9-9b950185eb8c\"><span style=\"background-color:transparent;color:#000000;\">Nếu một lớp có đặc tính thì các thành viên của lớp cũng có đặc tính đó</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23835,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ff55ed7a-7fff-b530-7da4-b84c88d995a2\"><span style=\"background-color:transparent;color:#000000;\">Cho mạng ngữ nghĩa sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><span><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7dqXaBxRm9wudK0oj3u2YdS0CXXKlcEaJgqMv_OqV8tb_XAOdot2V50l99JB1oiI1xEuG91Fika5c1UFXKvWKa-YOoPiBGAgki0-2uu_3LGas77qb64v0Ae3yVIT_442fKn1Mh13nW42Kb_YdedVLw89Lc2qCgTzPcH1j?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"148\"></span></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Khẳng định nào dưới đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-28303a89-7fff-d292-05f9-913d7ace2534\"><span style=\"background-color:transparent;color:#000000;\">Chíp là thành viên của lớp Sẻ</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6bea0327-7fff-08e4-cdef-f529165da02a\">Chíp là lớp con của lớp Sẻ</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1f6f0b90-7fff-61ce-652a-8b305a3ff223\">Chíp không có cánh</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5d51e9a4-7fff-7682-7eb3-45022a2e58ba\">Chip di chuyển bằng đi</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23847,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0ccb6d93-7fff-a39a-7bf8-a7eecfa5143a\"><span style=\"background-color:transparent;color:#000000;\">Cho lưới ngữ nghĩa sau:</span></p><p dir=\"ltr\" id=\"docs-internal-guid-0ccb6d93-7fff-a39a-7bf8-a7eecfa5143a\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2917c70a-7fff-cd87-3332-d0e78150c27a\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXetWyn1T8Gm-lk4ybwCclz7HaMSJAAQ_yquhEVITziqR8944TfNdP1CyGjslDcBHJHiTDS1rsYJbotSkW6y9lGsrairb3IscnbJO6csWojtH2xD1TZDqOT5nhS1WVixxaCqXWxKUYidpg9VDl4e0Ix_V5GW6dlmTMAqT7iNwQ?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"347\"></span></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">Khẳng định nào sau đây là đúng?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ce375f79-7fff-fadf-b203-9d632e677db8\">Mic có 4 chân</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ce375f79-7fff-fadf-b203-9d632e677db8\">Mic có 2 chân</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-85c8497d-7fff-1fe5-510a-8443bca9ad78\">Mic biết bay</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0a063740-7fff-34a4-39f8-d2df7b0c895c\">Mic đẻ trứng</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23893,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\">Cho mô tả sau về một số khái niệm và một số cá thể .</span><o:p></o:p></p><ul><li class=\"MsoListParagraph\"><span style=\"color:black;\">Động vật có vú ( mammal) là động vật (animal) có lông mao, có 4 chân cho sữa.</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpFirst\"><span style=\"color:black;\">Chim là động vật có lông vũ , có hai chân, biết bay, đẻ trứng.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Chó là động vật có vú, có đức tính trung thành.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Bin là chó cái, màu xám.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Mic là chó đực, màu đen.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Bat là động vật có vú, có hai chân, biết bay</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpLast\"><span style=\"color:black;\">Vẹt là loài chim biết bay, không biết bơi.</span></li></ul><p class=\"MsoListParagraphCxSpLast\">Sử dụng vị từ nào để mô tả mối quan hệ giữa “Mic” và “<span style=\"color:black;\">Chó</span>”<o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>isa</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ako</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>has</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>feature</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23811,
+    "question_direction": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9e50f694-7fff-733c-a7a3-6f966f65977e\">Công thức logic vị từ nào thể hiện tính chất: “Nếu một lớp có đặc tính thì các thành viên của lớp cũng có đặc tính đó”?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec220f36-7fff-42a6-d519-72a21c820cac\">isa (x, y) ∧ feature(y, p, v) ⇒ feature(x, p, v)</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec220f36-7fff-42a6-d519-72a21c820cac\">ako (x, y) ∧ feature(y, p, v) ⇒ feature(x, p, v)</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec220f36-7fff-42a6-d519-72a21c820cac\">isa (x, y) ∧ ako(y, p, v) ⇒ feature(x, p, v)</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec220f36-7fff-42a6-d519-72a21c820cac\">feature (x, y) ∧ feature(y, p, v) ⇒ feature(x, p, v)</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23813,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bf90dc21-7fff-90ff-5431-66ad0bab9d4a\">Trong ngôn ngữ mô tả khái niệm thì vị từ nào sau đây có nghĩa đối tượng “Bão Yagi” là thành viên của lớp “Các cơn bão năm 2024”</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>isa(Bão Yagi, Các cơn bão năm 2024)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ako(Bão Yagi, Các cơn bão năm 2024)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>feature(Bão Yagi, Mạnh nhất, Các cơn bão năm 2024)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>isa( Các cơn bão năm 2024, Bão Yagi)</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23827,
+    "question_direction": "<p><span lang=\"EN-US\">Mạng ngữ nghĩa không dùng trong vấn đề nào sau đây:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Trợ giúp việc tính toán</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Biểu diễn tri thức</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Biểu diễn các đối tượng hoặc lớp đối tượng</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Thống kê dữ liệu</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23852,
+    "question_direction": "<p>Cho lưới ngữ nghĩa sau:&nbsp;</p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b2ce0f0d-7fff-9d7f-6bcd-415b18867663\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXetWyn1T8Gm-lk4ybwCclz7HaMSJAAQ_yquhEVITziqR8944TfNdP1CyGjslDcBHJHiTDS1rsYJbotSkW6y9lGsrairb3IscnbJO6csWojtH2xD1TZDqOT5nhS1WVixxaCqXWxKUYidpg9VDl4e0Ix_V5GW6dlmTMAqT7iNwQ?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"347\"></span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-54d0def8-7fff-cd72-5743-86d4dabccb95\">Sử dụng lưới ngữ nghĩa trả lời cho câu hỏi “Bin có mấy chân?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>6</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>8</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23315,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-7c243636-7fff-bb95-0179-687281815004\"><span style=\"background-color:transparent;color:#000000;\">Bạn hãy điền từ phù hợp vào dấu … để hoàn thiện định nghĩa sau:</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Ngôn ngữ mô tả khái niệm là ngôn ngữ cho phép mô tả các đối tượng, các lớp đối tượng, các mối quan hệ giữa chúng, các tính chất của các …&nbsp; và tính chất của các lớp.</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2975cebb-7fff-cdc5-a058-5b4cfd019cc7\">đối tượng</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d0d64a31-7fff-dd65-b711-fd34d9ac0234\">lớp</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fc3f3539-7fff-f3ce-ac57-0bcf25571c58\">hành vi</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a3a96c4d-7fff-05ab-e770-ebd961b9a924\">hành động</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23316,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1aeda827-7fff-5a0f-c061-1168c66aad41\">Đâu KHÔNG phải là vị từ của ngôn ngữ mô tả khái niệm?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d6b5b1cd-7fff-7f0b-b5e1-083606d09dbe\">oki</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>isa</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>ako</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>feature</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23814,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a6a2d7cd-7fff-9d85-9a33-5a6e144e6c65\">Trong ngôn ngữ mô tả khái niệm thì vị từ nào sau đây có nghĩa đối tượng “ Môn học Trí tuệ nhân tạo” có thuộc tính “ tín chỉ” nhận giá trị “3”</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>feature(Môn học trí tuệ nhân tạo, tín chỉ, 3)</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ako(Môn học trí tuệ nhân tạo, tín chỉ, 3)</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>feature(Môn học trí tuệ nhân tạo, 3, tín chỉ)</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>isa(Môn học trí tuệ nhân tạo, tín chỉ, 3)</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23825,
+    "question_direction": "<p><span lang=\"PT\">Điền vào dấu “…” của câu sau: Hệ khung và mạng ngữ nghĩa có cùng …</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Cơ chế suy diễn</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Hình dạng đồ thị</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Cấu trúc</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Thuộc tính</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23876,
+    "question_direction": "<p>cho hệ khung sau:&nbsp;</p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-06eeec88-7fff-8e03-5927-9db025ebe451\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdD7yIjREN7yjGd_sx2D4lmpS6xuXVtlKPq8XNPlIdlYAe19OKkfuByrNRNNblYyPeV5i262zN7L-ss5CDcAAD11ahOzlVykyDTS3dJ2ozhyXVFCt7VjBUsEFpxXzOjtHhT_pdAt6qgtyoH9wtxw0TwAPsD_TkelPXvlRPKQA?key=Ch4xXITjbPooxPIqBzS_7A\" width=\"367\" height=\"460\"></span></span></p><p>Khẳng định nào sau đây là đúng?</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c224cb5f-7fff-d8a5-3cda-6b909dcb5bc0\">Miki có 4 chân</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7c5ca207-7fff-ef0d-cf40-539333b451cc\">Miki là lớp con của lớp Kiti</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9cf555c8-7fff-0a96-506f-8fc6f414f7d0\">Miki là thành viên của lớp penguin</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-8c944d70-7fff-1ef5-3082-6ad15f52db8f\">Miki là thành viên của lớp albatross, albatross là lớp con của lớp bird</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23894,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\">Cho mô tả sau về một số khái niệm và một số cá thể .</span><o:p></o:p></p><ul><li class=\"MsoListParagraph\"><span style=\"color:black;\">Động vật có vú ( mammal) là động vật (animal) có lông mao, có 4 chân cho sữa.</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpFirst\"><span style=\"color:black;\">Chim là động vật có lông vũ , có hai chân, biết bay, đẻ trứng.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Chó là động vật có vú, có đức tính trung thành.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Bin là chó cái, màu xám.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Mic là chó đực, màu đen.&nbsp;</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpMiddle\"><span style=\"color:black;\">Bat là động vật có vú, có hai chân, biết bay</span><o:p></o:p></li><li class=\"MsoListParagraphCxSpLast\"><span style=\"color:black;\">Vẹt là loài chim biết bay, không biết bơi.</span></li></ul><p class=\"MsoListParagraphCxSpLast\">Sử dụng vị từ nào để mô tả mối quan hệ giữa “Chó” và “Động vật có vú”</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>isa</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>ako</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>has</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>feature</p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

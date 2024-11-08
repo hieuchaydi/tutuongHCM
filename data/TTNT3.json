@@ -1,0 +1,722 @@
+[
+  {
+    "id": 7005,
+    "question_direction": "<p><span lang=\"EN-US\">Hàm đánh giá (h(u)) trong tìm kiếm kinh nghiệm (heuristic search) dùng để làm gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Để đánh giá tính khả thi của một giải pháp.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Để hướng dẫn sự tìm kiếm thông qua việc đánh giá “sự gần đích” của trạng thái</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Để đếm số bước cần thiết để giải quyết một vấn đề</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Để xác định số lượng toán tử áp dụng được cho một trạng thái.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 7014,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Thứ tự các giai đoạn cơ bản để giải quyết vấn đề bằng tìm kiếm kinh nghiệm là gì?</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tìm biểu diễn thích hợp mô tả các trạng thái và các toán tử của vấn đề.</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xây dựng hàm đánh giá.</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thiết kế chiến lược chọn trạng thái để phát triển ở mỗi bước.&nbsp; &nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>1.3.2</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>1.2.3</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>2.1.3</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>3.2.1</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 7018,
+    "question_direction": "<p><span lang=\"EN-US\">h(u) là hàm đánh giá dùng để:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Đánh giá từ trạng thái u đến trạng thái&nbsp; u<sub>0</sub></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Đánh giá từ trạng thái u<sub>0</sub> đến trạng thái u</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Đánh giá từ trạng thái u đến trạng thái kết thúc</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Đánh giá từ trạng thái u<sub>0</sub> đến trạng thái bất kỳ</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 7033,
+    "question_direction": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Trong giải thuật tìm kiểm Beam, chiến lược phát triển đỉnh là:&nbsp;</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Không phát triển một đỉnh K tốt nhất</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Phát triển nhiều đỉnh K tốt nhất</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Chỉ phát triển một đỉnh K tốt nhất</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"background-color:white;color:#1A1D28;\"><span lang=\"EN-US\">Phát triển nhiều đỉnh K nhưng không tốt nhất</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 7041,
+    "question_direction": "<p><span style=\"color:#111827;\"><span lang=\"EN-US\">Bản chất của phương pháp tìm kiếm leo đồi ?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Leo đồi sẽ duyệt tất cả các hướng đi có thể và chọn đi theo tất cả trạng thái kế tiếp của nó</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Leo đồi sẽ duyệt tất cả các hướng đi có thể và chọn đi theo trạng thái tốt nhất trong số các trạng thái không kế tiếp của nó</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Leo đồi sẽ duyệt theo một hướng đi có thể và chọn đi theo trạng thái tốt nhất trong số các trạng thái kế tiếp của nó</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Các đáp án trên đều đúng.</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 7047,
+    "question_direction": "<p><span lang=\"EN-US\">Đâu là điểm khác biệt của tìm kiếm mù và tìm kiếm kinh nghiệm</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm mù có sự hướng dẫn, tìm kiếm kinh nghiệm thì không</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm mù không có sự hướng dẫn, tìm kiếm kinh nghiệm thì có</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Tìm kiếm mù sử dụng hàm đánh giá, tìm kiếm kinh nghiệm thì không</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Tìm kiếm kinh nghiệm là tìm kiếm mù</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 7050,
+    "question_direction": "<p><span lang=\"EN-US\">Độ phức tạp thời gian của thuật toán tìm kiếm tốt nhất đầu tiên</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">b<sup>d </sup>với b là nhân tố nhánh của đỉnh,&nbsp; d là độ sâu của cây tìm kiếm</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">b<sup>n</sup> với b là nhân tố nhánh của đỉnh, n là tổng số đỉnh của cây tìm kiếm</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">d<sup>b</sup> với b là nhân tố nhánh của đỉnh, d là độ sâu của cây tìm kiếm</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">n<sup>b</sup> với b là nhân tố nhánh của đỉnh, n là tổng số đỉnh của cây tìm kiếm</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 7056,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái:</span><o:p></o:p> &nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12855\" alt=\"12855|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-F-X</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">A-B-G-M</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-C-E-J</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-D-B-F-X</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 7064,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12865\" alt=\"12865|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-F-X</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-F-X</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-I-G-M</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">A-D-B-G-M</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 7068,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12888\" alt=\"12888|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-C-I-Z</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">A-D-B-E-M-K-H-Q</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-D-H-Q</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-C-G-N</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 7095,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image image_resized\" style=\"width:266px;\"><img data-org=\"serverAws\" src=\"17573\" alt=\"17573|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm Tốt nhất đầu tiên bắt đầu từ đỉnh K. Đỉnh nào sẽ được chọn để phát triển tiếp theo?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>D</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>E</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>F</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>G</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 7104,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13294\" alt=\"13294|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được duyệt đầu tiên từ K?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">D, F&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">E, F</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">F, B</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">G, H</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 7118,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong bài toán 8 số, như hình dưới ( bên trái là trạng thái đầu, bên phải là trạng thái đích)</span></p><figure class=\"image\"><img src=\"13595\" alt=\"13595|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu xây dựng hàm đánh giá h(u) là tổng số ô trong trạng thái Đầu ở vị trí sai khác với vị trí của trạng thái Đích thì có h(u)= ?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>0</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>7</p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 7121,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tê), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"18760\" alt=\"18760|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Leo đồi</span><o:p></o:p><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Tốt nhất đầu tiên&nbsp;</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Theo chiều rộng</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Theo chiều sâu</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 7126,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tên), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span></p><figure class=\"image\"><img src=\"13692\" alt=\"13692|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Leo đồi</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Tốt nhất đầu tiên&nbsp;</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Theo chiều rộng</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p start=\"1\" type=\"A\"><span lang=\"EN-US\">Theo chiều sâu</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 7007,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Trong tìm kiếm kinh nghiệm, một trạng thái được chọn để phát triển tại mỗi bước dựa trên gì?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Số lượng toán tử áp dụng được.</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Giá trị của hàm đánh giá</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Độ sâu của trạng thái trong cây tìm kiếm.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Số lượng trạng thái con của nó</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7011,
+    "question_direction": "<p><span lang=\"EN-US\">Trong bài toán tìm kiếm <strong>đường đi</strong> từ thành phố A đến thành phố B trên bản đồ giao thông, hàm đánh giá có thể là gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Số lượng các nút giao từ một thành phố A tới thành phố B.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Tổng số các giao lộ trên đường đi từ một thành phố A tới thành phố B.</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Độ dài của đường chim bay từ một thành phố A tới thành phố B</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Số lượng các phương tiện giao thông trên đường đi.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7021,
+    "question_direction": "<p><span lang=\"EN-US\">Trong thuật toán tìm kiếm leo đồi danh sách L để lưu&nbsp;:</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">C</span></span><span lang=\"EN-US\">ác trạng thái kề</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Các trạng thái chờ được phát triển</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Các trạng thái đã phát triển</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Các trạng thái kết thúc</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7037,
+    "question_direction": "<p><span lang=\"EN-US\">Trong chiến lược tìm kiếm leo đồi tại mỗi bước của chiến lược tìm kiếm, trạng thái được chọn để phát triển là trạng thái có…</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Chỉ số tốt nhất trong số các trạng thái chờ để phát triển</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Hàm đánh giá nhỏ nhất trong số các trạng thái chờ để phát triển</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Trọng số lớn nhất trong các trạng thái chờ để phát triển</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Hàm đánh giá nhỏ nhất trong số các trạng thái kề</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7083,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13114\" alt=\"13114|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">K-D-F-G-E-H-A-Q</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-D-G-E-H-Q</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-F-A-Q</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-D-G-A-Q</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7107,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img src=\"13349\" alt=\"13349|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được chọn đầu tiên từ A?</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">B, C</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">C, D</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">D, B</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">E, F</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7113,
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\"><strong>Phát biểu nào sau đây là đúng về chiến lược tìm kiếm tốt nhất đầu tiên:</strong></span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;là tìm kiếm theo bề rộng được hướng dẫn bởi hàm đánh giá.&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;là tìm kiếm theo độ sâu được hướng dẫn bởi hàm đánh giá.</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">&nbsp;là tìm kiếm theo độ sâu hạn chế được hướng dẫn bởi hàm đánh giá.</span></span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">tìm kiếm theo độ sâu dần được hướng dẫn bởi hàm đánh giá.</span></span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7156,
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Cho đồ thị không gian trạng thái, giá trị của hàm đánh giá là các số ghi cạnh mỗi đỉnh.&nbsp;</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"48494\" alt=\"48494|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Với, u<sub>0</sub> = A, T = {K, L, M}.&nbsp;</span><span lang=\"NO-BOK\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên với đồ thị trên, thứ tự xét các đỉnh là:&nbsp;</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>A - C - F - B - E - D - H - K</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>A - B - E - D - H - K</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>A - C - F - B - H - K</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>A - B - E - D - I - L</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7027,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong thuật toán tìm kiếm tốt nhất đầu tiên danh sách L để lưu&nbsp;:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">C</span></span><span lang=\"EN-US\">ác trạng thái kề</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Các trạng thái chờ để phát triển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Các trạng thái đã phát triền</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">Các trạng thái kết thúc</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7035,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Trong chiến lược tìm kiếm tốt nhất đầu tiên tại mỗi bước của chiến lược tìm kiếm, trạng thái được chọn để phát triển là trạng thái có…</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Trọng số lớn nhất trong các trạng thái chờ để phát triển</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Hàm đánh giá nhỏ nhất trong số các trạng thái chờ để phát triển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Chỉ số nhỏ nhất trong số các trạng thái kề</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Hàm đánh giá nhỏ nhất trong số các trạng thái kề</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7087,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13202\" alt=\"13202|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi&nbsp; thì quá trình tìm kiếm xét các đỉnh là:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-D-F-G-E-A-Q</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">K-D-G-T-J-H-F-A-Q</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-F-A-Q</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">K-D-F-G-A-Q</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7115,
+    "question_direction": "<p><span lang=\"EN-US\"><strong>Tìm kiếm Beam khác với Tốt nhất đầu tiên ở điểm nào?</strong>&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Beam Search chỉ chọn một đỉnh duy nhất để phát triển.</span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">Beam Search giới hạn số lượng đỉnh được mở rộng tại mỗi bước</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">Beam Search không sử dụng hàm đánh giá.</span><br><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Beam Search không giới hạn số lượng đỉnh được mở rộng tại mỗi bước.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7071,
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"13051\" alt=\"13051|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">A-D-I-Z</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span lang=\"EN-US\">A-D-B-E-M-K-H-Q</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span lang=\"EN-US\">A-D-H-Q</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"EN-US\">A-C-G-N</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7016,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong bài toán 8 số, cách xây </span><a><span lang=\"EN-US\">dựng hàm đánh giá nào là hợp lý?&nbsp;</span></a></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"EN-US\">Là tổng số quân không nằm đúng vị trí của trạng thái hiện tại so với trạng thái đích&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Tổng số lượng của trạng thái đầu vào và trạng thái đích</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Số bước để đi từ trạng thái đầu đến trạng thái đích</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Số lượng các quân nằm đúng vị trí của trạng thái hiện tại.</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 7023,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong thuật toán tìm kiếm leo đồi danh sách L<sub>1</sub> để lưu&nbsp;:</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Lưu giữ tạm thời c</span></span><span lang=\"EN-US\">ác trạng thái được sinh ra.</span><o:p></o:p></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Các trạng thái chờ để phát triển</span><o:p></o:p></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Lưu giữ tạm thời các trạng thái kề trạng thái u&nbsp;</span></span><span lang=\"EN-US\">và được sắp xếp theo thứ tự tăng dần của hàm đánh giá</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Các trạng thái kề và các trạng thái chờ được phát triển</span><o:p></o:p></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": 10944,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Theo Hồ Chí Minh, văn hóa được hiểu là?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Các hiện tượng thuộc thế giới tâm linh</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Các giá trị vật chất do con người tạo ra</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Năng lực hiểu biết thế giới tự nhiên của con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Các giá trị vật chất và tinh thần do con người tạo ra, trình độ hiểu biết của con người.&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10954,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;<strong>Theo Hồ Chí Minh văn hoá là đời sống tinh thần của xã hội, thuộc?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Cơ sở hạ tầng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Kiến trúc thượng tầng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Hình thái kinh tế - xã hội</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Quan hệ sản xuất</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 10956,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Trong Tư tưởng Hồ Chí Minh</strong> <strong>theo nghĩa hẹp văn hoá được hiểu là gì?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Tổng hợp mọi phương thức sinh hoạt của con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Các trường học, số người đi học</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">&nbsp;Phương thức sử dụng công cụ sinh hoạt</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 10962,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Trong Tư tưởng Hồ Chí Minh</strong> <strong>theo nghĩa rộng văn hoá được hiểu là gì?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Tổng hợp mọi phương thức sinh hoạt của con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Các trường học, số người đi học</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Phương thức sử dụng công cụ sinh hoạt</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11020,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Chữ “ Cần” trong quan niệm của Hồ Chí Minh được hiểu như thế nào?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Cần cù</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Siêng năng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Chăm chỉ</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Siêng năng, chăm chỉ, cố gắng dẻo dai&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 11026,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Chữ “Liêm” trong quan niệm của Hồ Chí Minh được hiểu như thế nào?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Thanh liêm</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Liêm khiết</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Trong sạch, không tham lam</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Ngay thẳng</span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 11034,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Chọn một cụm từ thay thế các dấu ba chấm để hoàn chỉnh phát biểu của Hồ Chí Minh: “Người cán bộ cách mạng phải có … Mọi việc thành hay là bại, chủ chốt là do cán bộ có thấm nhuần …, hay là không”?&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Phẩm chất và năng lực&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Ý thức tự giác&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Tư cách đạo đức&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Đạo đức cách mạng&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 11051,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>&nbsp;Hồ Chí Minh đề cập đạo đức trong những quan hệ nào? Chọn đáp án sai:</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Đối với mình</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Đối với việc</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Đối với công danh</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Đối người</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 11085,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\">Điền vào chỗ trống từ còn thiếu trong câu nói sau của chủ tịch Hồ Chí Minh: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần phải có những …. xã hội chủ nghĩa”<o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Kinh tế</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Khoa học kỹ thuật&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Nền tảng văn hoá&nbsp;</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 11102,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Theo Hồ Chí Minh, con người là một chỉnh thể, thống nhất về:&nbsp;</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Nhân, lễ nghĩa, trí, tín&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Đạo đức cách mạng</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Trí tuệ, đạo đức, nhân cách&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Trí lực, tâm lực, thể lực&nbsp;</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 11123,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Lựa chọn cụm từ đúng điền vào chỗ trống trong câu nói sau của Hồ Chí Minh: “Học để làm việc, …., học để làm cán bộ”</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Làm người&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Làm cách mạng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Có tri thức</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Phục vụ nhân dân</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11136,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Chọn một cụm từ thay thế các dấu ba chấm để hoàn chỉnh phát biểu của &nbsp;chủ tịch Hồ Chí Minh:&nbsp;</strong></span></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Dễ trăm lần không…. cũng chịu</strong></span></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Khó vạn lần …. liệu cũng xong\"</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\">Đảng</p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Dân</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Nông dân</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Công nhân</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 11153,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Trong thời kỳ nhân dân miền Bắc đi lên xây dựng chủ nghĩa xã hội, quan điểm của Hồ Chí Minh về việc xây dựng một nền văn hoá mới như thế nào?</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Tính hàn lâm</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Tính kế thừa</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Tính dân chủ</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Tính dân tộc</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 11176,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>&nbsp;Kế thừa tư tưởng Hồ Chí Minh về đạo đức cách mạng, trong việc xây dựng bộ máy nhà nước cần chống lại những căn bệnh nào được Hồ Chí Minh so sánh giống việc cần kíp như đánh giặc trên mặt trận?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Tham ô, lãng phí, quan liêu&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Trông chờ, ỷ lại</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Lười biếng</span><o:p></o:p></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Nói đi đôi với làm</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11183,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>&nbsp;Vận dụng tư tưởng Hồ Chí Minh về văn hoá trong giai đoạn hiện nay cần phải làm gì. Chọn đáp án sai:&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Giữ gìn và phát huy bản sắc văn hoá dân tộc&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Tiếp thu có chọn lọc các giá trị văn hoá nhân loại&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;Chống văn hoá phản tiến bộ</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Hội nhập hoàn toàn vào nền văn hóa thế giới</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10951,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Theo Hồ Chí Minh, toàn bộ những sáng tạo và phát minh của con người nhằm thích ứng với nhu cầu của đời sống và sinh tồn, tức là?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Văn minh</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Văn hiến</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Văn hoá</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Truyền thống</span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10968,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Theo Hồ Chí Minh văn hoá phục vụ cho đối tượng nào?</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Ván hoá phục vụ&nbsp;giai cấp công nhân</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Ván hoá phục vụ giai cấp nông dân</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Ván hoá phục vụ giai cấp công nhân, giai cấp nông dân</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Ván hoá phục vụ quần chúng nhân dân</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 10973,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Trong cách mạng dân tộc dân chủ nhân dân, nền văn hóa mới có những tính chất nào:</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Tính hàn lâm</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Tính kế thừa</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Tính dân chủ</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Tính đại chúng</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 11064,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Đâu là gốc, là nền tảng của người cách mạng theo Hồ Chí Minh?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Đạo đức&nbsp;</span></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Văn hoá</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Tinh thần</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><br>&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Giáo dục</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11116,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Lựa chọn cụm từ đúng, điền vào chỗ trống trong câu nói sau của chủ tịch Hồ Chí Minh:“Một dân tộc dốt là một dân tộc …”&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Yếu</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><span style=\"color:black;\">Chậm phát triển</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Lạc hậu</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Kém</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11164,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\"><strong>Trong các phẩm chất đạo đức cơ bản của con người Việt Nam trong thời đại mới, phẩm chất nào quan trọng nhất, bao trùm nhất?&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Trung với nước, hiếu với dân</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Cần, kiệm, liêm chính, chí công vô tư</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Yêu thương con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"PT-BR\">Có tinh thần quốc tế vô sản</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10982,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>&nbsp;Hồ Chí Minh chỉ rõ mối quan hệ giữa giữ gìn cốt cách văn hóa dân tộc và tiếp thu văn hóa nhân loại là:&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Văn hóa dân tộc phát triển trên nền tảng văn hóa nhân loại&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Phải lấy văn hóa nhân loại làm gốc, đó là điều kiện, cơ sở để phát triển văn hóa dân tộc&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;Phải chú trọng văn hóa nhân loại&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">&nbsp;Phải lấy văn hóa dân tộc làm gốc, đó là điều kiện, cơ sở để tiếp thu văn hóa nhân loại&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 11092,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\"><strong>Tình thương yêu của Hồ Chí Minh được dành cho:</strong></span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;</span></span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Đồng bào, đồng chí của mình, những người thống khổ</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;Đồng bào, đồng minh của mình, những người thống khổ trên thế giới</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">Đồng bào, đồng chí của mình, những người cùng khổ trên thế giới&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Bạn bè khắp năm châu</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 11178,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>&nbsp;Trong giai đoạn hiện nay, kế thừa tư tưởng Hồ Chí Minh để xây dựng những phẩm chất đạo đức tốt đẹp và chống lại những cái vô đạo đức có kết quả, cần phải:</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Tạo thành phong trào quần chúng rộng rãi&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Động viên từng cá nhân thực hiện</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Bắt buộc từng cá nhân thực hiện</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span>Chống chủ nghĩa cá nhân&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11058,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\"><strong>Trong các phẩm chất đạo đức cơ bản của Việt Nam trong thời đại mới, phẩm chất nào quan trọng nhất, bao trùm nhất?&nbsp;</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Trung với nước, hiếu với dân</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Cần, kiệm, liêm chính, chí công vô tư</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Yêu thương con người</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span lang=\"PT-BR\">&nbsp;Có tinh thần quốc tế vô sản</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 11013,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span><strong>Theo Hồ Chí Minh đạo đức là?</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span>&nbsp;</span><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span>Phẩm chất của người cách mạng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Yêu cầu của người cách mạng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">&nbsp;</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\">Nền tảng của người cách mạng</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\">Gốc của người cách mạng&nbsp;</span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 11188,
+    "question_direction": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Điền từ còn thiếu vào dấu “…” trong câu trích sau của Hồ Chí Minh viết trong tác phẩm Sửa đổi lối làm việc:</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><strong>“Cũng như&nbsp;sông thì&nbsp;có nguồn&nbsp;mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có …, không có … thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân”</strong></span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><o:p></o:p></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Trí</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">&nbsp;Tâm</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\">&nbsp;</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"PT-BR\">Tinh thần</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span style=\"color:black;\"><span lang=\"PT-BR\">&nbsp;</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><span style=\"color:black;\"><span lang=\"PT-BR\">Đạo đức&nbsp;</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]

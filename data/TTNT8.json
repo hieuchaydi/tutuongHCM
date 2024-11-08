@@ -1,0 +1,698 @@
+[
+  {
+    "id": 21090,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0e3be00f-7fff-da13-e378-db39cdbd2979\">Thành phần nào dưới đây KHÔNG thuộc về mỗi luật trong hệ chuyên gia?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-28b12270-7fff-00aa-2f96-cce60a8e2d6b\">Một số hành động</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-74efab65-7fff-208b-74b8-b2db516ca3d0\">Một số điều kiện</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-afa2e613-7fff-3a16-a89c-0e388424e1e4\">Một số hệ quả</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0433ad94-7fff-57bf-b5ae-7af8f247989a\">Một số câu hỏi</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 21091,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-808e522b-7fff-c3c4-63a8-f870da6b1e4a\">Một hệ luật gồm bao nhiêu thành phần chính?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>3</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>6</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>7</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21092,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-820c8576-7fff-75dd-f598-31aecebdedf8\">Trong hệ luật, phần cơ sở luật </span>là tập hợp các luật được cung cấp bởi ai dưới đây?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Các giáo viên</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e6080897-7fff-f43f-fc41-ce8afc7dfa23\">Các chuyên gia</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Các học sinh</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Người dùng cuối</p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 21176,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e4b91c40-7fff-a9e5-a213-dd43598d4dde\">Trong một hệ luật thì việc sử dụng các luật trong cơ sở luật và đối sánh với nội dung của bộ nhớ làm việc để rút ra các kết luận được gọi là gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-44f1dae0-7fff-d155-8644-f2598f074f38\">Cơ chế lặp lại</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-63caf9b2-7fff-e5aa-ca2c-96b1fa64dab6\">Cơ chế tự hủy</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4b8e7b96-7fff-0a9f-fd78-dbd8ff504515\">Cơ chế bảo vệ</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-98f4b69d-7fff-1eb8-78aa-6f92f742eca4\">Cơ chế suy diễn</span></span></p>"
+      }
+    ],
+    "correct_answer": 4
+  },
+  {
+    "id": 21183,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d2401e49-7fff-0e55-e8b2-31b25e1a6faf\">Trong quá trình suy diễn tiến, nếu các sự kiện được suy ra là mới (chưa có trong bộ nhớ làm việc) thì chúng được xử lý như thế nào?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-998a8189-7fff-4bfd-fa05-a216a6924063\">Đưa ra ngoài bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bb174ba2-7fff-5f2d-fb5b-72f8b26adbc9\">Đưa vào bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-98eed882-7fff-8a28-6d6a-9372ec65eb36\">Đưa vào cấu trúc dữ liệu Stack để xử lý tiếp</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a130ab2e-7fff-a008-60aa-6ed76726aeb2\">Đưa vào cấu trúc dữ liệu Queue để xử lý tiếp</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 21190,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a7c5f557-7fff-dfb0-5c6f-3bdfcaa2a8fe\">Trong suy diễn lùi, với mỗi giả thiết ta đối sánh với phần … của luật?&nbsp;</span></span><br>Hãy điền vào dấu … phần thiếu.&nbsp;</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Do</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>IF</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Then</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>While</p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 21207,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-3d07aa14-7fff-deff-a817-815eb4e6520a\">Trong suy diễn tiến, khi một luật được cháy thì phần then của luật được xem là gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-55aa1d20-7fff-089a-8b91-c755e68c33ae\">&nbsp;Điều kiện logic của các sự kiện trong phần if</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ab034e3b-7fff-3872-1926-401da3c93af8\">hệ quả logic của các sự kiện trong phần if</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2fe12062-7fff-527f-3a2c-3c609cc49cf9\">hệ quả logic của thành phần then</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-02f54073-7fff-6f0a-a419-6b80e396fca8\">hệ quả logic của hành động trong thành phần then</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 21216,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c0b7a3b1-7fff-5f73-3d27-99cd398df953\">Trong cơ sở tri thức của các nhà động vật học thì biểu diễn:&nbsp;</span><strong>if ‘x có lông mao’ then ‘x là động vật có vú’&nbsp;</strong>được gọi là gì?&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-463d2922-7fff-7e29-095d-13652f5f5af5\">Gọi là sự kiện</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-2165f59e-7fff-91ce-6c4f-98828df1198f\">Gọi là một hành động</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-078f1c19-7fff-b529-10a5-16008950744e\">Gọi là một luật</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-3cfafeab-7fff-d47e-3e70-ac4360378d73\">Gọi là kết luận</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 21225,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-b1b48fd6-7fff-7b45-540f-7ca03047ce2f\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Chuồn chuồn bay thấp</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Mây mù</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><i><strong>Áp dụng suy luận bằng lập luận tiến thì giả thiết nào sau đây là đúng?</strong></i></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4d5a377a-7fff-e9b0-4724-bf67314a0a4d\">Đường ướt</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d351c170-7fff-fb14-ef6e-43483fb6e776\">Đường khô</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9f9eb18d-7fff-0ff2-df56-7b105a0802c3\">Đường bụi</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-0fe678db-7fff-2349-7fcd-016cb226bbcd\">Đường xấu</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21246,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-d1e5aeb8-7fff-a290-58e3-da17d947e52a\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Rửa đường</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Mây mù</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><i><strong>Áp dụng suy luận bằng lập luận tiến thì giả thiết nào sau đây là đúng?</strong></i></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a1c6a7fd-7fff-feb5-465e-b73703cdfb57\">Đường ướt</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-517f6da3-7fff-10c3-3fa4-1b16a61e502e\">Đường khô</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-42e5d44a-7fff-2353-12f7-b3e6c43742c1\">Đường xấu</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f25829ac-7fff-34d0-c14b-77bfe08bf401\">Đường đẹp</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21286,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f5e787d9-7fff-01b8-d774-18090eff24d4\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu động vật có 2 chân thì động vật là gia cầm.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu động vật 4 chân thì động vật là gia súc.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu động vật là gia súc và động vật có móng guốc thì động vật là loài móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu động vật là loài móng guốc và động vật có 1 móng thì động vật là ngựa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu động vật là loài móng guốc và động vật có 2 móng thì động vật là giống trâu bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu động vật là giống trâu bò và động vật thích cỏ khô thì động vật là bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R7: Nếu động vật là giống trâu bò và động vật thích cỏ ướt thì động vật là trâu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho tập sự kiện</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Bi có 4 chân</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Bi có móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F3: Bi có 2 móng</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F4: Bi thích cỏ ướt&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Áp dụng suy luận bằng lập luận lùi thì giả thiết nào sau đây là đúng?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Bi là trâu</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Bi là bò</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ed27563a-7fff-c1aa-fa57-a2b368fa4c3f\">Bi không phải là trâu</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c1923401-7fff-d560-b126-f1a7cc077628\">Bi là gia cầm</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23304,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở luật</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có 2 chân thì động vật là gia cầm</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật 4 chân thì động vật là gia súc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là gia súc và động vật có móng guốc thì động vật là loài móng guốc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là loài móng guốc và động vật có 1 móng thì động vật là ngựa</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là loài móng guốc và động vật có 2 móng thì động vật là giống trâu bò</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là giống trâu bò và động vật thích cỏ khô thì động vật là bò</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là giống trâu bò và động vật thích cỏ ướt thì động vật là trâu</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập cơ sở sự kiện:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Bi có 4 chân</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Bi có móng guốc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>3</sub>: Bi có 2 móng</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<sub>4</sub>: Bi thích </span><span style=\"color:red;\"><span lang=\"EN-US\">cỏ</span></span><span lang=\"EN-US\"> khô</span><o:p></o:p></p><p><span lang=\"EN-US\">Sử dụng lập luận tiến hãy cho biết Bi là con gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e25e6a30-7fff-d12e-a995-df7a3057f9d4\">Bi là trâu</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Bi là Bò</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-70b06843-7fff-a118-8907-fa1c3f8cd14e\">Bi là giống trâu bò</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fe7ab088-7fff-b5b0-7240-48c69eb2cf3b\">Bi là ngựa</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 23306,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở tri thức sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có 2 chân thì động vật là gia cầm</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật 4 chân thì động vật là gia súc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là gia súc và động vật có móng guốc thì động vật là loài móng guốc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là loài móng guốc và động vật có 1 móng thì động vật là ngựa</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là loài móng guốc và động vật có 2 móng thì động vật là giống trâu bò</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là giống trâu bò và động vật thích cỏ khô thì động vật là bò</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là giống trâu bò và động vật thích cỏ ướt thì động vật là trâu</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập cơ sở sự kiện:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Kit có 4 chân</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Kit có móng guốc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>3</sub>: Kit có 2 móng</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>4&nbsp;</sub>: Kit thích cỏ khô</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho giả thuyết Kit là bò</span><o:p></o:p></p><p><span lang=\"FR\">Sử dụng lập luận lùi thì giả thuyết trên là:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\">Đúng</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-286e09c2-7fff-1ed7-e338-9d9571e56770\">Không giả thuyết để kết luận</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6bbae9dd-7fff-2def-63d0-06ef036c855f\">Sai</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c355155d-7fff-448e-754d-04e5b46d480c\">Không đủ cơ sở để kết luận</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23309,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-31e4a6b3-7fff-0786-7687-0b72af70cb6c\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu động vật có 2 chân thì động vật là gia cầm.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu động vật 4 chân thì động vật là gia súc.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu động vật là gia súc và động vật có móng guốc thì động vật là loài móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu động vật là loài móng guốc và động vật có 1 móng thì động vật là ngựa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu động vật là loài móng guốc và động vật có 2 móng thì động vật là giống trâu bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu động vật là giống trâu bò và động vật thích cỏ khô thì động vật là bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R7: Nếu động vật là giống trâu bò và động vật thích cỏ ướt thì động vật là trâu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho tập sự kiện</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Bi có 4 chân</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Bi có móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F3: Bi có 2 móng</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F4: Bi ăn cỏ khô</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Áp dụng suy luận bằng lập luận lùi thì giả thiết nào sau đây là đúng?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Bi là bò</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Bi là ngựa</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Bi là trâu</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Bi là gia cầm</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 23310,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-90d3627f-7fff-05dc-5429-802a49abe33d\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu động vật có 2 chân thì động vật là gia cầm.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu động vật 4 chân thì động vật là gia súc.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu động vật là gia súc và động vật có móng guốc thì động vật là loài móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu động vật là loài móng guốc và động vật có 1 móng thì động vật là ngựa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu động vật là loài móng guốc và động vật có 2 móng thì động vật là giống trâu bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu động vật là giống trâu bò và động vật thích cỏ khô thì động vật là bò</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R7: Nếu động vật là giống trâu bò và động vật thích cỏ ướt thì động vật là trâu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho tập sự kiện</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Bi có 4 chân</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Bi có móng guốc</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F3: Bi có 1 móng</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F4: Bi thích cỏ ướt&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Áp dụng suy luận bằng lập luận lùi thì giả thiết nào sau đây là đúng?</strong></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b5b3feec-7fff-2585-fa03-bbc74653f84a\">Bi là ngựa</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-12e7c4a8-7fff-4125-c9d3-ebb17c921f84\">Bi là trâu</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f19038b0-7fff-5450-2aa4-9360fb351c3f\">Bi là bò</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-672d6262-7fff-675a-3feb-a76a5e627f1a\">Bi là gia cầm</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21088,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-04bf9541-7fff-2126-073e-641e573b93b4\">Tri thức của các chuyên gia trong một lĩnh vực mà họ làm việc thường được biểu diễn dưới dạng nào dưới đây?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e9a1d8e3-7fff-3ee4-dc37-68dfdf7dbc8b\">do-while</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-78876a18-7fff-5385-79be-fe4b5767ddc9\">if-then</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c82ed487-7fff-684d-6c01-2a7b1763e880\">for-then</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-3db10204-7fff-7bf6-3fb6-fc2e5c9dcad9\">while-do</span></span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 21173,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-51b4ea88-7fff-e0dc-075c-70c991cca7ca\">Trong một hệ luật thì bộ nhớ làm việc dùng để làm gì?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-61ba8b49-7fff-fa72-5f0e-99f51b496330\">Lưu giữ các luật</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7555679f-7fff-27ab-d4a4-316583bff1c4\">Lưu giữ các câu hỏi</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-6845c9dc-7fff-5ed7-6fa4-3836eb49641b\">Lưu giữ các kết luận rút ra được trong quá trình suy diễn</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-adc3cda6-7fff-7c32-90e9-cdd041cc21d2\">Lưu giữ quá trình suy diễn</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 21180,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9a43f748-7fff-4867-50ce-0f630957170d\">Trong suy diễn tiến, nếu tất cả các điều kiện trong phần&nbsp;</span><strong>if</strong> của luật đều được thoả mãn (đều có trong bộ nhớ làm việc), thì luật được xem là gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-97a69890-7fff-873e-6d67-6f41872d8744\">Có thể cháy được</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a255dc1d-7fff-a083-207a-adc7876dfea6\">Có thể loại bỏ được</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5ee14735-7fff-b1d3-ea0a-e81da57ddd6f\">Có thể làm việc được</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-7eee2a16-7fff-c934-fb0d-78ebd5c4ca55\">Có thể hủy được</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21195,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e17930d4-7fff-4642-9c66-1584f9c528dd\">Trong suy diễn lùi, nếu giả thiết khớp với phần then của một luật thì các điều kiện trong phần if sẽ được xử lý như thế nào?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c16015b1-7fff-8349-60e1-0510a0f9fd0a\">Đối sánh với phần if của các luật còn lại</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ec4c71e6-7fff-9a35-dd48-e0a5c964af4a\">Xóa bỏ các điều kiện ra khỏi bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-43470ff8-7fff-ce6d-a7ac-6c2ffaf2795f\">Tìm kiếm trong bộ nhớ làm việc</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9f7b98ec-7fff-f967-60bd-4828c632138f\">Kết thúc quá trình suy luận lùi</span></span></p>"
+      }
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 21235,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-7ed6065b-7fff-6a0e-697a-2f069d7f26ac\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Chuồn chuồn bay thấp</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Mây mù</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><i><strong>Áp dụng suy luận bằng lập luận tiến thì giả thiết nào sau đây là đúng?</strong></i></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-5b8b3590-7fff-84cf-4292-a06be6d3b3c6\">Trời xấu</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-83c05d4e-7fff-978d-1103-c2576fe19f46\">Trời đẹp</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bb326280-7fff-a96d-306e-b552e4aab5e8\">Trời âm u</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-b551d500-7fff-09b0-46ba-14722d2f388e\">Trời nắng</span></span></p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21274,
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở luật</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có mỏ và động vật có lông vũ thì động vật là gia cầm</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật 4 chân thì động vật là gia súc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là gia cầm và động vật thích bơi lội thì động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là gia cầm và động vật có màng chân thì động vật là vịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là vịt và động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm thì động vật là vịt trời</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm và động vật biết bay thì động vật là vịt trời</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm và động vật không biết bay thì động vật là chim cánh cụt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập sự kiện:&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Cun cút có mỏ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Cun cút có lông vũ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>3</sub>: Cun cút không biết bay</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>4</sub>: Cun cút thích bơi lội</span><o:p></o:p></p><p><span lang=\"EN-US\">Sử dụng lập luận tiến hãy cho biết Cun cút là con gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><span lang=\"FR\">Cun cút là vịt trời</span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span lang=\"FR\">Cun cút là chim cánh cụt</span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span lang=\"FR\">Cun </span><span style=\"color:red;\"><span lang=\"FR\">cút</span></span><span lang=\"FR\"> là gia súc</span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span lang=\"EN-US\">Cun cút là chim</span></p>"
+      }
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 23308,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở luật</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có lông vũ thì động vật là chim</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật có lông mao thì động vật là loài có vú</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là loài có vú và động vật thịt thì động vật là thú ăn thịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là loài có vú và động vật có răng nhọn và động vật có móng vuốt thì động vật là thú ăn thịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là thú ăn thịt và động vật có màu lông vàng hung và động vật có đốm sẫm thì động vật là báo châu Phi</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là thú ăn thịt và động vật có màu lông vàng hung và động vật có </span><span style=\"color:red;\"><span lang=\"EN-US\">vằn</span></span><span lang=\"EN-US\"> đen thì động vật là hổ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là chim và động vật không biết bay và động vật biết bơi và động vật có màu lông đen trắng thì động vật là chim cánh cụt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập sự kiện:&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Tata có&nbsp; lông vũ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Tata có không biết bay</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<sub>3</sub>: Tata có biết bơi</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>4</sub>: Tata có màu lông đen trắng</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho giả thuyết Tata là hổ</span><o:p></o:p></p><p><span lang=\"EN-US\">Sử dụng lập luận lùi, giả thuyết trên là:&nbsp;</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Sai&nbsp;</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>Đúng</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>Không đủ giả thuyết để kết luận</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>Không đủ cơ sở để kết luận</p>"
+      }
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 21087,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f7708870-7fff-b484-e6a9-26b396e1c21f\">Hệ chuyên gia có thể sử dụng mô hình nào dưới đây để biểu diễn tri thức trong lĩnh vực mà các chuyên gia đang làm việc?</span></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-863ea9dc-7fff-34da-27bf-857a5d626722\">Biểu diễn tri thức bởi các luật</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-63f72db3-7fff-5608-9290-5b11b6e8221a\">Biểu diễn tri thức bởi&nbsp; các phép cộng</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-95190415-7fff-71c0-25c3-887bfc064697\">Biểu diễn tri thức bởi các luật do - while</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-9166301e-7fff-917e-6203-ddfcbef336ec\">Tất cả các phương án đều đúng</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 21089,
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a6df69a3-7fff-b117-05bc-90ac09e9acb8\">Hệ chuyên gia thường sử dụng các luật để biểu diễn tri thức do mình khám phá</span> được. Mỗi luật bao gồm … thành phần. Hãy chọn phương án đúng nhất dưới đây điền vào dấu …</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>5</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p>4</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p>2</p>"
+      },
+      {
+        "id": "4",
+        "value": "<p>6</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 21252,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ec4deb2e-7fff-b464-9736-30cdd9d4c254\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Rửa đường</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Mây mù</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><i><strong>Áp dụng suy luận bằng lập luận tiến thì giả thiết nào sau đây là đúng?</strong></i></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e21b7b5c-7fff-e1b5-024c-6e9865cec89e\">Trời xấu</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-951d3866-7fff-163b-7638-9482048537fa\">Trời đẹp</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fe48703e-7fff-3338-7c23-5ddd3ee6c286\">Trời mưa</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-287ae5c8-7fff-468e-cde4-ca0ec2ea45d2\">Trời gió</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 21220,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ac682d13-7fff-2432-9a2c-73e34dbaa644\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Chuồn chuồn bay thấp</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Mây mù</span></p><p dir=\"ltr\">Áp dụng suy luận bằng lập luận tiến thì tri thức mới nào được sinh ra?</p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-46e3da43-7fff-e3f7-f4dc-8b894ac64c16\">Trời gió</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-58151918-7fff-fb30-289e-41de5efbad32\">Trời mưa</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-135eb9a3-7fff-12ae-2fb2-aa8b9a9922e8\">Trời bão</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-4b4a97e2-7fff-2525-4b48-f1e4b386e3c2\">Trời lũ</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 21278,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-ecb937a6-7fff-812b-35b1-042676083374\"><span style=\"background-color:transparent;color:#000000;\"><strong>Cho cơ sở tri thức gồm các luật sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R1: Nếu trời mưa thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R2: Nếu rửa đường thì đường ướt</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R3: Nếu chuồn chuồn bay thấp thì trời mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R4: Nếu chuồn chuồn bay cao thì trời không mưa</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R5: Nếu đường ướt và mây mù thì trời xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">R6: Nếu đường ướt và quang mây thì trời không xấu</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><strong>Với cơ sở sự kiện sau</strong></span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F1: Chuồn chuồn bay thấp</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\">F2: Quang mây</span></p><p dir=\"ltr\"><span style=\"background-color:transparent;color:#000000;\"><i><strong>Áp dụng suy luận bằng lập luận tiến thì giả thiết nào sau đây là đúng?</strong></i></span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-bc41dbda-7fff-985c-a991-dd7f724d95e4\">Trời không xấu</span></span></p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-74c565ce-7fff-a8fe-cb0f-fd429568e77d\">Trời xấu</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-f137327e-7fff-c08d-6603-34882afef221\">Trời gió</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fae50f2b-7fff-d26b-98da-2d93b165583c\">Trời nắng</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23307,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở luật</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có mỏ và động vật có lông vũ thì động vật là gia cầm</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật 4 chân thì động vật là gia súc</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là gia cầm và động vật thích bơi lội thì động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là gia cầm và động vật có màng chân thì động vật là vịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là vịt và động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm thì động vật là vịt trời</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm và động vật biết bay thì động vật là vịt trời</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là </span><span style=\"color:red;\"><span lang=\"EN-US\">thủy</span></span><span lang=\"EN-US\"> cầm và động vật không biết bay thì động vật là chim cánh cụt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập sự kiện:&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Cun cút có mỏ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Cun cút có lông vũ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>3</sub>: Cun cút có màng chân</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<sub>4</sub>: Cun cút thích bơi lội</span><o:p></o:p></p><p><span lang=\"EN-US\">Sử dụng lập luận tiến hãy cho biết Cun cút là con gì?</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p>Vịt trời</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-cf46946d-7fff-c0c2-55bf-b33dc3b64553\">chim cánh cụt</span></span></p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-d6ff6a73-7fff-d5b9-9253-78a5785fc4e9\">Gia súc</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\">Vịt</p>"
+      }
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 23311,
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho cơ sở luật</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>1</sub>: Nếu động vật có lông vũ thì động vật là chim</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>2</sub>: Nếu động vật có lông mao thì động vật là loài có vú</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>3</sub>: Nếu động vật là loài có vú và động vật thịt thì động vật là thú ăn thịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>4</sub>: Nếu động vật là loài có vú và động vật có răng nhọn và động vật có móng vuốt thì động vật là thú ăn thịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>5</sub>: Nếu động vật là thú ăn thịt và động vật có màu lông vàng hung và động vật có đốm sẫm thì động vật là báo châu Phi</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>6</sub>: Nếu động vật là thú ăn thịt và động vật có màu lông vàng hung và động vật có </span><span style=\"color:red;\"><span lang=\"EN-US\">vằn</span></span><span lang=\"EN-US\"> đen thì động vật là hổ</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">R<sub>7</sub>: Nếu động vật là chim và động vật không biết bay và động vật biết bơi và động vật có màu lông đen trắng thì động vật là chim cánh cụt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Cho tập sự kiện:&nbsp;</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>1</sub>: Tata có&nbsp; lông mao</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>2</sub>: Tata ăn thịt</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>3</sub>: Tata có màu lông vàng hung</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F<sub>4</sub>: Tata có đốm sẫm</span><o:p></o:p></p><p><span lang=\"EN-US\">Sử dụng lập luận tiến hãy cho biết Tata là con gì</span></p>",
+    "question_type": "radio",
+    "answer_option": [
+      {
+        "id": "1",
+        "value": "<p><meta charset=\"utf-8\">Hổ</p>"
+      },
+      {
+        "id": "2",
+        "value": "<p><meta charset=\"utf-8\">Chim cánh cụt</p>"
+      },
+      {
+        "id": "3",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-c33b8d01-7fff-edcc-589e-1443c29ee5d0\">Báo châu Phi</span></span></p>"
+      },
+      {
+        "id": "4",
+        "value": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-ba3f86d8-7fff-016b-c332-23e960bb0ab9\">Vịt trời</span></span></p>"
+      }
+    ],
+    "correct_answer": 0
+  }
+]
