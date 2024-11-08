@@ -3,6 +3,7 @@ const subjects = {
     TTNT: "TTNT"
 }
 
+const onlyDisplayNonAnswer = true;
 let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
@@ -47,8 +48,19 @@ function startExamForAll(subject) {
     // Fetch data from all files and combine into one array
     Promise.all(files.map(file => fetch(file).then(response => response.json())))
         .then(results => {
-            results.forEach(result => questions.push(...result)); // Gộp tất cả câu hỏi vào một mảng
-            const randomQuestions = getRandomQuestions(questions, 50); // Lấy 50 câu hỏi ngẫu nhiên
+            results.forEach(result => {
+              if (onlyDisplayNonAnswer == true) {
+                result.forEach(question => {
+                  if (question.correct_answer < 1 || question.correct_answer > 4)
+                    questions.push(question);
+                })
+              }
+              else {
+                questions.push(...result)
+              }
+            }); // Gộp tất cả câu hỏi vào một mảng
+
+            const randomQuestions = getRandomQuestions(questions, onlyDisplayNonAnswer ? questions.length : 50); // Lấy 50 câu hỏi ngẫu nhiên
             displayQuestions(randomQuestions); // Hiển thị câu hỏi
             isExamInProgress = true;
             document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
@@ -80,7 +92,7 @@ function displayQuestions(questions) {
       const questionNumber = document.createElement("p");
       const questionText = document.createElement("p");
 
-      questionNumber.textContent = `Câu ${index + 1}:         (${question.id})`
+      questionNumber.textContent = `Câu ${index + 1}: (ID - ${question.id})`
       questionNumber.classList.add("question-number");
 
       if (question.correct_answer == 0) {
