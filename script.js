@@ -80,8 +80,12 @@ function displayQuestions(questions) {
       const questionNumber = document.createElement("p");
       const questionText = document.createElement("p");
 
-      questionNumber.textContent = `Câu ${index + 1}:`
+      questionNumber.textContent = `Câu ${index + 1}:         (${question.id})`
       questionNumber.classList.add("question-number");
+
+      if (question.correct_answer == 0) {
+        questionNumber.classList.add("question-no-answer");
+      }
 
       questionText.innerHTML = `${question.question_direction}`;
 
@@ -101,6 +105,7 @@ function displayQuestions(questions) {
           const label = document.createElement("label");
           const input = document.createElement("input");
           const optionText = document.createElement("span");
+          const optionTextP = document.createElement("p");
           const optionLabel = document.createElement("span");
 
           answerOpionDiv.classList.add("answer-option-div");
@@ -111,15 +116,15 @@ function displayQuestions(questions) {
           input.type = "radio";
           input.name = `question_${question.id}`;
           input.value = option.id;
-          input.classList.add("custom-radio"); // Add a class for custom styling
 
           label.classList.add("option-label"); // Add a class for styling
           label.appendChild(input);
           label.appendChild(optionText);
-    
+          
           // Use innerHTML to render HTML content in the option value
-          optionText.innerHTML = option.value;
-
+          optionTextP.innerHTML = option.value;
+          optionText.appendChild(optionTextP);
+          
           answerOpionDiv.appendChild(optionLabel);
           answerOpionDiv.appendChild(label);
           answerDiv.appendChild(answerOpionDiv);
