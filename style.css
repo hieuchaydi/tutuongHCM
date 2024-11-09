@@ -165,8 +165,8 @@ body.dark-mode .container {
   margin-left: 16px;
 }
 
-.option-label .selected {
-  border-color: #4680ff; /* Blue border when selected */
+.selected {
+  border: 1px solid #4680ff !important;
 }
 
 .answer-div {
