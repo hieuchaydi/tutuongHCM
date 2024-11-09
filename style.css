@@ -92,21 +92,11 @@ input[type="radio"] {
 }
 
 .correct {
-  background-color: #2d6a4f;
-  border-left: 4px solid #28a745;
-  padding: 10px;
-  margin-top: 10px;
-  border-radius: 5px;
-  color: #e0e0e0;
+  border-left: 8px solid #28a745;
 }
 
 .incorrect {
-  background-color: #9b2226;
-  border-left: 4px solid #dc3545;
-  padding: 10px;
-  margin-top: 10px;
-  border-radius: 5px;
-  color: #e0e0e0;
+  border-left: 8px solid #dc3545;
 }
 
 #score {
@@ -166,7 +156,7 @@ body.dark-mode .container {
 }
 
 .selected {
-  border: 1px solid #4680ff !important;
+  border: 1px solid #4680ff;
 }
 
 .answer-div {
@@ -194,6 +184,10 @@ body.dark-mode .container {
   font-weight: 700;
 }
 
+.option-label > span {
+  padding-right: 16px;
+}
+
 /* Fix tất cả thành chữ trắng nền tối */
 .question p, span {
   color: #e0e0e0 !important;
@@ -203,4 +197,16 @@ body.dark-mode .container {
 /* Ghi đè từ class cao hơn vì (.question-container > .question) */
 .question-container .question-no-answer {
   color: #9b2226 !important;
+}
+.correct-answer {
+    border: 3px solid #28a745; /* Green border for correct answers */
+}
+
+.incorrect-answer {
+    border: 3px solid #dc3545; /* Red border for incorrect answers */
+}
+
+
+.hidden-radio {
+  visibility: hidden;
 }

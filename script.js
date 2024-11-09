@@ -142,11 +142,13 @@ function displayQuestions(questions) {
           answerDiv.appendChild(answerOpionDiv);
 
           input.addEventListener('change', () => {
+            if (isExamInProgress) {
             document.querySelectorAll(`input[name="question_${question.id}"]`).forEach(radio => {
               radio.parentElement.classList.remove('selected');
             });
             if (input.checked) {
-              label.classList.add('selected');
+                label.classList.add('selected');
+              }
             }
           });
       });
@@ -158,7 +160,7 @@ function displayQuestions(questions) {
 
 // Submit exam and display results
 function submitExam() {
-    const questionsContainer = document.getElementById("questions");
+    const questionContainers = document.getElementsByClassName("question");
     const resultContainer = document.getElementById("result");
     const scoreElement = document.getElementById("score");
 
@@ -168,7 +170,6 @@ function submitExam() {
     // Check user answers
     const questions = document.querySelectorAll('.question');
     questions.forEach((questionDiv, index) => {
-        const question = questionDiv.querySelector('p').textContent;
         const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
         const correctAnswer = questionDiv.dataset.correctAnswer;
 
@@ -177,32 +178,36 @@ function submitExam() {
             const userAnswer = selectedOption.value;
             const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
             userAnswerText = selectedOption.nextSibling.textContent;
-
-            userAnswers.push({ question, userAnswer: userAnswerText, correctAnswer: correctOption });
+            userAnswers.push({ userAnswer: userAnswerText, correctAnswer: correctOption });
 
             if (userAnswer === correctAnswer) {
                 correctAnswers++;
+                selectedOption.parentElement.classList.add('correct-answer');
+            } else {
+                selectedOption.parentElement.classList.add('incorrect-answer');
+                questionDiv.querySelector(`input[value="${correctAnswer}"]`).parentElement.classList.add('correct-answer');
             }
         } else {
             const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
-            userAnswers.push({ question, userAnswer: "Chưa chọn", correctAnswer: correctOption });
+
+            userAnswers.push({ userAnswer: "Chưa chọn", correctAnswer: correctOption });
+            questionDiv.querySelector(`input[value="${correctAnswer}"]`).parentElement.classList.add('correct-answer');
         }
+
+        // Hide radio buttons
+        const radioButtons = questionDiv.querySelectorAll('input[type="radio"]');
+        radioButtons.forEach(radio => {
+            radio.classList.add('hidden-radio');
+        });
     });
 
     // Display results
     const totalQuestions = questions.length;
     const score = ((correctAnswers / totalQuestions) * 10).toFixed(2); // Score out of 10
 
-    questionsContainer.innerHTML = "<h2>Kết quả bài kiểm tra</h2>";
     userAnswers.forEach((answer, index) => {
-        const answerDiv = document.createElement('div');
+        const answerDiv = questionContainers[index];
         answerDiv.classList.add(answer.userAnswer === answer.correctAnswer ? 'correct' : 'incorrect');
-        answerDiv.innerHTML = ` 
-            <p><strong>Câu ${index + 1}:</strong> ${answer.question}</p>
-            <p><strong>Đáp án bạn chọn:</strong> ${answer.userAnswer}</p>
-            <p><strong>Đáp án đúng:</strong> ${answer.correctAnswer}</p>
-        `;
-        questionsContainer.appendChild(answerDiv);
     });
 
     scoreElement.textContent = `Điểm của bạn: ${score} (Số câu trả lời đúng: ${correctAnswers}/${totalQuestions})`;
