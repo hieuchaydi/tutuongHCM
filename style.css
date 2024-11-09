@@ -198,6 +198,7 @@ body.dark-mode .container {
 .question-container .question-no-answer {
   color: #9b2226 !important;
 }
+
 .correct-answer {
     border: 3px solid #28a745; /* Green border for correct answers */
 }
@@ -206,6 +207,9 @@ body.dark-mode .container {
     border: 3px solid #dc3545; /* Red border for incorrect answers */
 }
 
+.unanswered {
+  border: 3px solid #ffc107; /* Yellow border for unanswered questions */
+}
 
 .hidden-radio {
   visibility: hidden;

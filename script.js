@@ -169,7 +169,7 @@ function submitExam() {
 
     // Check user answers
     const questions = document.querySelectorAll('.question');
-    questions.forEach((questionDiv, index) => {
+    questions.forEach((questionDiv) => {
         const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
         const correctAnswer = questionDiv.dataset.correctAnswer;
 
@@ -177,6 +177,7 @@ function submitExam() {
         if (selectedOption) {
             const userAnswer = selectedOption.value;
             const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
+
             userAnswerText = selectedOption.nextSibling.textContent;
             userAnswers.push({ userAnswer: userAnswerText, correctAnswer: correctOption });
 
@@ -191,7 +192,7 @@ function submitExam() {
             const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
 
             userAnswers.push({ userAnswer: "Chưa chọn", correctAnswer: correctOption });
-            questionDiv.querySelector(`input[value="${correctAnswer}"]`).parentElement.classList.add('correct-answer');
+            questionDiv.querySelector(`input[value="${correctAnswer}"]`).parentElement.classList.add('unanswered');
         }
 
         // Hide radio buttons
