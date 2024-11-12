@@ -270,19 +270,19 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<p><meta charset=\"utf-8\"><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><img data-org=\"serverAws\" src=\"33109\" alt=\"33109|serverAws\"></p>"
+        "value": "<p><meta charset=\"utf-8\"><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33109.png\" alt=\"33109|serverAws\"></p>"
       },
       {
         "id": "2",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33117\" alt=\"33117|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33117.png\" alt=\"33117|serverAws\"></figure>"
       },
       {
         "id": "3",
-        "value": "<p>&nbsp;</p><figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33119\" alt=\"33119|serverAws\"></figure><p>&nbsp;</p>"
+        "value": "<p>&nbsp;</p><figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33119.png\" alt=\"33119|serverAws\"></figure><p>&nbsp;</p>"
       },
       {
         "id": "4",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33122\" alt=\"33122|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33122.png\" alt=\"33122|serverAws\"></figure>"
       }
     ],
     "correct_answer": 1
@@ -505,7 +505,7 @@
   },
   {
     "id": 14647,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh u là bao nhiêu?</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"33166\" alt=\"33166|serverAws\"></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh u là bao nhiêu?</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33166.png\" alt=\"33166|serverAws\"></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {

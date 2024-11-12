@@ -25,7 +25,7 @@
   },
   {
     "id": 6865,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó, các toán tử là gì?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"12547\" alt=\"12547|serverAws\"></span></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó, các toán tử là gì?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12547.png\" alt=\"12547|serverAws\"></span></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -49,7 +49,7 @@
   },
   {
     "id": 6876,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “5 ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"53296\" alt=\"53296|serverAws\"><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “5 ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/53296.png\" alt=\"53296|serverAws\"><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -193,7 +193,7 @@
   },
   {
     "id": 6943,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12602\" alt=\"12602|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12602.png\" alt=\"12602|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -217,7 +217,7 @@
   },
   {
     "id": 6947,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img src=\"12604\" alt=\"12604|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo bề rộng xét các đỉnh là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12604.png\" alt=\"12604|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo bề rộng xét các đỉnh là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "id": 6953,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12606\" alt=\"12606|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo độ sâu thì đỉnh kết thúc đầu tiên sẽ tìm thấy là</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12606.png\" alt=\"12606|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo độ sâu thì đỉnh kết thúc đầu tiên sẽ tìm thấy là</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "id": 6960,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12637\" alt=\"12637|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {I, N, K}</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo chiều rộng thì đỉnh kết thúc đầu tiên sẽ tìm thấy là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12637.png\" alt=\"12637|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {I, N, K}</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu áp dụng chiến lược tìm kiếm theo chiều rộng thì đỉnh kết thúc đầu tiên sẽ tìm thấy là&nbsp;:</span><o:p></o:p><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": 6964,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img src=\"12640\" alt=\"12640|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm theo bề rộng, thứ tự các đỉnh được xét là&nbsp;:&nbsp;</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12640.png\" alt=\"12640|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm theo bề rộng, thứ tự các đỉnh được xét là&nbsp;:&nbsp;</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -313,7 +313,7 @@
   },
   {
     "id": 6968,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12644\" alt=\"12644|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12644.png\" alt=\"12644|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,I}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -337,7 +337,7 @@
   },
   {
     "id": 6984,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-B-C-D-H-I</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12652\" alt=\"12652|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-B-C-D-H-I</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12652.png\" alt=\"12652|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -361,7 +361,7 @@
   },
   {
     "id": 6871,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “</span></span><a><span style=\"color:black;\"><span lang=\"EN-US\">6</span></span></a><span class=\"MsoCommentReference\" lang=\"EN-US\">&nbsp;</span><span style=\"color:black;\"><span lang=\"EN-US\">” ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"12577\" alt=\"12577|serverAws\"></span></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Trong bài toán 8_Puzzle, được biểu diễn bởi bảng 3x3 ô và tám quân mang số hiệu từ 1 đến 8 được xếp vào tám ô, còn lại một ô trống. Người chơi có thể chuyển dịch các quân ở cạnh ô trống tới ô trống đó. Hình bên trái là trạng thái bắt đầu,&nbsp; hình bên phải là trạng thái kết thúc.&nbsp;</span></span></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Số “</span></span><a><span style=\"color:black;\"><span lang=\"EN-US\">6</span></span></a><span class=\"MsoCommentReference\" lang=\"EN-US\">&nbsp;</span><span style=\"color:black;\"><span lang=\"EN-US\">” ở trạng thái bắt đầu nhận toán tử dịch chuyển nào?&nbsp;</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12577.png\" alt=\"12577|serverAws\"></span></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -457,7 +457,7 @@
   },
   {
     "id": 6938,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img src=\"12600\" alt=\"12600|serverAws\" data-org=\"serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,E}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là&nbsp;:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img src=\"assets/serverAwsImage/12600.png\" alt=\"12600|serverAws\" data-org=\"serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,E}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Quá trình tìm kiếm theo thuật toán tìm kiếm theo chiều sâu xét các đỉnh là&nbsp;:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "id": 6972,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12646\" alt=\"12646|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán theo chiều rộng, đỉnh nào sẽ được duyệt sau đỉnh D?</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12646.png\" alt=\"12646|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N, K}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán theo chiều rộng, đỉnh nào sẽ được duyệt sau đỉnh D?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -505,7 +505,7 @@
   },
   {
     "id": 6975,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"12648\" alt=\"12648|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm chiều sâu hạn chế với d =2, thứ tự các đỉnh được xét là:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12648.png\" alt=\"12648|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {I, N}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Sử dụng thuật toán tìm kiếm chiều sâu hạn chế với d =2, thứ tự các đỉnh được xét là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -529,7 +529,7 @@
   },
   {
     "id": 6987,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-K-I-C-H</span><o:p></o:p></p><figure class=\"image\"><img src=\"12654\" alt=\"12654|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-K-I-C-H</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12654.png\" alt=\"12654|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -553,7 +553,7 @@
   },
   {
     "id": 6996,
-    "question_direction": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Cho đồ thị không gian trạng thái.&nbsp;</span></p><figure class=\"image\"><img src=\"12656\" alt=\"12656|serverAws\" data-org=\"serverAws\"></figure><p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Nếu áp dụng thuật toán tìm kiếm sâu lặp với trạng thái kết thúc là F, thuật toán dừng tại độ sâu là bao nhiêu?</span></p>",
+    "question_direction": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Cho đồ thị không gian trạng thái.&nbsp;</span></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12656.png\" alt=\"12656|serverAws\" data-org=\"serverAws\"></figure><p><span style=\"background-color:rgb(255,255,255);color:rgb(8,28,54);\">Nếu áp dụng thuật toán tìm kiếm sâu lặp với trạng thái kết thúc là F, thuật toán dừng tại độ sâu là bao nhiêu?</span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -577,7 +577,7 @@
   },
   {
     "id": 7000,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"12664\" alt=\"12664|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu đỉnh bắt đầu là A, T = ∅</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm theo chiều rộng, đỉnh cuối cùng được duyệt là đình nào?</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12664.png\" alt=\"12664|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu đỉnh bắt đầu là A, T = ∅</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm theo chiều rộng, đỉnh cuối cùng được duyệt là đình nào?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -649,7 +649,7 @@
   },
   {
     "id": 6980,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-G-C-F-E-B-I</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Với trạng thái bắt đầu là A, trạng thái đích là H</span><o:p></o:p></p><figure class=\"image\"><img src=\"12650\" alt=\"12650|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và thứ tự duyệt qua các đỉnh: A-D-G-C-F-E-B-I</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Với trạng thái bắt đầu là A, trạng thái đích là H</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/12650.png\" alt=\"12650|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là thuật toán tìm kiếm nào?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {

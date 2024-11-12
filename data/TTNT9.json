@@ -318,26 +318,26 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70451\" alt=\"70451|serverAws\" width=\"447\" height=\"179\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/70451.png\" alt=\"70451|serverAws\" width=\"447\" height=\"179\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
       },
       {
         "id": "2",
-        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70453\" alt=\"70453|serverAws\" width=\"453\" height=\"228\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/70453.png\" alt=\"70453|serverAws\" width=\"453\" height=\"228\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
       },
       {
         "id": "3",
-        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70455\" alt=\"70455|serverAws\" width=\"453\" height=\"216\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/70455.png\" alt=\"70455|serverAws\" width=\"453\" height=\"216\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
       },
       {
         "id": "4",
-        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70457\" alt=\"70457|serverAws\" width=\"453\" height=\"215\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
+        "value": "<p><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/70457.png\" alt=\"70457|serverAws\" width=\"453\" height=\"215\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p>"
       }
     ],
     "correct_answer": 1
   },
   {
     "id": 23858,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho mạng ngữ nghĩa sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"70462\" alt=\"70462|serverAws\" width=\"453\" height=\"335\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy xác định giá trị của các thuộc tính không phải của An:</span></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho mạng ngữ nghĩa sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/70462.png\" alt=\"70462|serverAws\" width=\"453\" height=\"335\" v:shapes=\"_x0000_i1025\" uploadprocessed=\"true\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy xác định giá trị của các thuộc tính không phải của An:</span></p>",
     "question_type": "radio",
     "answer_option": [
       {

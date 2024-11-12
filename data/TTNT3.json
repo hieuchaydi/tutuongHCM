@@ -169,7 +169,7 @@
   },
   {
     "id": 7056,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái:</span><o:p></o:p> &nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12855\" alt=\"12855|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái:</span><o:p></o:p> &nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12855.png\" alt=\"12855|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -193,7 +193,7 @@
   },
   {
     "id": 7064,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12865\" alt=\"12865|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12865.png\" alt=\"12865|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {M,J,X,Z}</span><o:p></o:p></p><p class=\"MsoNormal\" style=\"text-align:justify;\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -217,7 +217,7 @@
   },
   {
     "id": 7068,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"12888\" alt=\"12888|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12888.png\" alt=\"12888|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "id": 7095,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image image_resized\" style=\"width:266px;\"><img data-org=\"serverAws\" src=\"17573\" alt=\"17573|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm Tốt nhất đầu tiên bắt đầu từ đỉnh K. Đỉnh nào sẽ được chọn để phát triển tiếp theo?</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image image_resized\" style=\"width:266px;\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/17573.png\" alt=\"17573|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng thuật toán tìm kiếm Tốt nhất đầu tiên bắt đầu từ đỉnh K. Đỉnh nào sẽ được chọn để phát triển tiếp theo?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "id": 7104,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13294\" alt=\"13294|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được duyệt đầu tiên từ K?</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13294.png\" alt=\"13294|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được duyệt đầu tiên từ K?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": 7118,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong bài toán 8 số, như hình dưới ( bên trái là trạng thái đầu, bên phải là trạng thái đích)</span></p><figure class=\"image\"><img src=\"13595\" alt=\"13595|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu xây dựng hàm đánh giá h(u) là tổng số ô trong trạng thái Đầu ở vị trí sai khác với vị trí của trạng thái Đích thì có h(u)= ?</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Trong bài toán 8 số, như hình dưới ( bên trái là trạng thái đầu, bên phải là trạng thái đích)</span></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13595.png\" alt=\"13595|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu xây dựng hàm đánh giá h(u) là tổng số ô trong trạng thái Đầu ở vị trí sai khác với vị trí của trạng thái Đích thì có h(u)= ?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -313,7 +313,7 @@
   },
   {
     "id": 7121,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tê), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"18760\" alt=\"18760|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tê), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/18760.png\" alt=\"18760|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -337,7 +337,7 @@
   },
   {
     "id": 7126,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tên), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span></p><figure class=\"image\"><img src=\"13692\" alt=\"13692|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái và cây kết quả tìm kiếm với đỉnh đầu là A, đỉnh kết thúc là B (thứ tự tìm kiếm theo chiều mũi tên), giá trị của hàm đánh giá là số ghi cạnh mỗi đỉnh.&nbsp;</span></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13692.png\" alt=\"13692|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Hãy cho biết đây là cây tìm kiếm sau khi áp dụng thuật toán tìm kiếm nào?&nbsp;</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -457,7 +457,7 @@
   },
   {
     "id": 7083,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13114\" alt=\"13114|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13114.png\" alt=\"13114|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "id": 7107,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img src=\"13349\" alt=\"13349|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được chọn đầu tiên từ A?</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13349.png\" alt=\"13349|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">Nếu sử dụng thuật toán Beam Search, với k = 2, các đỉnh nào sẽ được chọn đầu tiên từ A?</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -529,7 +529,7 @@
   },
   {
     "id": 7156,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Cho đồ thị không gian trạng thái, giá trị của hàm đánh giá là các số ghi cạnh mỗi đỉnh.&nbsp;</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"48494\" alt=\"48494|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Với, u<sub>0</sub> = A, T = {K, L, M}.&nbsp;</span><span lang=\"NO-BOK\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên với đồ thị trên, thứ tự xét các đỉnh là:&nbsp;</span></span></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Cho đồ thị không gian trạng thái, giá trị của hàm đánh giá là các số ghi cạnh mỗi đỉnh.&nbsp;</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/48494.png\" alt=\"48494|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Với, u<sub>0</sub> = A, T = {K, L, M}.&nbsp;</span><span lang=\"NO-BOK\">Áp dụng chiến lược tìm kiếm tốt nhất đầu tiên với đồ thị trên, thứ tự xét các đỉnh là:&nbsp;</span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "id": 7087,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"13202\" alt=\"13202|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi&nbsp; thì quá trình tìm kiếm xét các đỉnh là:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><figure class=\"image\"><img src=\"assets/serverAwsImage/13202.png\" alt=\"13202|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = K; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi&nbsp; thì quá trình tìm kiếm xét các đỉnh là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -649,7 +649,7 @@
   },
   {
     "id": 7071,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"13051\" alt=\"13051|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau&nbsp;:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/13051.png\" alt=\"13051|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {N,Q,Z}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm leo đồi thì quá trình tìm kiếm xét các đỉnh:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {

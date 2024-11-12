@@ -78,19 +78,19 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<p><meta charset=\"utf-8\"><img data-org=\"serverAws\" src=\"33215\" alt=\"33215|serverAws\"></p>"
+        "value": "<p><meta charset=\"utf-8\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33215.png\" alt=\"33215|serverAws\"></p>"
       },
       {
         "id": "2",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33213\" alt=\"33213|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33213.png\" alt=\"33213|serverAws\"></figure>"
       },
       {
         "id": "3",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33219\" alt=\"33219|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33219.png\" alt=\"33219|serverAws\"></figure>"
       },
       {
         "id": "4",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33223\" alt=\"33223|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33223.png\" alt=\"33223|serverAws\"></figure>"
       }
     ],
     "correct_anwser": 2
@@ -102,19 +102,19 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33225\" alt=\"33225|serverAws\"></figure>"
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33225.png\" alt=\"33225|serverAws\"></figure>"
       },
       {
         "id": "2",
-        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33226\" alt=\"33226|serverAws\"></figure>"
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33226.png\" alt=\"33226|serverAws\"></figure>"
       },
       {
         "id": "3",
-        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33228\" alt=\"33228|serverAws\"></figure>"
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33228.png\" alt=\"33228|serverAws\"></figure>"
       },
       {
         "id": "4",
-        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33230\" alt=\"33230|serverAws\"></figure>"
+        "value": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33230.png\" alt=\"33230|serverAws\"></figure>"
       }
     ],
     "correct_anwser": 3
@@ -337,7 +337,7 @@
   },
   {
     "id": 14883,
-    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33349\" alt=\"33349|serverAws\"></figure>",
+    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33349.png\" alt=\"33349|serverAws\"></figure>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -438,19 +438,19 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33279\" alt=\"33279|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33279.png\" alt=\"33279|serverAws\"></figure>"
       },
       {
         "id": "2",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33282\" alt=\"33282|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33282.png\" alt=\"33282|serverAws\"></figure>"
       },
       {
         "id": "3",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33285\" alt=\"33285|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33285.png\" alt=\"33285|serverAws\"></figure>"
       },
       {
         "id": "4",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33288\" alt=\"33288|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33288.png\" alt=\"33288|serverAws\"></figure>"
       }
     ],
     "correct_answer": 0
@@ -553,7 +553,7 @@
   },
   {
     "id": 14850,
-    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"33345\" alt=\"33345|serverAws\"></figure>",
+    "question_direction": "<figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33345.png\" alt=\"33345|serverAws\"></figure>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -606,19 +606,19 @@
     "answer_option": [
       {
         "id": "1",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33291\" alt=\"33291|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33291.png\" alt=\"33291|serverAws\"></figure>"
       },
       {
         "id": "2",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33294\" alt=\"33294|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33294.png\" alt=\"33294|serverAws\"></figure>"
       },
       {
         "id": "3",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33297\" alt=\"33297|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33297.png\" alt=\"33297|serverAws\"></figure>"
       },
       {
         "id": "4",
-        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33300\" alt=\"33300|serverAws\"></figure>"
+        "value": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33300.png\" alt=\"33300|serverAws\"></figure>"
       }
     ],
     "correct_answer": 0
@@ -649,7 +649,7 @@
   },
   {
     "id": 14792,
-    "question_direction": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"33256\" alt=\"33256|serverAws\"></figure>",
+    "question_direction": "<figure class=\"image image-style-align-left\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/33256.png\" alt=\"33256|serverAws\"></figure>",
     "question_type": "radio",
     "answer_option": [
       {

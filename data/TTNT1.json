@@ -241,7 +241,7 @@
   },
   {
     "id": 6826,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><strong>Hình ảnh dưới đây mô tả điều gì?</strong></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><strong><img data-org=\"serverAws\" src=\"12527\" alt=\"12527|serverAws\"></strong></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><strong>Hình ảnh dưới đây mô tả điều gì?</strong></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><strong><img data-org=\"serverAws\" src=\"assets/serverAwsImage/12527.png\" alt=\"12527|serverAws\"></strong></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {

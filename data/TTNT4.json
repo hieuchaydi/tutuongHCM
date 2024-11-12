@@ -169,7 +169,7 @@
   },
   {
     "id": 10183,
-    "question_direction": "<p>Cho đồ thị không gian trạng thái sau:&nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22460\" alt=\"22460|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}. Giá trị g(u) tại đỉnh F là:&nbsp;</span><o:p></o:p></p>",
+    "question_direction": "<p>Cho đồ thị không gian trạng thái sau:&nbsp;</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22460.png\" alt=\"22460|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}. Giá trị g(u) tại đỉnh F là:&nbsp;</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -193,7 +193,7 @@
   },
   {
     "id": 10189,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22488\" alt=\"22488|serverAws\"></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22488.png\" alt=\"22488|serverAws\"></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -217,7 +217,7 @@
   },
   {
     "id": 10191,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22505\" alt=\"22505|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi ngắn nhất tìm được là:</span><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:&nbsp;</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22505.png\" alt=\"22505|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A. T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi ngắn nhất tìm được là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "id": 10194,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J},</span><o:p></o:p></p><p class=\"MsoNormal\"><w:sdt sdttag=\"goog_rdk_4\" id=\"-1461178466\"></w:sdt><w:sdt sdttag=\"goog_rdk_5\" id=\"572164166\"></w:sdt><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22540\" alt=\"22540|serverAws\"></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J},</span><o:p></o:p></p><p class=\"MsoNormal\"><w:sdt sdttag=\"goog_rdk_4\" id=\"-1461178466\"></w:sdt><w:sdt sdttag=\"goog_rdk_5\" id=\"572164166\"></w:sdt><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\">&nbsp;</p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22540.png\" alt=\"22540|serverAws\"></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "id": 10198,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"22568\" alt=\"22568|serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích tìm được là:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span><o:p></o:p></p><p class=\"MsoNormal\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22568.png\" alt=\"22568|serverAws\"><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">u<sub>0</sub> = A; T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích tìm được là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": 10201,
-    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất tìm được là.</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"22739\" alt=\"22739|serverAws\"></span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì đường đi ngắn nhất tìm được là.</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22739.png\" alt=\"22739|serverAws\"></span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -313,7 +313,7 @@
   },
   {
     "id": 10204,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image image-style-align-center\"><img src=\"22761\" alt=\"22761|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image image-style-align-center\"><img src=\"assets/serverAwsImage/22761.png\" alt=\"22761|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p><p class=\"MsoNormal\"><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -337,7 +337,7 @@
   },
   {
     "id": 10229,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22917\" alt=\"22917|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22917.png\" alt=\"22917|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -409,7 +409,7 @@
   },
   {
     "id": 10187,
-    "question_direction": "<p>Cho không gian trạng thái:&nbsp;</p><figure class=\"image\"><img src=\"52919\" alt=\"52919|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Với trạng thái ban đầu U<sub>0</sub> = {A}; Tập trạng thái kết thúc T = {B}</span></span><o:p></o:p></p><p class=\"MsoNormal\">Áp dụng thuật toán A*, giá trị f(G) là:&nbsp;</p>",
+    "question_direction": "<p>Cho không gian trạng thái:&nbsp;</p><figure class=\"image\"><img src=\"assets/serverAwsImage/52919.png\" alt=\"52919|serverAws\" data-org=\"serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"NO-BOK\">Với trạng thái ban đầu U<sub>0</sub> = {A}; Tập trạng thái kết thúc T = {B}</span></span><o:p></o:p></p><p class=\"MsoNormal\">Áp dụng thuật toán A*, giá trị f(G) là:&nbsp;</p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -433,7 +433,7 @@
   },
   {
     "id": 10203,
-    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22753\" alt=\"22753|serverAws\"></figure><p class=\"MsoNormal\"><o:p></o:p></p>",
+    "question_direction": "<p><span lang=\"EN-US\">Cho đồ thị không gian trạng thái, u<sub>0</sub> = A, T = {H,J}</span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì đường đi tìm được có độ dài đường đi ngắn nhất là:</span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22753.png\" alt=\"22753|serverAws\"></figure><p class=\"MsoNormal\"><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -457,7 +457,7 @@
   },
   {
     "id": 10205,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22767\" alt=\"22767|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22767.png\" alt=\"22767|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T = {H, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm nhánh cận thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -505,7 +505,7 @@
   },
   {
     "id": 10227,
-    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22907\" alt=\"22907|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh F.</span><o:p></o:p></p>",
+    "question_direction": "<p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span><o:p></o:p></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22907.png\" alt=\"22907|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh F.</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "id": 10225,
-    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22898\" alt=\"22898|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
+    "question_direction": "<p><span style=\"color:black;\"><span lang=\"EN-US\">Cho đồ thị không gian trạng thái sau:</span></span></p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22898.png\" alt=\"22898|serverAws\"></figure><p class=\"MsoNormal\"><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span></span><o:p></o:p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">Áp dụng chiến lược tìm kiếm A* thì các đỉnh được xét để tìm đường đi ngắn nhất từ </span><span style=\"color:black;\"><span lang=\"EN-US\">U<sub>0</sub></span></span><span lang=\"EN-US\"> đến đích là:</span><o:p></o:p></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -649,7 +649,7 @@
   },
   {
     "id": 10185,
-    "question_direction": "<p>Cho đồ thị không gian trạng thái</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"22470\" alt=\"22470|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span><o:p></o:p></p><p><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh K</span></p>",
+    "question_direction": "<p>Cho đồ thị không gian trạng thái</p><figure class=\"image\"><img data-org=\"serverAws\" src=\"assets/serverAwsImage/22470.png\" alt=\"22470|serverAws\"></figure><p class=\"MsoNormal\"><span lang=\"EN-US\">U<sub>0</sub>=A; T= {I, E, J}</span><o:p></o:p></p><p><span lang=\"EN-US\">Tính giá trị f(u) tại đỉnh K</span></p>",
     "question_type": "radio",
     "answer_option": [
       {
