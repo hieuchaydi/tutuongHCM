@@ -169,7 +169,7 @@
   },
   {
     "id": 14584,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh a là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-5bf5f1a3-7fff-9a85-0402-d4cbf8d962c1\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5UIeOVKVnalxn4CxkHALPis51J7mw6D7kDqhqDP7IH1BQI5MMZ16PGhwncOveHdxHcZ6j0lPZKtXMz1BRan7wnM-G9ZLE21-x99bXtlSxyVTmpMm_oD3Vaed5p0Oxgr2wXGJw8Io5dDdm5hGfg5BV3Am4roLYsbzQH9wHUg?key=ADoOAsdjObFS1owhsRc8OA\" width=\"420\" height=\"229\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh a là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-9b25cd4c-7fff-7167-b4ec-6174ca987500\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-5bf5f1a3-7fff-9a85-0402-d4cbf8d962c1\"><img src=\"assets/other/test_14584.png\" width=\"420\" height=\"229\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -217,7 +217,7 @@
   },
   {
     "id": 14590,
-    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-976bda63-7fff-3518-9cc3-d7f24e290eeb\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh f?</span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-593a1562-7fff-46a9-4cf4-c532bf91b554\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-976bda63-7fff-3518-9cc3-d7f24e290eeb\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh f?</span></span></p><p><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-593a1562-7fff-46a9-4cf4-c532bf91b554\"><img src=\"assets/other/test_14590.png\" width=\"244\" height=\"198\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "id": 14593,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><span style=\"background-color:transparent;color:#000000;\">Xét trò chơi Dodgen (được tạo ra bởi Colin Vout). Có hai quân Trắng và hai quân Đen, ban đầu được xếp vào bàn cờ 3*3 như hình vẽ</span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-59567ba7-7fff-2079-7544-f5a5fc62f804\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGJceMg-EUKp-LLNLZsLJIhnpE5KeVfsCYGBOwcGzPpVFyPIrQ_dv8ZIh7y32dBKqZdZz8hDT1p4dF9do986tCi08xBsp1UH74G0jcAM-o2EL0x0qY380Q-BOSeO02XZmuF2gw8eA9-da_tNnjxMpbplTRTCFKVt5gzjw5kPO2W_flay3m4OE?key=ADoOAsdjObFS1owhsRc8OA\"  width=\"173\" height=\"166\"></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-99617613-7fff-4065-dfd6-7a5f546c6d90\"><span style=\"background-color:transparent;color:#000000;\"><strong>Mô tả nào sau đây là đúng về trò chơi này</strong></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><span style=\"background-color:transparent;color:#000000;\">Xét trò chơi Dodgen (được tạo ra bởi Colin Vout). Có hai quân Trắng và hai quân Đen, ban đầu được xếp vào bàn cờ 3*3 như hình vẽ</span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-59567ba7-7fff-2079-7544-f5a5fc62f804\"><img src=\"assets/other/test_14593.png\"  width=\"173\" height=\"166\"></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-2095f9a2-7fff-0722-49e2-d7996a0fa48c\"><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-99617613-7fff-4065-dfd6-7a5f546c6d90\"><span style=\"background-color:transparent;color:#000000;\"><strong>Mô tả nào sau đây là đúng về trò chơi này</strong></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": 14605,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh D có giá trị bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1b1d995b-7fff-042f-e59f-3a6ea1386bf4\"><strong><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0rkSiMeJIqTqPg9WH8EIO0tZS9NwvhlGlJ3zorzLkarauA6xPw_GwYg9m74BiIHK5nRGlkZHnRTYJaexK3-kQXaUhF5ArBwXsy9lOmc4LGqNgAylGQGLjgoSEjZny_vrQPxzKFa0Tz6DkNsmqSFqes5UgRzu0lje45pHj?key=ADoOAsdjObFS1owhsRc8OA\" width=\"487\" height=\"241\"></strong></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh D có giá trị bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-4a06fce2-7fff-e469-0c14-6ed909be16ba\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-1b1d995b-7fff-042f-e59f-3a6ea1386bf4\"><strong><img src=\"assets/other/test_14605.png\" width=\"487\" height=\"241\"></strong></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -313,7 +313,7 @@
   },
   {
     "id": 14607,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh i?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e92b528f-7fff-853e-4d49-3c18aca3a257\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh i?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-f64947d4-7fff-68f1-0ca4-4a85444e3c82\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-e92b528f-7fff-853e-4d49-3c18aca3a257\"><img src=\"assets/other/test_14607.png\" width=\"244\" height=\"198\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -337,7 +337,7 @@
   },
   {
     "id": 14611,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh d?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fc16b068-7fff-5906-2eb8-7e3e642d26c0\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXctdRhQVaNv2pQISp3d38xKBWslA3pESqTUbb47dS_p1Pk-NK6lUhpt5hNqP8-a-BXTWDSzeltLXhDb7JKtmQ6S5leaSvNU6BcwbPkVjPywW_gCBKWbXujV-TLq8vwnhugJt5MaQh-FmpkKjIL1yHBrsV_MVVGWARVcXKLtzcM2LzfrL1twPqM?key=ADoOAsdjObFS1owhsRc8OA\" width=\"244\" height=\"198\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><span style=\"background-color:transparent;color:#000000;\">Xét cây trò chơi trong hình, gốc a là đỉnh Trắng. Giá trị của các đỉnh là số ghi cạnh mỗi đỉnh. Phát biểu nào sau đây là đúng về đỉnh d?&nbsp;</span></p><p dir=\"ltr\" id=\"docs-internal-guid-0b5d189a-7fff-4001-a00a-05c01a5caafe\"><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-fc16b068-7fff-5906-2eb8-7e3e642d26c0\"><img src=\"assets/other/test_14611.png\" width=\"244\" height=\"198\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "id": 14614,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh F có giá trị bao nhiêu?</span><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a61fca3e-7fff-2247-7056-cdbbc19c3619\"><strong><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfgMM0Lu-FkIOpn9DZoksmwKVeNyLHbyEvn9Bnc1oPSt0E1aRG5d3CswH-g4FU3SSE6QbUKuRiOldh8iIxSr8IYi6Vx7Xz0VecaZZ5ix3sv-uI9h5J12sl8zF5DMi7U7i06nTDVTxwpRPe0bUA3KNEaS3Jk72wwPRB4J6FGo3eB9qKjuppvUQ?key=ADoOAsdjObFS1owhsRc8OA\"  width=\"497\" height=\"239\"></strong></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\"><span style=\"background-color:transparent;color:#000000;\">Cho không gian trạng thái như hình sau, có đỉnh A là màu Trắng. Cho biết đỉnh F có giá trị bao nhiêu?</span><meta charset=\"utf-8\"><span style=\"background-color:transparent;color:#000000;\"><span id=\"docs-internal-guid-a61fca3e-7fff-2247-7056-cdbbc19c3619\"><strong><img src=\"assets/other/test_14614.png\"  width=\"497\" height=\"239\"></strong></span></span></p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p><p dir=\"ltr\" id=\"docs-internal-guid-991396d8-7fff-f30e-6a3d-7cfce913d2ff\">&nbsp;</p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -553,7 +553,7 @@
   },
   {
     "id": 14566,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><span style=\"background-color:#ffffff;color:#000000;\">Trong chiến lược cắt cụt alpha-beta. Nếu đỉnh c là Trắng thì&nbsp; khi nào ta sẽ cắt bỏ cây con gốc a trong sơ đồ sau:</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-87f24660-7fff-1384-d2a9-7c6cec52d4c2\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmJdxbl5VX6XVrFNSSIxziN43LUOwKRnyTDcZ3ZAeDOFuRduvri-_Bya420eX_nOpctvpp0axGOrbDKqNbktPfn8M7ojXKgZh54xfAvYpIeyXHVuwJmGCClh1rclNRHjbL-gE6dGaJk1NDVmQkPcXG4JkjfR4vlVCRIIWDaQ?key=ADoOAsdjObFS1owhsRc8OA\" width=\"213\" height=\"166\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><span style=\"background-color:#ffffff;color:#000000;\">Trong chiến lược cắt cụt alpha-beta. Nếu đỉnh c là Trắng thì&nbsp; khi nào ta sẽ cắt bỏ cây con gốc a trong sơ đồ sau:</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3b9157d9-7fff-f779-b982-6372570fcff2\"><meta charset=\"utf-8\"><span style=\"background-color:#ffffff;color:#000000;\"><span id=\"docs-internal-guid-87f24660-7fff-1384-d2a9-7c6cec52d4c2\"><img src=\"assets/other/test_14566.png\" width=\"213\" height=\"166\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -577,7 +577,7 @@
   },
   {
     "id": 14570,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng) giới hạn bởi độ cao h = 3. Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh v là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><meta charset=\"utf-8\"><span style=\"background-color:#ffff00;color:#000000;\"><span id=\"docs-internal-guid-d15df877-7fff-63e2-34fe-160b40837967\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSHOP62EAeu7eHdW0b10w74Fl58y-HisyJMq7lmelDpehPBrnsmbiHm9ZkMkxy5ixKUHB6jfcx-TkDxew3w3Yls5H6ih9TidefyH3d4a6Dtehw5ExyMCpnapjw2upWB2uvWEd6Boujkd1ROMcxVdA49f2pkSPf1CDb5oq-FA?key=ADoOAsdjObFS1owhsRc8OA\" width=\"429\" height=\"237\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng) giới hạn bởi độ cao h = 3. Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh v là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-dd935662-7fff-f10f-2da7-bf2c35a05b6b\"><meta charset=\"utf-8\"><span style=\"background-color:#ffff00;color:#000000;\"><span id=\"docs-internal-guid-d15df877-7fff-63e2-34fe-160b40837967\"><img src=\"assets/other/test_14570.png\" width=\"429\" height=\"237\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "id": 14575,
-    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh k là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-530989d1-7fff-4a91-8133-476fea2b0338\"><img src=\"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZbPLk1TeCYvR1thAK7oFL0e2RZtLG_L1gDQbPrPI2dIxwkLC1u5y2H1iMz46-S3SagDfkaThiS7zzhDWDTl4li_Vx_TYh2XUDgvib3gcjNoLBc9aKiT-nSWcKJAHWEsspp4LQu3p9aiuLCsHwKnuZIgOiwGWOoQ9teK5M?key=ADoOAsdjObFS1owhsRc8OA\" width=\"427\" height=\"237\"></span></span></p>",
+    "question_direction": "<p><meta charset=\"utf-8\"></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><span style=\"color:#000000;\">Xét cây trò chơi gốc u (đỉnh Trắng). Số ghi cạnh các lá là giá trị của hàm đánh giá. Áp dụng chiến lược Minimax và kỹ thuật cắt cụt, Giá trị hàm đánh giá tại đỉnh k là bao nhiêu?</span></p><p dir=\"ltr\" id=\"docs-internal-guid-3de997f5-7fff-1c0d-1c6c-d88e139a7719\"><meta charset=\"utf-8\"><span style=\"color:#000000;\"><span id=\"docs-internal-guid-530989d1-7fff-4a91-8133-476fea2b0338\"><img src=\"assets/other/test_14575.png\" width=\"427\" height=\"237\"></span></span></p>",
     "question_type": "radio",
     "answer_option": [
       {
