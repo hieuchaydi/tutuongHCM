@@ -117,7 +117,7 @@
         { "id": "3", "value": "Trí tuệ, đạo đức, nhân cách" },
         { "id": "4", "value": "Trí lực, tâm lực, thể lực." }
       ],
-      "correct_answer": "3"
+      "correct_answer": "4"
     },
     {
       "id": 11,
@@ -587,7 +587,7 @@
             { "id": "3", "value": "Năm 1930 đến năm 1945" },
             { "id": "4", "value": "Trước năm 1911" }
         ],
-        "correct_answer": 1
+        "correct_answer": 4
     },
     {
         "id": 51,
@@ -900,7 +900,7 @@
             { "id": "3", "value": "Bài ca du kích" },
             { "id": "4", "value": "Vi hành" }
         ],
-        "correct_answer": 1
+        "correct_answer": 2
     },
     {
         "id": 77,
@@ -949,7 +949,7 @@
               { "id": "3", "value": "Hồ Chí Minh tiếp thu có chọn lọc chủ nghĩa Mác- Lênin" },
               { "id": "4", "value": "Xuất phát từ nhu cầu thực tiễn Việt Nam chứ không phải từ nhu cầu tư duy" }
           ],
-          "correct_answer": 3
+          "correct_answer": 2
       },
       {
           "id": 81,
@@ -1021,7 +1021,7 @@
               { "id": "3", "value": "Cách mạng tư sản dân quyền và thổ địa cách mạng" },
               { "id": "4", "value": "Cách mạng vô sản" }
           ],
-          "correct_answer": 2
+          "correct_answer": 4
       },
       {
           "id": 87,
