@@ -336,19 +336,7 @@
       ],
       "correct_answer": 1
     },
-    {
-      "id": 30,
-      "question_direction": "Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Quan điểm cách mạng" },
-        { "id": "2", "value": "Nền tảng tư tưởng" },
-        { "id": "3", "value": "Đường lối cách mạng" },
-        { "id": "4", "value": "Đường lối chiến lược" }
-      ],
-      "correct_answer": 2
-    },
-    {
+        {
       "id": 31,
       "question_direction": "Điền từ còn thiếu vào chỗ trống: “ Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta",
       "question_type": "radio",
@@ -432,19 +420,7 @@
       ],
       "correct_answer": 4
     },
-    {
-      "id": 37,
-      "question_direction": "Điền từ thích hợp để hoàn thành luận điểm sau:“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta” (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969)",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Người anh hùng dân tộc vĩ đại" },
-          { "id": "2", "value": "Người anh hùng dân tộc" },
-          { "id": "3", "value": "Vị cha già kính yêu của dân tộc" },
-          { "id": "4", "value": "Lãnh tụ vĩ đại của dân tộc" }
-      ],
-      "correct_answer": 1
-  },
-  {
+      {
       "id": 38,
       "question_direction": "Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động”",
       "question_type": "radio",
@@ -480,18 +456,7 @@
       ],
       "correct_answer": 1
   },
-  {
-      "id": 41,
-      "question_direction": "Nội dung nào là một trong những nguyên tắc phương pháp luận trong nghiên cứu môn học tư tưởng Hồ Chí Minh?",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Quan điểm kế thừa và phát triển" },
-          { "id": "2", "value": "Quan điểm toàn diện và cụ thể" },
-          { "id": "3", "value": "Quan điểm kế thừa và toàn diện" },
-          { "id": "4", "value": "Quan điểm cách mạng và cụ thể" }
-      ],
-      "correct_answer": 2
-  },
+  
   {
       "id": 42,
       "question_direction": "Năm 1990 UNESCO đã công nhận ai là “Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất của Việt Nam”",
