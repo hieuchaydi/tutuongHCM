@@ -60,19 +60,7 @@
       ],
       "correct_answer": 4
     },
-    {
-      "id": 6,
-      "question_direction": "Nội dung nào là một trong những nguyên tắc phương pháp luận trong nghiên cứu môn học tư tưởng Hồ Chí Minh?",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Quan điểm lịch sử thế giới" },
-        { "id": "2", "value": "Quan điểm lịch sử" },
-        { "id": "3", "value": "Quan điểm lịch sử Việt Nam" },
-        { "id": "4", "value": "Quan điểm lịch sử - cụ thể" }
-      ],
-      "correct_answer": 4
-    },
-    {
+     {
       "id": 7,
       "question_direction": "Điền từ còn thiếu vào chỗ trống để hoàn thành luận điểm sau được nêu trong Đại hội II của Đảng Cộng sản Việt Nam (2-1951): 'Đường lối chính trị, nền nếp làm việc và …….. của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch. Toàn Đảng hãy ra sức học tập đường lối chính trị, tác phong và ………. của Hồ Chủ tịch; sự học tập ấy, là điều kiện tiên quyết làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn'.",
       "question_type": "radio",
@@ -564,19 +552,7 @@
       ],
       "correct_answer": 1
   },
-  {
-      "id": 47,
-      "question_direction": "Công nhân Việt Nam cuối thế kỷ XIX đầu thế kỷ XX chịu những tầng áp bức bóc lột nào?",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Thực dân" },
-          { "id": "2", "value": "Tư bản" },
-          { "id": "3", "value": "Phong kiến" },
-          { "id": "4", "value": "Thực dân, tư bản, phong kiến" }
-      ],
-      "correct_answer": 4
-  },
-  {
+    {
       "id": 48,
       "question_direction": "Lựa chọn đáp án đúng nhất, theo quan điểm của Hồ Chí Minh “Chỉ có ...... là dũng cảm nhất, cách mạng nhất, luôn luôn gan góc đương đầu với bọn đế quốc thực dân”",
       "question_type": "radio",
@@ -587,20 +563,6 @@
           { "id": "4", "value": "Giai cấp công nhân" }
       ],
       "correct_answer": 4
-  },
-  {
-      "id": 49,
-      "question_direction": "Bối cảnh lịch sử thế giới cuối thế kỷ XIX đầu thế kỷ XX dẫn đến sự hình thành tư tưởng Hồ Chí Minh? Chọn đáp án sai?",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Sự phát triển của chủ nghĩa tư bản từ thời kỳ tự do cạnh tranh chuyển sang thời kỳ độc quyền đế quốc" },
-          { "id": "2", "value": "Sự thắng lợi của Cách mạng Tháng Mười Nga" },
-          { "id": "3", "value": "Sự thắng lợi của Cách mạng Tân Hợi 1911" },
-          { "id": "4", "value": "Sự ra đời của chủ nghĩa Mác" }
-      ],
-      "correct_answer": 4
-  }
-   
-   
+  }   
    
   ]
