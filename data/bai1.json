@@ -193,18 +193,6 @@
       "correct_answer": 3
     },
     {
-      "id": 18,
-      "question_direction": "Điền từ thích hợp để hoàn thành luận điểm sau: 'Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta' (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969).",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Vị cha già kính yêu của dân tộc" },
-        { "id": "2", "value": "Người anh hùng dân tộc vĩ đại" },
-        { "id": "3", "value": "Người anh hùng dân tộc" },
-        { "id": "4", "value": "Lãnh tụ vĩ đại của dân tộc" }
-      ],
-      "correct_answer": 2
-    },
-    {
       "id": 19,
       "question_direction": "Yếu tố cơ bản nào của thời đại chi phối và quyết định sự hình thành tư tưởng Hồ Chí Minh?",
       "question_type": "radio",
