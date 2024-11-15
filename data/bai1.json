@@ -397,18 +397,7 @@
       ],
       "correct_answer": 4
     },
-      {
-      "id": 38,
-      "question_direction": "Điền từ còn thiếu vào chỗ trống: “Đảng lấy chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh làm………, kim chỉ nam cho mọi hành động”",
-      "question_type": "radio",
-      "answer_option": [
-          { "id": "1", "value": "Quan điểm cách mạng" },
-          { "id": "2", "value": "Nền tảng tư tưởng" },
-          { "id": "3", "value": "Đường lối cách mạng" },
-          { "id": "4", "value": "Đường lối chiến lược" }
-      ],
-      "correct_answer": 2
-  },
+     
   {
       "id": 39,
       "question_direction": "Điền từ còn thiếu vào chỗ trống: “Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta”",
