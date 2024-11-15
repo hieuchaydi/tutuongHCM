@@ -312,18 +312,7 @@
       ],
       "correct_answer": 1
     },
-    {
-      "id": 29,
-      "question_direction": "Điền từ thích hợp để hoàn thành luận điểm sau:“Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, ……………., và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta” (Trích trong Điếu văn của Ban Chấp hành Trung ương Đảng trong đám tang Chủ tịch Hồ Chí Minh năm 1969",
-      "question_type": "radio",
-      "answer_option": [
-        { "id": "1", "value": "Người anh hùng dân tộc vĩ đại" },
-        { "id": "2", "value": "Người anh hùng dân tộc" },
-        { "id": "3", "value": "Vị cha già kính yêu của dân tộc" },
-        { "id": "4", "value": "Lãnh tụ vĩ đại của dân tộc" }
-      ],
-      "correct_answer": 1
-    },
+    
         {
       "id": 31,
       "question_direction": "Điền từ còn thiếu vào chỗ trống: “ Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra……., người anh hùng dân tộc vĩ đại, và chính người đã làm rạng rỡ dân tộc ta, nhân dân ta, non sông đất nước ta",
