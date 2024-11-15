@@ -468,18 +468,7 @@
           ],
           "correct_answer": 1
       },
-      {
-          "id": 40,
-          "question_direction": "Chủ tịch Hồ Chí Minh đã ảnh hưởng những tinh hoa văn hoá phương Đông nào?",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Lão giáo" },
-              { "id": "2", "value": "Nho giáo, Phật Giáo, Lão giáo" },
-              { "id": "3", "value": "Phật giáo" },
-              { "id": "4", "value": "Nho giáo" }
-          ],
-          "correct_answer": 2
-      },
+      
       {
           "id": 41,
           "question_direction": "Giai đoạn: Vượt qua thử thách, kiên trì con đường đã xác định, tiến tới giành thắng lợi đầu tiên cho cách mạng Việt Nam, là thời gian nào?",
