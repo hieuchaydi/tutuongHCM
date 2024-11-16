@@ -129,7 +129,7 @@
         { "id": "3", "value": "Có tri thức" },
         { "id": "4", "value": "Phục vụ nhân dân." }
       ],
-      "correct_answer": "4"
+      "correct_answer": "1"
     },
     {
       "id": 12,
@@ -165,7 +165,7 @@
         { "id": "3", "value": "Đạo đức, tinh thần, nhân văn" },
         { "id": "4", "value": "Vật chất, khoa học, chính trị." }
       ],
-      "correct_answer": "3"
+      "correct_answer": "2"
     },
     {
       "id": 15,
