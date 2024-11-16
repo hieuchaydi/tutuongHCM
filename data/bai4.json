@@ -429,7 +429,7 @@
           { "id": "3", "value": "Phát triển chủ nghĩa Mác-Lênin" },
           { "id": "4", "value": "Phải đề ra đường lối, chủ trương đúng đắn" }
         ],
-        "correct_answer": 2
+        "correct_answer": 4
       },
       {
         "id": 37,
@@ -465,7 +465,7 @@
           { "id": "3", "value": "Chủ nghĩa Mác-Lênin" },
           { "id": "4", "value": "Nâng cao trình độ" }
         ],
-        "correct_answer": 1
+        "correct_answer": 4
       },
       {
         "id": 40,
@@ -525,7 +525,7 @@
           { "id": "3", "value": "Người đứng đầu các cơ quan phải chịu trách nhiệm" },
           { "id": "4", "value": "Có sự tham gia của các giai cấp công nhân" }
         ],
-        "correct_answer": 3
+        "correct_answer": 2
       },
       {
         "id": 45,
