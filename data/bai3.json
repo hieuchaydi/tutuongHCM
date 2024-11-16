@@ -141,7 +141,7 @@
         { "id": "3", "value": "Vật chất và tinh thần" },
         { "id": "4", "value": "Kinh tế và văn hóa" }
       ],
-      "correct_answer": 4
+      "correct_answer": 1
     },
     {
       "id": 13,
@@ -466,7 +466,7 @@
           { "id": "3", "value": "Quần chúng nhân dân là chủ thể sáng tạo ra lịch sử" },
           { "id": "4", "value": "Cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người" }
         ],
-        "correct_answer": 4
+        "correct_answer": 2
       },
       {
         "id": 40,
@@ -478,7 +478,7 @@
           { "id": "3", "value": "Nội lực và ngoại lực" },
           { "id": "4", "value": "Lợi ích của dân và dân chủ của dân" }
         ],
-        "correct_answer": 3
+        "correct_answer": 4
       },
       {
         "id": 41,
@@ -634,7 +634,7 @@
           { "id": "3", "value": "Tính chất của Đảng" },
           { "id": "4", "value": "Vai trò của Đảng" }
         ],
-        "correct_answer": 2
+        "correct_answer": 4
       },
       {
         "id": 54,
