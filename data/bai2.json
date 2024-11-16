@@ -457,19 +457,6 @@
           "correct_answer": 3
       },
       {
-          "id": 39,
-          "question_direction": "Giá trị truyền thống dân tộc cơ bản nào hình thành nên tư tưởng Hồ Chí Minh?",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Lòng yêu nước của dân tộc Việt Nam" },
-              { "id": "2", "value": "Tinh thần ham học hỏi" },
-              { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
-              { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
-          ],
-          "correct_answer": 1
-      },
-      
-      {
           "id": 41,
           "question_direction": "Giai đoạn: Vượt qua thử thách, kiên trì con đường đã xác định, tiến tới giành thắng lợi đầu tiên cho cách mạng Việt Nam, là thời gian nào?",
           "question_type": "radio",
