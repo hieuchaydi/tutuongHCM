@@ -297,7 +297,7 @@
             { "id": "3", "value": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" },
             { "id": "4", "value": "Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam" }
         ],
-        "correct_answer": 3
+        "correct_answer": "3"
     },
     {
         "id": 26,
@@ -309,7 +309,7 @@
             { "id": "3", "value": "Hồ Chí Minh tiếp thu có chọn lọc chủ nghĩa Mác- Lênin" },
             { "id": "4", "value": "Xuất phát từ nhu cầu thực tiễn Việt Nam chứ không phải từ nhu cầu tư duy" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 27,
@@ -321,7 +321,7 @@
             { "id": "3", "value": "Đòi quyền tự do tôn giáo cho người bản xứ" },
             { "id": "4", "value": "Đòi quyền độc lập dân tộc" }
         ],
-        "correct_answer": 1
+        "correct_answer": "2"
     },
     {
         "id": 28,
@@ -333,7 +333,7 @@
             { "id": "3", "value": "Tất cả các nghề trên" },
             { "id": "4", "value": "Quét tuyết" }
         ],
-        "correct_answer": 3
+        "correct_answer": "3"
     },
     {
         "id": 29,
@@ -345,7 +345,7 @@
             { "id": "3", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" },
             { "id": "4", "value": "Lý luận về Đảng Cộng sản" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 30,
@@ -357,7 +357,7 @@
             { "id": "3", "value": "Tư tưởng pháp trị của Pháp gia" },
             { "id": "4", "value": "Lòng nhân ái của chúa Giê xu" }
         ],
-        "correct_answer": 2
+        "correct_answer": "22"
     },
     {
         "id": 31,
@@ -369,7 +369,7 @@
             { "id": "3", "value": "Thực dân, tư bản, phong kiến" },
             { "id": "4", "value": "Thực dân" }
         ],
-        "correct_answer": 3
+        "correct_answer": "3"
     },
     {
         "id": 32,
@@ -381,7 +381,7 @@
             { "id": "3", "value": "Cách mạng tư sản dân quyền và thổ địa cách mạng" },
             { "id": "4", "value": "Cách mạng vô sản" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 33,
@@ -393,7 +393,7 @@
             { "id": "3", "value": "Thời kỳ 1930 - 1941" },
             { "id": "4", "value": "Thời kỳ trước năm 1911" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 34,
@@ -405,21 +405,10 @@
             { "id": "3", "value": "Năm 1930" },
             { "id": "4", "value": "Năm 1927" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     
-      {
-          "id": 35,
-          "question_direction": "Nguyễn Ái Quốc viết \"Bản án chế độ thực dân Pháp\" được xuất bản vào thời gian nào?",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Năm 1925" },
-              { "id": "2", "value": "Năm 1920" },
-              { "id": "3", "value": "Năm 1930" },
-              { "id": "4", "value": "Năm 1927" }
-          ],
-          "correct_answer": 1
-      },
+      
       {
           "id": 36,
           "question_direction": "Tư tưởng Hồ Chí Minh về tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta hình thành trong thời gian nào?",
@@ -430,7 +419,7 @@
               { "id": "3", "value": "Giai đoạn cuối năm 1920 đến đầu năm 1930" },
               { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
           "id": 37,
@@ -442,7 +431,7 @@
               { "id": "3", "value": "Thời kỳ 1911-1920" },
               { "id": "4", "value": "Thời kỳ 1920-1930" }
           ],
-          "correct_answer": 3
+          "correct_answer": "4"
       },
       {
           "id": 38,
@@ -454,7 +443,7 @@
               { "id": "3", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta" },
               { "id": "4", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" }
           ],
-          "correct_answer": 3
+          "correct_answer": "3"
       },
       {
           "id": 41,
@@ -466,7 +455,7 @@
               { "id": "3", "value": "Từ 1945 đến 1969" },
               { "id": "4", "value": "Từ 1911 đến 1920" }
           ],
-          "correct_answer": 1
+          "correct_answer": "1"
       },
       {
           "id": 42,
@@ -478,7 +467,7 @@
               { "id": "3", "value": "Phật giáo và Nho giáo" },
               { "id": "4", "value": "Các tác phẩm của các nhà Khai sáng" }
           ],
-          "correct_answer": 1
+          "correct_answer": "1"
       },
       {
           "id": 43,
@@ -490,7 +479,7 @@
               { "id": "3", "value": "Tinh thần cần cù, dũng cảm" },
               { "id": "4", "value": "Niềm tự hào dân tộc" }
           ],
-          "correct_answer": 1
+          "correct_answer": "1"
       },
       {
           "id": 44,
@@ -502,7 +491,7 @@
               { "id": "3", "value": "Tư tưởng về xây dựng Nhà nước Pháp quyền của nhân dân, do nhân dân và vì nhân dân." },
               { "id": "4", "value": "Tư tưởng về xây dựng một xã hội lý tưởng, không có chiến tranh, các dân tộc có mối quan hệ hữu nghị và hợp tác" }
           ],
-          "correct_answer": 3
+          "correct_answer": "1"
       },
       {
           "id": 45,
@@ -514,7 +503,7 @@
               { "id": "3", "value": "Tinh hoa văn hoá nhân loại" },
               { "id": "4", "value": "Cả 3 phương án trên" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
         "id": 46,
@@ -526,7 +515,7 @@
             { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
             { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 47,
@@ -538,7 +527,7 @@
             { "id": "3", "value": "Học lý luận của Mác về đấu tranh giai cấp thì mình cũng nêu ra khẩu hiệu giai cấp tranh đấu." },
             { "id": "4", "value": "Học chủ nghĩa Mác là học tập cái tinh thần xử trí mọi việc, đối với mọi người và đối với bản thân mình." }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 48,
@@ -550,7 +539,7 @@
             { "id": "3", "value": "Lòng nhân ái, đức hy sinh của Hồi giáo" },
             { "id": "4", "value": "Các giá trị văn hoá tiến bộ của thời kỳ Phục hưng" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 49,
@@ -562,7 +551,7 @@
             { "id": "3", "value": "Giai đoạn từ giữa năm 1911 đến cuối năm 1920" },
             { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 50,
@@ -574,7 +563,7 @@
             { "id": "3", "value": "Năm 1930 đến năm 1945" },
             { "id": "4", "value": "Trước năm 1911" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 51,
@@ -586,7 +575,7 @@
             { "id": "3", "value": "Bị bệnh hiểm nghèo" },
             { "id": "4", "value": "Quan điểm 'tả khuynh' của Quốc tế Cộng sản thời kỳ đó" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 52,
@@ -598,7 +587,7 @@
             { "id": "3", "value": "Tiếp tục cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam" },
             { "id": "4", "value": "Xây dựng chủ nghĩa xã hội ở miền Bắc" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 53,
@@ -610,7 +599,7 @@
             { "id": "3", "value": "Hình thành tư tưởng giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản" },
             { "id": "4", "value": "Vượt qua thử thách, giữ vững đường lối, phương pháp cách mạng Việt Nam đúng đắn, sáng tạo" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 54,
@@ -622,7 +611,7 @@
             { "id": "3", "value": "Lão giáo" },
             { "id": "4", "value": "Chủ nghĩa Mác – Lênin" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 55,
@@ -634,7 +623,7 @@
             { "id": "3", "value": "Lòng nhân ái, đức hy sinh của Hồi giáo" },
             { "id": "4", "value": "Chủ nghĩa yêu nước Việt Nam" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 56,
@@ -646,7 +635,7 @@
             { "id": "3", "value": "Tham gia sáng lập Đảng Cộng sản Pháp" },
             { "id": "4", "value": "Gửi Yêu sách của nhân dân An Nam tới Hội nghị Vécxây (18-6-1919)" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
       "id": 57,
@@ -658,7 +647,7 @@
           { "id": "3", "value": "Lý luận về cách mạng giải phóng dân tộc" },
           { "id": "4", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" }
       ],
-      "correct_answer": 3
+      "correct_answer": "3"
   },
   {
       "id": 58,
@@ -670,7 +659,7 @@
           { "id": "3", "value": "Phật giáo" },
           { "id": "4", "value": "Mao Trạch Đông" }
       ],
-      "correct_answer": 3
+      "correct_answer": "3"
   },
   {
       "id": 59,
@@ -682,7 +671,7 @@
           { "id": "3", "value": "6" },
           { "id": "4", "value": "4" }
       ],
-      "correct_answer": 2
+      "correct_answer": "2"
   },
   {
       "id": 60,
@@ -694,7 +683,7 @@
           { "id": "3", "value": "Lênin" },
           { "id": "4", "value": "Mã Khắc Tư" }
       ],
-      "correct_answer": 3
+      "correct_answer": "3"
   },
   {
       "id": 61,
@@ -706,7 +695,7 @@
           { "id": "3", "value": "Tư tưởng nhân nghĩa" },
           { "id": "4", "value": "Triết lý tu thân dưỡng tính, đề cao giá trị đạo đức" }
       ],
-      "correct_answer": 2
+      "correct_answer": "2"
   },
   {
       "id": 62,
@@ -718,7 +707,7 @@
           { "id": "3", "value": "Tư tưởng của Tôn Trung Sơn" },
           { "id": "4", "value": "Lão giáo" }
       ],
-      "correct_answer": 1
+      "correct_answer": "1"
   },
   {
       "id": 63,
@@ -730,7 +719,7 @@
           { "id": "3", "value": "Lòng nhân ái của chúa Giê xu" },
           { "id": "4", "value": "Nền văn hoá dân chủ và cách mạng phương Tây" }
       ],
-      "correct_answer": 4
+      "correct_answer": "4"
   },
   {
       "id": 64,
@@ -742,7 +731,7 @@
           { "id": "3", "value": "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa" },
           { "id": "4", "value": "Sơ thảo lần thứ nhất Luận cương của Lênin về các vấn đề dân tộc" }
       ],
-      "correct_answer": 3
+      "correct_answer": "3"
   },
   {
       "id": 65,
@@ -754,7 +743,7 @@
           { "id": "3", "value": "7/1917" },
           { "id": "4", "value": "7/1920" }
       ],
-      "correct_answer": 4
+      "correct_answer": "4"
   },
   {
       "id": 66,
@@ -766,7 +755,7 @@
           { "id": "3", "value": "Tư tưởng của Lão giáo" },
           { "id": "4", "value": "Tư tưởng của Nho giáo" }
       ],
-      "correct_answer": 2
+      "correct_answer": "2"
   },
   {
       "id": 67,
@@ -778,7 +767,7 @@
           { "id": "3", "value": "Cụ Hoàng Thị Loan - Thân mẫu Bác Hồ" },
           { "id": "4", "value": "Cụ Hoàng Thị An - Dì ruột Bác Hồ" }
       ],
-      "correct_answer": 3
+      "correct_answer": "3"
   },
   
     {
@@ -791,7 +780,7 @@
             { "id": "3", "value": "Truyền thống cần cù, chịu thương chịu khó" },
             { "id": "4", "value": "Truyền thống uống nước nhớ nguồn" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 69,
@@ -803,7 +792,7 @@
             { "id": "3", "value": "Phật giáo" },
             { "id": "4", "value": "Nho giáo" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 70,
@@ -815,7 +804,7 @@
             { "id": "3", "value": "Từ 1945 đến 1969" },
             { "id": "4", "value": "Từ 1911 đến 1920" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 71,
@@ -827,7 +816,7 @@
             { "id": "3", "value": "Phật giáo và Nho giáo" },
             { "id": "4", "value": "Các tác phẩm của các nhà Khai sảng" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 72,
@@ -839,7 +828,7 @@
             { "id": "3", "value": "Tinh thần cần cù, dũng cảm" },
             { "id": "4", "value": "Niềm tự hào dân tộc" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 73,
@@ -851,7 +840,7 @@
             { "id": "3", "value": "Tư tưởng về xây dựng Nhà nước Pháp quyền của nhân dân, do nhân dân và vì nhân dân." },
             { "id": "4", "value": "Tư tưởng về xây dựng một xã hội lý tưởng, không có chiến tranh, các dân tộc có mối quan hệ hữu nghị và hợp tác." }
         ],
-        "correct_answer": 3
+        "correct_answer": "3"
     },
     {
         "id": 74,
@@ -863,7 +852,7 @@
             { "id": "3", "value": "Tinh hoa văn hoá nhân loại" },
             { "id": "4", "value": "Cả 3 phương án trên" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 75,
@@ -875,7 +864,7 @@
             { "id": "3", "value": "Góp phần tích cực vào lý luận về Đảng Cộng sản" },
             { "id": "4", "value": "Góp phần tích cực vào cuộc đấu tranh vì độc lập dân tộc, dân chủ, hòa bình, hợp tác" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     {
         "id": 76,
@@ -887,7 +876,7 @@
             { "id": "3", "value": "Bài ca du kích" },
             { "id": "4", "value": "Vi hành" }
         ],
-        "correct_answer": 2
+        "correct_answer": "2"
     },
     {
         "id": 77,
@@ -899,7 +888,7 @@
             { "id": "3", "value": "Năm 1930 đến năm 1945" },
             { "id": "4", "value": "Trước năm 1911" }
         ],
-        "correct_answer": 1
+        "correct_answer": "1"
     },
     {
         "id": 78,
@@ -911,7 +900,7 @@
             { "id": "3", "value": "Tư tưởng của Phật giáo" },
             { "id": "4", "value": "Tư tưởng của Đạo giáo" }
         ],
-        "correct_answer": 4
+        "correct_answer": "4"
     },
     
       {
@@ -924,7 +913,7 @@
               { "id": "3", "value": "Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện, soi đường cho sự nghiệp cách mạng của Đảng và nhân dân ta" },
               { "id": "4", "value": "Hình thành những nội dung cơ bản tư tưởng về cách mạng Việt Nam" }
           ],
-          "correct_answer": 3
+          "correct_answer": "3"
       },
       {
           "id": 80,
@@ -936,7 +925,7 @@
               { "id": "3", "value": "Hồ Chí Minh tiếp thu có chọn lọc chủ nghĩa Mác- Lênin" },
               { "id": "4", "value": "Xuất phát từ nhu cầu thực tiễn Việt Nam chứ không phải từ nhu cầu tư duy" }
           ],
-          "correct_answer": 2
+          "correct_answer": "2"
       },
       {
           "id": 81,
@@ -948,7 +937,7 @@
               { "id": "3", "value": "Đòi quyền tự do tôn giáo cho người bản xứ" },
               { "id": "4", "value": "Đòi quyền độc lập dân tộc" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
           "id": 82,
@@ -960,7 +949,7 @@
               { "id": "3", "value": "Tất cả các nghề trên" },
               { "id": "4", "value": "Quét tuyết" }
           ],
-          "correct_answer": 3
+          "correct_answer": "3"
       },
       {
           "id": 83,
@@ -972,7 +961,7 @@
               { "id": "3", "value": "Lý luận về con đường đi lên xây dựng chủ nghĩa xã hội ở Việt Nam" },
               { "id": "4", "value": "Lý luận về Đảng Cộng sản" }
           ],
-          "correct_answer": 2
+          "correct_answer": "2"
       },
       {
           "id": 84,
@@ -984,7 +973,7 @@
               { "id": "3", "value": "Tư tưởng pháp trị của Pháp gia" },
               { "id": "4", "value": "Lòng nhân ái của chúa Giê xu" }
           ],
-          "correct_answer": 2
+          "correct_answer": "2"
       },
       {
           "id": 85,
@@ -996,7 +985,7 @@
               { "id": "3", "value": "Thực dân, tư bản, phong kiến" },
               { "id": "4", "value": "Thực dân" }
           ],
-          "correct_answer": 3
+          "correct_answer": "3"
       },
       {
           "id": 86,
@@ -1008,7 +997,7 @@
               { "id": "3", "value": "Cách mạng tư sản dân quyền và thổ địa cách mạng" },
               { "id": "4", "value": "Cách mạng vô sản" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       
       {
@@ -1021,7 +1010,7 @@
               { "id": "3", "value": "Năm 1930" },
               { "id": "4", "value": "Năm 1927" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
           "id": 89,
@@ -1033,7 +1022,7 @@
               { "id": "3", "value": "Giai đoạn cuối năm 1920 đến đầu năm 1930" },
               { "id": "4", "value": "Giai đoạn đầu năm 1941 đến 1969" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
           "id": 90,
@@ -1045,7 +1034,7 @@
               { "id": "3", "value": "Thời kỳ 1911-1920" },
               { "id": "4", "value": "Thời kỳ 1920-1930" }
           ],
-          "correct_answer": 4
+          "correct_answer": "4"
       },
       {
           "id": 91,
@@ -1057,7 +1046,7 @@
               { "id": "3", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta" },
               { "id": "4", "value": "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta" }
           ],
-          "correct_answer": 3
+          "correct_answer": "3"
       } 
 ]
     
