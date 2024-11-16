@@ -1,6 +1,7 @@
 let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
+let timerInterval; // Biến để quản lý bộ đếm thời gian
 
 // Start individual exam from a specific JSON file
 function startExam(file) {
@@ -12,32 +13,31 @@ function startExam(file) {
     fetch(file)
         .then(response => response.json())
         .then(data => {
-            const randomQuestions = getRandomQuestions(data, 10); // Lấy ngẫu nhiên 10 câu hỏi
+            const randomQuestions = getRandomQuestions(data, 10);
             displayQuestions(randomQuestions);
+            startTimer(15 * 60); // 15 phút
             isExamInProgress = true;
-            document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
         })
         .catch(error => console.error("Lỗi khi tải file JSON:", error));
 }
 
-// Start final exam with 50 random questions from all JSON files
+// Start final exam with 40 random questions from all JSON files
 function startExamForAll() {
     if (isExamInProgress) {
         alert("Bạn phải nộp bài hiện tại trước khi bắt đầu bài mới.");
         return;
     }
 
-    const files = ['data/bai1.json', 'data/bai2.json', 'data/bai3.json', 'data/bai4.json', 'data/bai5.json', 'data/bai6.json'];
+    const files = ['data/bai1.json', 'data/bai2.json', 'data/bai3.json'];
     const questions = [];
 
-    // Fetch data from all files and combine into one array
     Promise.all(files.map(file => fetch(file).then(response => response.json())))
         .then(results => {
-            results.forEach(result => questions.push(...result)); // Gộp tất cả câu hỏi vào một mảng
-            const randomQuestions = getRandomQuestions(questions, 50); // Lấy 50 câu hỏi ngẫu nhiên
-            displayQuestions(randomQuestions); // Hiển thị câu hỏi
+            results.forEach(result => questions.push(...result));
+            const randomQuestions = getRandomQuestions(questions, 40); // Lấy 40 câu hỏi
+            displayQuestions(randomQuestions);
+            startTimer(45 * 60); // 45 phút
             isExamInProgress = true;
-            document.getElementById("submit-btn").style.display = "block"; // Hiển thị nút nộp bài
         })
         .catch(error => console.error("Lỗi khi tải file JSON:", error));
 }
@@ -51,36 +51,90 @@ function getRandomQuestions(questions, count) {
 // Display questions on the page
 function displayQuestions(questions) {
     const questionsContainer = document.getElementById("questions");
-    questionsContainer.innerHTML = ""; // Clear old content
+    questionsContainer.innerHTML = "";
 
     questions.forEach((question, index) => {
         const questionDiv = document.createElement("div");
         questionDiv.classList.add("question");
-        questionDiv.dataset.correctAnswer = question.correct_answer; // Store correct answer
+        questionDiv.dataset.correctAnswer = question.correct_answer;
 
-        // Display question text
         const questionText = document.createElement("p");
         questionText.textContent = `${index + 1}. ${question.question_direction}`;
         questionDiv.appendChild(questionText);
 
-        // Display answer options
+        const optionsContainer = document.createElement("div");
+        optionsContainer.classList.add("options");
+
         question.answer_option.forEach(option => {
             const label = document.createElement("label");
+            label.classList.add("option-label");
+
             const input = document.createElement("input");
             input.type = "radio";
-            input.name = `question${question.id}`;
+            input.name = `question${index}`;
             input.value = option.id;
+
+            input.addEventListener("change", enableSubmitEarly);
+
             label.appendChild(input);
             label.appendChild(document.createTextNode(option.value));
-            questionDiv.appendChild(label);
+            optionsContainer.appendChild(label);
         });
 
+        questionDiv.appendChild(optionsContainer);
         questionsContainer.appendChild(questionDiv);
     });
 }
 
+// Start the timer
+function startTimer(duration) {
+    const timerElement = document.getElementById("timer");
+    let remainingTime = duration;
+
+    clearInterval(timerInterval);
+    timerInterval = setInterval(() => {
+        const minutes = Math.floor(remainingTime / 60);
+        const seconds = remainingTime % 60;
+        timerElement.textContent = `Thời gian còn lại: ${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+        if (remainingTime <= 0) {
+            clearInterval(timerInterval);
+            alert("Hết giờ! Hệ thống sẽ tự động nộp bài.");
+            submitExam();
+        }
+
+        remainingTime--;
+    }, 1000);
+}
+
+// Enable early submission
+function enableSubmitEarly() {
+    const questions = document.querySelectorAll('.question');
+    let allAnswered = true;
+
+    questions.forEach(questionDiv => {
+        const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
+        if (!selectedOption) {
+            allAnswered = false;
+        }
+    });
+
+    const earlySubmitInfo = document.getElementById("early-submit-info");
+    const submitBtn = document.getElementById("submit-btn");
+
+    if (allAnswered) {
+        earlySubmitInfo.style.display = "block";
+        submitBtn.style.display = "block";
+    } else {
+        earlySubmitInfo.style.display = "none";
+        submitBtn.style.display = "none";
+    }
+}
+
 // Submit exam and display results
 function submitExam() {
+    clearInterval(timerInterval);
+
     const questionsContainer = document.getElementById("questions");
     const resultContainer = document.getElementById("result");
     const scoreElement = document.getElementById("score");
@@ -88,7 +142,6 @@ function submitExam() {
     correctAnswers = 0;
     userAnswers = [];
 
-    // Check user answers
     const questions = document.querySelectorAll('.question');
     questions.forEach((questionDiv, index) => {
         const question = questionDiv.querySelector('p').textContent;
@@ -103,7 +156,8 @@ function submitExam() {
 
             userAnswers.push({ question, userAnswer: userAnswerText, correctAnswer: correctOption });
 
-            if (userAnswer === correctAnswer) {
+            // Compare as strings to support both int and string
+            if (userAnswer.toString() === correctAnswer.toString()) {
                 correctAnswers++;
             }
         } else {
@@ -112,15 +166,14 @@ function submitExam() {
         }
     });
 
-    // Display results
     const totalQuestions = questions.length;
-    const score = ((correctAnswers / totalQuestions) * 10).toFixed(2); // Score out of 10
+    const score = ((correctAnswers / totalQuestions) * 10).toFixed(2);
 
     questionsContainer.innerHTML = "<h2>Kết quả bài kiểm tra</h2>";
     userAnswers.forEach((answer, index) => {
         const answerDiv = document.createElement('div');
         answerDiv.classList.add(answer.userAnswer === answer.correctAnswer ? 'correct' : 'incorrect');
-        answerDiv.innerHTML = ` 
+        answerDiv.innerHTML = `
             <p><strong>Câu ${index + 1}:</strong> ${answer.question}</p>
             <p><strong>Đáp án bạn chọn:</strong> ${answer.userAnswer}</p>
             <p><strong>Đáp án đúng:</strong> ${answer.correctAnswer}</p>
