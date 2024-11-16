@@ -1,7 +1,7 @@
 let isExamInProgress = false;
 let userAnswers = [];
 let correctAnswers = 0;
-let timerInterval; // Biến để quản lý bộ đếm thời gian
+let timerInterval;
 
 // Start individual exam from a specific JSON file
 function startExam(file) {
@@ -74,7 +74,7 @@ function displayQuestions(questions) {
             input.name = `question${index}`;
             input.value = option.id;
 
-            input.addEventListener("change", enableSubmitEarly);
+            input.addEventListener("change", enableSubmitOnlyIfAllAnswered);
 
             label.appendChild(input);
             label.appendChild(document.createTextNode(option.value));
@@ -84,6 +84,8 @@ function displayQuestions(questions) {
         questionDiv.appendChild(optionsContainer);
         questionsContainer.appendChild(questionDiv);
     });
+
+    enableSubmitOnlyIfAllAnswered(); // Kiểm tra trạng thái nộp bài
 }
 
 // Start the timer
@@ -107,8 +109,8 @@ function startTimer(duration) {
     }, 1000);
 }
 
-// Enable early submission
-function enableSubmitEarly() {
+// Enable submission only if all questions are answered
+function enableSubmitOnlyIfAllAnswered() {
     const questions = document.querySelectorAll('.question');
     let allAnswered = true;
 
@@ -116,23 +118,36 @@ function enableSubmitEarly() {
         const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
         if (!selectedOption) {
             allAnswered = false;
+            questionDiv.style.border = "2px solid red"; // Viền đỏ cho câu chưa trả lời
+        } else {
+            questionDiv.style.border = "2px solid green"; // Viền xanh cho câu đã trả lời
         }
     });
 
-    const earlySubmitInfo = document.getElementById("early-submit-info");
     const submitBtn = document.getElementById("submit-btn");
+    const submitMessage = document.getElementById("submit-message");
 
     if (allAnswered) {
-        earlySubmitInfo.style.display = "block";
         submitBtn.style.display = "block";
+        submitMessage.style.display = "none"; // Ẩn thông báo
     } else {
-        earlySubmitInfo.style.display = "none";
         submitBtn.style.display = "none";
+        submitMessage.style.display = "block"; // Hiển thị thông báo cần hoàn thành
     }
 }
 
 // Submit exam and display results
 function submitExam() {
+    const questions = document.querySelectorAll('.question');
+
+    const unanswered = Array.from(questions)
+        .filter(questionDiv => !questionDiv.querySelector('input[type="radio"]:checked'));
+
+    if (unanswered.length > 0) {
+        alert("Bạn cần trả lời tất cả các câu hỏi trước khi nộp bài.");
+        return;
+    }
+
     clearInterval(timerInterval);
 
     const questionsContainer = document.getElementById("questions");
@@ -142,27 +157,18 @@ function submitExam() {
     correctAnswers = 0;
     userAnswers = [];
 
-    const questions = document.querySelectorAll('.question');
     questions.forEach((questionDiv, index) => {
         const question = questionDiv.querySelector('p').textContent;
         const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
         const correctAnswer = questionDiv.dataset.correctAnswer;
 
-        let userAnswerText = "Chưa chọn";
-        if (selectedOption) {
-            const userAnswer = selectedOption.value;
-            const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
-            userAnswerText = selectedOption.nextSibling.textContent;
+        const userAnswerText = selectedOption.nextSibling.textContent;
+        const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
 
-            userAnswers.push({ question, userAnswer: userAnswerText, correctAnswer: correctOption });
+        userAnswers.push({ question, userAnswer: userAnswerText, correctAnswer: correctOption });
 
-            // Compare as strings to support both int and string
-            if (userAnswer.toString() === correctAnswer.toString()) {
-                correctAnswers++;
-            }
-        } else {
-            const correctOption = questionDiv.querySelector(`input[value="${correctAnswer}"]`).nextSibling.textContent;
-            userAnswers.push({ question, userAnswer: "Chưa chọn", correctAnswer: correctOption });
+        if (selectedOption.value.toString() === correctAnswer.toString()) {
+            correctAnswers++;
         }
     });
 
@@ -186,3 +192,10 @@ function submitExam() {
     document.getElementById("submit-btn").style.display = "none";
     isExamInProgress = false;
 }
+
+// Call enableSubmitOnlyIfAllAnswered whenever an answer is selected
+document.addEventListener("change", event => {
+    if (event.target.type === "radio") {
+        enableSubmitOnlyIfAllAnswered();
+    }
+});
