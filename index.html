@@ -3,29 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Làm bài kiểm tra</title>
+    <title>TTHCM</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Làm bài kiểm tra</h1>
-    <div class="button-container">
-        <button onclick="startExam('data/bai1.json')">Bài 1</button>
-        <button onclick="startExam('data/bai2.json')">Bài 2</button>
-        <button onclick="startExam('data/bai3.json')">Bài 3</button>
-        <button onclick="startExam('data/bai4.json')">Bài 4</button>
-        <button onclick="startExam('data/bai5.json')">Bài 5</button>
-        <button onclick="startExam('data/bai6.json')">Bài 6</button>
-        <!-- Nút kiểm tra bài cuối -->
-        <button onclick="startExamForAll()">Kiểm tra bài cuối</button>
-    </div>
+    <header>
+    </header>
 
-    <div id="questions" class="question-container"></div>
-    <button id="submit-btn" onclick="submitExam()" style="display:none;">Nộp bài</button>
-    
-    <div id="result" class="result-container" style="display:none;">
-        <p id="score"></p>
-        <div id="details"></div>
-    </div>
+    <main>
+        <div class="button-container">
+            <button onclick="startExam('data/bai1.json')">Bài 1</button>
+            <button onclick="startExam('data/bai2.json')">Bài 2</button>
+            <button onclick="startExam('data/bai3.json')">Bài 3</button>
+            <button onclick="startExam('data/bai4.json')">Bài 4</button>
+            <button onclick="startExam('data/bai5.json')">Bài 5</button>
+            <button onclick="startExam('data/bai6.json')">Bài 6</button>
+            <!-- Nút kiểm tra bài cuối -->
+            <button onclick="startExamForAll()">Kiểm tra bài cuối</button>
+        </div>
+
+        <div id="timer" class="timer-container">Thời gian sẽ được hiển thị tại đây.</div>
+
+        <div id="questions" class="question-container"></div>
+
+        <div id="submit-container" class="submit-container">
+            <!-- Thông báo chưa trả lời đủ -->
+            <div id="submit-message" style="display: none; color: red; margin-bottom: 10px;">
+                Bạn phải trả lời đầy đủ tất cả các câu hỏi trước khi nộp bài.
+            </div>
+            <button id="submit-btn" onclick="submitExam()" style="display: none;">Nộp bài</button>
+        </div>
+
+        <div id="result" class="result-container" style="display: none;">
+            <p id="score"></p>
+            <div id="details"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Nguyễn Văn Hiếu</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
