@@ -1010,18 +1010,7 @@
           ],
           "correct_answer": 4
       },
-      {
-          "id": 87,
-          "question_direction": "Trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh, thời kỳ Hồ Chí Minh tiếp thu truyền thống tốt đẹp của quê hương, gia đình và của dân tộc hình thành nên tư tưởng yêu nước và tìm đường cứu nước là?",
-          "question_type": "radio",
-          "answer_option": [
-              { "id": "1", "value": "Thời kỳ 1911-1920" },
-              { "id": "2", "value": "Thời kỳ 1920-1930" },
-              { "id": "3", "value": "Thời kỳ 1930 - 1941" },
-              { "id": "4", "value": "Thời kỳ trước năm 1911" }
-          ],
-          "correct_answer": 4
-      },
+      
       {
           "id": 88,
           "question_direction": "Nguyễn Ái Quốc viết 'Bản án chế độ thực dân Pháp' được xuất bản vào thời gian nào?",
