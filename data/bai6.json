@@ -289,6 +289,264 @@
         { "id": "4", "value": "Đạo đức." }
       ],
       "correct_answer": "4"
-    }
+    },
+    
+    {
+      "id": 24,
+      "question_direction": "Cụm từ nào điền vào chỗ trống trong câu nói của Hồ Chí Minh: “Thực hành đoàn kết rộng rãi, chặt chẽ, lâu dài trên cơ sở ...”?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Chủ nghĩa dân tộc chân chính" },
+        { "id": "2", "value": "Đoàn kết quốc tế" },
+        { "id": "3", "value": "Lợi ích cách mạng" },
+        { "id": "4", "value": "Đạo đức cách mạng." }
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 25,
+      "question_direction": "Theo Hồ Chí Minh, mục tiêu cuối cùng của cách mạng Việt Nam là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Giành độc lập dân tộc" },
+        { "id": "2", "value": "Xây dựng chủ nghĩa xã hội" },
+        { "id": "3", "value": "Đem lại tự do, hạnh phúc cho nhân dân" },
+        { "id": "4", "value": "Xây dựng Đảng trong sạch, vững mạnh." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 26,
+      "question_direction": "Hồ Chí Minh đã đưa ra nguyên tắc nào để xây dựng khối đại đoàn kết dân tộc?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Bình đẳng giữa các giai cấp" },
+        { "id": "2", "value": "Lấy lợi ích quốc gia làm trọng tâm" },
+        { "id": "3", "value": "Trên nền tảng liên minh công-nông" },
+        { "id": "4", "value": "Tôn trọng quyền tự do tín ngưỡng của nhân dân." }
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 27,
+      "question_direction": "Hồ Chí Minh quan niệm, đạo đức cách mạng cốt lõi là gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Tinh thần hy sinh" },
+        { "id": "2", "value": "Trung với nước, hiếu với dân" },
+        { "id": "3", "value": "Không màng danh lợi" },
+        { "id": "4", "value": "Kiên định lập trường." }
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 28,
+      "question_direction": "Theo tư tưởng Hồ Chí Minh, giáo dục cần nhằm mục tiêu gì?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đào tạo con người toàn diện" },
+        { "id": "2", "value": "Đào tạo công dân yêu nước" },
+        { "id": "3", "value": "Đào tạo cán bộ cho Đảng" },
+        { "id": "4", "value": "Đào tạo nguồn nhân lực kỹ thuật." }
+      ],
+      "correct_answer": "1"
+    },
+    {
+      "id": 29,
+      "question_direction": "Trong tư tưởng Hồ Chí Minh, điều gì làm nên thành công lớn nhất của cách mạng Việt Nam?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Đoàn kết nhân dân" },
+        { "id": "2", "value": "Sự lãnh đạo sáng suốt của Đảng" },
+        { "id": "3", "value": "Liên minh công - nông" },
+        { "id": "4", "value": "Sự ủng hộ của quốc tế." }
+      ],
+      "correct_answer": "1"
+    },
+    {
+      "id": 30,
+      "question_direction": "Theo Hồ Chí Minh, cán bộ cần phải có phẩm chất gì quan trọng nhất?",
+      "question_type": "radio",
+      "answer_option": [
+        { "id": "1", "value": "Chuyên môn vững" },
+        { "id": "2", "value": "Trung thực và liêm khiết" },
+        { "id": "3", "value": "Đạo đức cách mạng" },
+        { "id": "4", "value": "Khả năng lãnh đạo." }
+      ],
+      "correct_answer": "3"
+    },
+    {
+        "id": 31,
+        "question_direction": "Theo Hồ Chí Minh, việc học tập phải gắn với cái gì?",
+        "question_type": "radio",
+        "answer_option": [
+          { "id": "1", "value": "Học tập để thành công" },
+          { "id": "2", "value": "Học tập để phục vụ nhân dân" },
+          { "id": "3", "value": "Học tập để thăng tiến" },
+          { "id": "4", "value": "Học tập để giành giải thưởng." }
+        ],
+        "correct_answer": "2"
+      },
+        {
+          "id": 32,
+          "question_direction": "Theo Hồ Chí Minh, lòng yêu nước phải gắn liền với điều gì?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Cống hiến cho sự nghiệp cách mạng" },
+            { "id": "2", "value": "Làm giàu cho bản thân" },
+            { "id": "3", "value": "Xây dựng đất nước giàu mạnh" },
+            { "id": "4", "value": "Tham gia công tác từ thiện." }
+          ],
+          "correct_answer": "1"
+        },
+        {
+          "id": 33,
+          "question_direction": "Theo Hồ Chí Minh, người cách mạng phải có phẩm chất nào quan trọng nhất?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Tính trung thực" },
+            { "id": "2", "value": "Lòng yêu nước" },
+            { "id": "3", "value": "Tinh thần quốc tế" },
+            { "id": "4", "value": "Đạo đức cách mạng." }
+          ],
+          "correct_answer": "4"
+        },
+        {
+          "id": 34,
+          "question_direction": "Theo Hồ Chí Minh, chúng ta phải làm gì để phát triển đất nước?",
+          "question_type": "radio",
+          "answer_option": [
+            { "id": "1", "value": "Xây dựng nền tảng vững chắc về giáo dục" },
+            { "id": "2", "value": "Đảm bảo bình đẳng xã hội" },
+            { "id": "3", "value": "Cải cách chính trị" },
+            { "id": "4", "value": "Phát triển nền kinh tế tự chủ." }
+          ],
+          "correct_answer": "1"
+        },
+            {
+              "id": 35,
+              "question_direction": "Theo Hồ Chí Minh, phương pháp học tập đúng đắn là gì?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Học suông mà không áp dụng" },
+                { "id": "2", "value": "Học lý thuyết kết hợp với thực hành" },
+                { "id": "3", "value": "Chỉ học trong sách vở" },
+                { "id": "4", "value": "Học qua những kinh nghiệm thực tế." }
+              ],
+              "correct_answer": "2"
+            },
+            {
+              "id": 36,
+              "question_direction": "Theo Hồ Chí Minh, điều gì là nền tảng của sự nghiệp cách mạng?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Đoàn kết toàn dân" },
+                { "id": "2", "value": "Tinh thần tự lực cánh sinh" },
+                { "id": "3", "value": "Sự lãnh đạo của Đảng" },
+                { "id": "4", "value": "Tinh thần yêu nước." }
+              ],
+              "correct_answer": "3"
+            },
+            {
+              "id": 37,
+              "question_direction": "Theo Hồ Chí Minh, tinh thần yêu nước được thể hiện qua hành động nào?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Phê phán mọi sai lầm" },
+                { "id": "2", "value": "Tích cực tham gia công tác xã hội" },
+                { "id": "3", "value": "Thực hiện các nghĩa vụ quốc tế" },
+                { "id": "4", "value": "Đóng góp công sức vào sự nghiệp giải phóng dân tộc." }
+              ],
+              "correct_answer": "4"
+            },
+            {
+              "id": 38,
+              "question_direction": "Theo Hồ Chí Minh, mục tiêu của cách mạng Việt Nam là gì?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Độc lập dân tộc" },
+                { "id": "2", "value": "Hòa bình thế giới" },
+                { "id": "3", "value": "Cải cách xã hội" },
+                { "id": "4", "value": "Xây dựng chủ nghĩa xã hội." }
+              ],
+              "correct_answer": "1"
+            },
+            {
+              "id": 39,
+              "question_direction": "Theo Hồ Chí Minh, dân chủ là gì?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Quyền tự do ngôn luận" },
+                { "id": "2", "value": "Quyền làm chủ của nhân dân" },
+                { "id": "3", "value": "Tự do trong mọi hoạt động xã hội" },
+                { "id": "4", "value": "Tự do chính trị." }
+              ],
+              "correct_answer": "2"
+            },
+            {
+              "id": 40,
+              "question_direction": "Theo Hồ Chí Minh, điều gì quan trọng nhất để xây dựng xã hội mới?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Cải cách chính trị" },
+                { "id": "2", "value": "Phát triển công nghiệp" },
+                { "id": "3", "value": "Giải quyết vấn đề kinh tế" },
+                { "id": "4", "value": "Xây dựng đạo đức cách mạng." }
+              ],
+              "correct_answer": "4"
+            },
+            {
+              "id": 41,
+              "question_direction": "Theo Hồ Chí Minh, cán bộ phải làm gì để thực hiện nhiệm vụ của mình?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Tuân thủ pháp luật" },
+                { "id": "2", "value": "Làm việc chăm chỉ và tận tụy" },
+                { "id": "3", "value": "Phát huy sáng tạo trong công tác" },
+                { "id": "4", "value": "Tất cả các đáp án trên." }
+              ],
+              "correct_answer": "4"
+            },
+            {
+              "id": 42,
+              "question_direction": "Theo Hồ Chí Minh, yêu cầu quan trọng đối với cán bộ trong công tác lãnh đạo là gì?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Phải luôn luôn học hỏi" },
+                { "id": "2", "value": "Phải có trình độ chuyên môn vững vàng" },
+                { "id": "3", "value": "Phải hiểu rõ tâm lý quần chúng" },
+                { "id": "4", "value": "Phải luôn giữ vững phẩm chất đạo đức." }
+              ],
+              "correct_answer": "4"
+            },
+            {
+              "id": 43,
+              "question_direction": "Theo Hồ Chí Minh, cách mạng không thể thành công nếu thiếu điều gì?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Sự lãnh đạo của Đảng" },
+                { "id": "2", "value": "Sự đoàn kết dân tộc" },
+                { "id": "3", "value": "Sự tham gia của nhân dân" },
+                { "id": "4", "value": "Tất cả các đáp án trên." }
+              ],
+              "correct_answer": "4"
+            },
+            {
+              "id": 44,
+              "question_direction": "Theo Hồ Chí Minh, đạo đức cách mạng có mối quan hệ thế nào với công tác cán bộ?",
+              "question_type": "radio",
+              "answer_option": [
+                { "id": "1", "value": "Là yếu tố quyết định sự thành công" },
+                { "id": "2", "value": "Là công cụ để thực hiện nhiệm vụ" },
+                { "id": "3", "value": "Là nền tảng của mọi hoạt động" },
+                { "id": "4", "value": "Là điều kiện để phát triển kinh tế." }
+              ],
+              "correct_answer": "3"
+            }
+          
+          
+      
+      
   ]
+  
   
