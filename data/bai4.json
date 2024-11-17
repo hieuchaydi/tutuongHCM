@@ -225,7 +225,7 @@
         { "id": "3", "value": "Công nhân" },
         { "id": "4", "value": "Toàn dân" }
       ],
-      "correct_answer": 4
+      "correct_answer": 2
     },
     {
       "id": 20,
@@ -321,7 +321,7 @@
           { "id": "3", "value": "Đầy tớ" },
           { "id": "4", "value": "Lãnh đạo" }
         ],
-        "correct_answer": 1
+        "correct_answer": 3
       },
       {
         "id": 28,
